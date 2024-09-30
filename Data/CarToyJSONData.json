@@ -1,0 +1,392 @@
+{
+    "shopId": 72456929601,
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "merchantCapabilities": [
+        "supports3DS"
+    ],
+    "merchantId": "gid://shopify/Shop/72456929601",
+    "merchantName": "Car Toys",
+    "requiredBillingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "requiredShippingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "shippingType": "shipping",
+    "supportedNetworks": [
+        "visa",
+        "masterCard",
+        "amex",
+        "discover",
+        "elo",
+        "jcb"
+    ],
+    "total": {
+        "type": "pending",
+        "label": "Car Toys",
+        "amount": "1.00"
+    },
+    "shopifyPaymentsEnabled": true,
+    "supportsSubscriptions": true
+}{
+    "accessToken": "bf7ea4897c1f6e12247d5632ad1c56e0",
+    "betas": [
+        "rich-media-storefront-analytics"
+    ],
+    "domain": "cartoys.com",
+    "predictiveSearch": true,
+    "shopId": 72456929601,
+    "smart_payment_buttons_url": "https://cartoys.com/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js",
+    "dynamic_checkout_cart_url": "https://cartoys.com/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js",
+    "locale": "en"
+}{}{
+    "pageType": "product"
+}{
+    "a": 72456929601,
+    "offset": -25200,
+    "reqid": "f1a224b5-b3a4-44da-8532-b568cb94f0a8-1727521482",
+    "pageurl": "cartoys.com/products/sony-xav-ax4000",
+    "u": "7400c2cbb81b",
+    "p": "product",
+    "rtyp": "product",
+    "rid": 8275290882369
+}{}{
+    "container": "#slide-sections--22419694125377__announcement-bar .js-slider",
+    "axis": "horizontal",
+    "autoHeight": true,
+    "autoWidth": false,
+    "loop": true,
+    "center": false,
+    "controls": false,
+    "controlsContainer": false,
+    "nav": false,
+    "mouseDrag": true,
+    "touch": true,
+    "swipeAnlge": 50,
+    "navPosition": "bottom",
+    "navContainer": false,
+    "navAsThumbnails": false,
+    "preventActionWhenRunning": false,
+    "preventScrollOnTouch": false,
+    "items": 1,
+    "gutter": "0",
+    "autoplayButtonOutput": false,
+    "autoplay": true,
+    "autoplayTimeout": 4000,
+    "responsive": {
+        "0": {
+            "items": 1,
+            "gutter": "0",
+            "disable": false
+        },
+        "750": {
+            "items": 1,
+            "gutter": "0",
+            "disable": false
+        },
+        "1000": {
+            "items": 1,
+            "gutter": "0",
+            "disable": false
+        },
+        "1300": {
+            "items": 1,
+            "gutter": "0",
+            "disable": false
+        }
+    }
+}{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Car Toys",
+    "logo": "https://cartoys.com/cdn/shop/files/Layer_1.svg?v=1719540750&width=2246",
+    "sameAs": [
+        "https://www.facebook.com/CarToysOnline",
+        "https://www.instagram.com/cartoys/",
+        "https://twitter.com/cartoys",
+        "https://www.youtube.com/@cartoys"
+    ],
+    "url": "https://cartoys.com"
+}{
+    "container": "#slideMain-template--22419696091457__main8275290882369 .js-slider",
+    "axis": "horizontal",
+    "autoHeight": true,
+    "autoWidth": false,
+    "loop": false,
+    "center": false,
+    "controls": true,
+    "controlsContainer": "#slideMain-template--22419696091457__main8275290882369 .js-slider-controls",
+    "nav": false,
+    "mouseDrag": true,
+    "touch": true,
+    "swipeAnlge": 50,
+    "navPosition": "bottom",
+    "navContainer": false,
+    "navAsThumbnails": false,
+    "preventActionWhenRunning": false,
+    "preventScrollOnTouch": false,
+    "items": 1,
+    "gutter": "20",
+    "autoplayButtonOutput": false,
+    "responsive": {
+        "0": {
+            "items": 1,
+            "gutter": "20",
+            "disable": false
+        },
+        "750": {
+            "items": 1,
+            "gutter": "20",
+            "disable": false
+        },
+        "1000": {
+            "items": 1,
+            "gutter": "20",
+            "disable": false
+        },
+        "1300": {
+            "items": 1,
+            "gutter": "20",
+            "disable": false
+        }
+    }
+}{
+    "container": "#slideThumb-template--22419696091457__main8275290882369 .js-slider",
+    "axis": "horizontal",
+    "autoHeight": false,
+    "autoWidth": false,
+    "loop": false,
+    "center": false,
+    "controls": true,
+    "controlsContainer": "#slideThumb-template--22419696091457__main8275290882369 .js-slider-controls",
+    "nav": false,
+    "mouseDrag": true,
+    "touch": true,
+    "swipeAnlge": 50,
+    "navPosition": "bottom",
+    "navContainer": false,
+    "navAsThumbnails": false,
+    "preventActionWhenRunning": false,
+    "preventScrollOnTouch": false,
+    "items": 4,
+    "gutter": "10",
+    "autoplayButtonOutput": false,
+    "responsive": {
+        "0": {
+            "items": 4,
+            "gutter": "10",
+            "disable": false
+        },
+        "750": {
+            "items": 4,
+            "gutter": "10",
+            "disable": false
+        },
+        "1000": {
+            "items": 4,
+            "gutter": "10",
+            "disable": false
+        },
+        "1300": {
+            "items": 4,
+            "gutter": "10",
+            "disable": false
+        }
+    }
+}{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Default Title",
+            "availability": "https://schema.org/InStock",
+            "price": 499.99,
+            "priceCurrency": "USD",
+            "priceValidUntil": "2024-10-08",
+            "sku": "XAVAX4000",
+            "url": "/products/sony-xav-ax4000?variant=45059140976961"
+        }
+    ],
+    "gtin12": "027242923447",
+    "productId": "027242923447",
+    "brand": {
+        "name": "Sony"
+    },
+    "name": "Sony XAV-AX4000 6.95\" Media Receiver with Wireless Apple CarPlay and Android Auto",
+    "description": "\n\n\nSony XAV-AX4000 6.95\" Media Receiver with Wireless Apple CarPlay and Android Auto\nFeatures\nEnhanced in-car connectivity and sound customizationEnjoy smooth and simple control for every journey. An anti-glare 17.6cm (6.95\") diagonal touchscreen and updated interface design give you intuitive control over music, communications and more. Expanded wireless connectivity, plus time-alignment and a 14-band EQ, allow for even more personalization and the perfect in-car audio experience.\nAnti-glare sleek touchscreenThe anti-glare 17.6cm (6.95\") touchscreen and clean interface design ensure a stylish and efficient user experience.\nWireless Smartphone Conversion\nThanks to a Wi-Fi connection to your smartphone, together with the supplied GPS antenna, you can use voice control to navigate, communicate and play music on the road even with your device in your pocket.1\n\n\n\n\n\n\n\n\n\n\n\nApple CarPlay\nEasily access iPhone features you know and love, just by talking to Siri. Music, maps, phone calls and messages are all under your control.2,3\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndroid Auto\nUse commands to dictate messages, take phone calls or get help from Google Maps. You can even control music playback just by talking. Wireless connection available depending on your smartphone, country or region.3,4\n\n\n\n\n\n\n\n\nLDAC for exceptional sound quality\nEnjoy the convenience of Bluetooth\u00ae wireless audio and exceptional sound quality thanks to LDAC. Connect compatible devices to stream audio at 96 kHz / 24-bit sampling with bitrates up to 3x higher (990 kbps) than conventional Bluetooth\u00ae.6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimple button controls with improved design\nThe new button design features large keys to seamlessly fit with the sleek display. Access volume, source, sound settings and voice control, for safe and easy operation on the road.7\n\n\n\n\n\n\n\n\n\n\n\n\n\nRear-view camera-ready\nHave a rear camera installed\" You can view its feed through the screen, along with customizable guidelines to help you reverse safely.\n\n\n\n\n\n\n\n\nUpdated User Interface with customizable wallpaper\nCustomize the new ergonomic user interface to suit your car interior or taste, with 4 preset and 2 manual wallpaper color settings.\n\n\n\n\n\n\n\n\n\n\n\nFrom left to right: solid black / cherry wood / saddle leather / blue canvas.\n\n\n\n\n\n\n\n\n\n\n\nEasy installation, with a compact rear chassis\nDespite its double-DIN display, the rear chassis is far smaller than conventional double-DIN units. This makes for much easier installation and leaves plenty of room for cables and other accessories in the space behind the display.\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuick Wake-up\nWith the Quick Wake-up feature, you\u2019re ready to go right after turning on the ignition.8\n\n\n\n\n\n\n\n\nSiriusXM\u00ae Radio Ready\nConnect your SiriusXM\u00ae Radio satellite tuner (not supplied) to enjoy commercial-free music, sports, news and entertainment.3\n1 Feature availability varies by countries, regions and connected devices.\n2 Apple, Apple CarPlay and Siri are trademarks of Apple Inc. Apple and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries.\n3 Download app at Google Play and the App Store. Network services, content, and operating system and software subject to terms and conditions and may be changed, interrupted or discontinued at any time and may require fees, registration and credit card information.\n4 USB connection requires Android Auto app on Google Play and on Android-compatible smartphones running Android 6.0 Marshmallow or higher. Wireless connection available depending on your device, country or region. Learn more at:  https://support.google.com/androidauto/answer/6348019\" hl=en&amp;ref_topic=6348027 Android Auto may not be available on all devices and is not available in all countries or regions. Google, Android, Android Auto, and Google Play are trademarks of Google LLC.\n5 Maestro\u00ae RR and RR2 sold separately. Features vary by vehicle. For details, visit http://maestro.idatalink.com/ iDatalink\u00ae Maestro\u00ae are registered trademarks of Automotive Data Solutions Inc.\n6 Interoperability and compatibility among Bluetooth\u00ae devices vary.\n7 Please consult your dealer for installation.\n8 Less than 8 seconds. Time measured approximately until safety caution is displayed.\n\n\n",
+    "category": "Misc",
+    "url": "/products/sony-xav-ax4000",
+    "sku": "XAVAX4000",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cartoys.com/cdn/shop/files/sony-xav-ax4000-695-media-receiver-with-wireless-apple-carplay-and-android-auto-994143_1024x.jpg?v=1724536659",
+        "image": "https://cartoys.com/cdn/shop/files/sony-xav-ax4000-695-media-receiver-with-wireless-apple-carplay-and-android-auto-994143_1024x.jpg?v=1724536659",
+        "name": "Sony XAV-AX4000 6.95\" Media Receiver with Wireless Apple CarPlay and Android Auto",
+        "width": "1024",
+        "height": "1024"
+    }
+}{
+    "container": "#slide-template--22419696091457__e386f9fd-67f0-4d04-bdcf-7cc87c511a6f .js-slider",
+    "slidesPerView": 1.2,
+    "spaceBetween": "8px",
+    "loop": false,
+    "navigation": {
+        "nextEl": "#slide-template--22419696091457__e386f9fd-67f0-4d04-bdcf-7cc87c511a6f .js-next-button",
+        "prevEl": "#slide-template--22419696091457__e386f9fd-67f0-4d04-bdcf-7cc87c511a6f .js-prev-button"
+    },
+    "pagination": {
+        "el": "#slide-template--22419696091457__e386f9fd-67f0-4d04-bdcf-7cc87c511a6f .slide-paginate-fraction",
+        "clickable": true,
+        "type": "fraction"
+    },
+    "scrollbar": {
+        "el": "#slide-template--22419696091457__e386f9fd-67f0-4d04-bdcf-7cc87c511a6f .swiper-scrollbar",
+        "hide": false,
+        "draggable": true,
+        "snapOnRelease": true
+    },
+    "autoHeight": false,
+    "autoWidth": false,
+    "center": false,
+    "breakpoints": {
+        "0": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "8px",
+            "enabled": true
+        },
+        "575": {
+            "slidesPerView": 2.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "992": {
+            "slidesPerView": 3.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1200": {
+            "slidesPerView": 4.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1500": {
+            "slidesPerView": 5.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        }
+    },
+    "gridClass": "flex-1-2 flex-md-2-2 flex-lg-3-5 flex-xl-4-5 flex5-5 flex-gap"
+}{
+    "container": "#slide-template--22419696091457__bfbbca51-bafe-4cdc-a436-016b679afaaa .js-slider",
+    "slidesPerView": 1.2,
+    "spaceBetween": "8px",
+    "loop": false,
+    "navigation": {
+        "nextEl": "#slide-template--22419696091457__bfbbca51-bafe-4cdc-a436-016b679afaaa .js-next-button",
+        "prevEl": "#slide-template--22419696091457__bfbbca51-bafe-4cdc-a436-016b679afaaa .js-prev-button"
+    },
+    "pagination": {
+        "el": "#slide-template--22419696091457__bfbbca51-bafe-4cdc-a436-016b679afaaa .slide-paginate-fraction",
+        "clickable": true,
+        "type": "fraction"
+    },
+    "scrollbar": {
+        "el": "#slide-template--22419696091457__bfbbca51-bafe-4cdc-a436-016b679afaaa .swiper-scrollbar",
+        "hide": false,
+        "draggable": true,
+        "snapOnRelease": true
+    },
+    "autoHeight": false,
+    "autoWidth": false,
+    "center": false,
+    "breakpoints": {
+        "0": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "8px",
+            "enabled": true
+        },
+        "575": {
+            "slidesPerView": 2.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "992": {
+            "slidesPerView": 3.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1200": {
+            "slidesPerView": 4.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1500": {
+            "slidesPerView": 5.5,
+            "spaceBetween": "16px",
+            "enabled": true
+        }
+    },
+    "gridClass": "flex-1-2 flex-md-2-2 flex-lg-3-5 flex-xl-4-5 flex5-5 flex-gap"
+}{
+    "container": "#cartRecommendSlide-cart-section .js-slider",
+    "slidesPerView": 1.2,
+    "spaceBetween": "16px",
+    "loop": false,
+    "scrollbar": {
+        "el": "#cartRecommendSlide-cart-section .swiper-scrollbar",
+        "hide": false,
+        "draggable": true,
+        "snapOnRelease": true
+    },
+    "autoHeight": false,
+    "autoWidth": false,
+    "center": false,
+    "breakpoints": {
+        "0": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "575": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "992": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1200": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        },
+        "1500": {
+            "slidesPerView": 1.2,
+            "spaceBetween": "16px",
+            "enabled": true
+        }
+    },
+    "gridClass": "flex-1-2"
+}{
+    "accessToken": "pk.eyJ1IjoibnRyYW45NiIsImEiOiJja25rNHBqbzkwN2l0MnFueHpsampvZmJiIn0.VqVNyGHWEfE2T0FFn5T_iQ",
+    "startPoint": [
+        -96.30234770866443,
+        41.46515644228218
+    ],
+    "zoom": "3"
+}{
+    "accessToken": "pk.eyJ1IjoibnRyYW45NiIsImEiOiJja25rNHBqbzkwN2l0MnFueHpsampvZmJiIn0.VqVNyGHWEfE2T0FFn5T_iQ",
+    "startPoint": [
+        -96.30234770866443,
+        41.46515644228218
+    ],
+    "zoom": "3"
+}

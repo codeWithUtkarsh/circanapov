@@ -1,0 +1,241 @@
+{
+    "props": {
+        "pageProps": {},
+        "formFactor": "desktop",
+        "hasWebpSupport": true,
+        "isBot": false,
+        "sapphireInstance": {
+            "serviceName": "digital-web",
+            "qualifiedExperiments": {
+                "ch": [],
+                "dt": "",
+                "vid": "",
+                "pages": [
+                    {
+                        "svc": [
+                            {
+                                "name": "digital-web",
+                                "h": "1bf69ceb85ab49688b9f3097971bcb9c",
+                                "payload": [
+                                    {
+                                        "tid": "1a59b4b0-b700-48b6-b759-7d89219af868",
+                                        "pl": [
+                                            {
+                                                "placement": "adaptpdp_sponsored_items",
+                                                "replacement_placement": "adaptpdp_sponsored_items_14624_V2"
+                                            }
+                                        ],
+                                        "et": "2024-10-16T04:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "51908a5b-41a9-4afe-b825-ecc83af2eb1d",
+                                        "pl": [
+                                            {
+                                                "MY_DUMMY_FEATURE_FLAG": false
+                                            }
+                                        ],
+                                        "et": "2025-01-01T05:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "798f9463-78aa-4ed1-90d0-0c49d55a619d",
+                                        "pl": [
+                                            {
+                                                "AA_TEST_PDP": true
+                                            }
+                                        ],
+                                        "et": "2024-10-01T04:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "b1f66b2b-3b9f-4ed9-929a-9f487636d595",
+                                        "pl": [
+                                            {
+                                                "SHOW_REGISTRY_PRIVATE_ITEMS": false
+                                            }
+                                        ],
+                                        "et": "2025-01-01T05:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "b8588bc0-4d2f-436b-9811-a6f4def82065",
+                                        "pl": [
+                                            {
+                                                "GLOBAL_BUY_NOW_FROM_PDP_ENABLED": true,
+                                                "GLOBAL_BUY_NOW_REFACTOR_ENABLED": true
+                                            }
+                                        ],
+                                        "et": "2025-03-27T04:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "c6bbd104-d42d-42f1-af0a-87d4c1537aa8",
+                                        "pl": [
+                                            {
+                                                "sb-autocomplete-service": "llm"
+                                            }
+                                        ],
+                                        "et": "2024-10-02T16:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "dafca239-2e7c-469a-9f0b-57471f22a45e",
+                                        "pl": [
+                                            {
+                                                "placement": "adaptpdph3",
+                                                "replacement_placement": "adaptpdph3_11840_V2"
+                                            }
+                                        ],
+                                        "et": "2024-10-12T04:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "e0d26bc8-b6e3-43e8-8f12-cd7a14228277",
+                                        "pl": [
+                                            {
+                                                "ONE_DAY_DELIVERY_ENABLED": true
+                                            }
+                                        ],
+                                        "et": "2025-01-22T21:00:00.999Z"
+                                    },
+                                    {
+                                        "tid": "ef089cf5-47ac-4c28-bb6d-0d67e7889c12",
+                                        "pl": [
+                                            {
+                                                "DIGITAL_GIFT_MESSAGE_FOR_SAME_DAY_DELIVERY_ENABLED": false
+                                            }
+                                        ],
+                                        "et": "2025-01-01T05:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "f371321e-60c0-46a1-8a22-22485ec7f480",
+                                        "pl": [
+                                            {
+                                                "MONTHLY_MEMBERSHIP_ENABLED": true
+                                            }
+                                        ],
+                                        "et": "2025-06-01T04:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "f51a9944-a24e-4ef8-aef4-8b68a665cbf8",
+                                        "pl": [
+                                            {
+                                                "TRIDENT_ENABLED": true
+                                            }
+                                        ],
+                                        "et": "2025-01-01T05:59:59.999Z"
+                                    },
+                                    {
+                                        "tid": "f60c72d7-f0cb-43ec-88b2-6c3f2a37d97d",
+                                        "pl": [
+                                            {
+                                                "ITEM_GRAPHQL_ENABLED": true
+                                            }
+                                        ],
+                                        "et": "2025-01-01T05:59:59.999Z"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "initialExperimentTrackingDetails": {
+                "tr": [
+                    {
+                        "qe": "d7fafb97-3a38-4ad9-bc3c-8e5074c3fa7c",
+                        "qt": "e0d26bc8-b6e3-43e8-8f12-cd7a14228277",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "cdefa00c-a2a0-4f8f-9ee6-d7b26e7a0735",
+                        "qt": "b8588bc0-4d2f-436b-9811-a6f4def82065",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "52d1f919-8b1f-4edf-b55e-bd79e7028bae",
+                        "qt": "dafca239-2e7c-469a-9f0b-57471f22a45e",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "6c955d35-e011-4989-bba3-fc56c7a052d2",
+                        "qt": "798f9463-78aa-4ed1-90d0-0c49d55a619d",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "dd73b962-62a4-4f9a-af3c-f1f89fd3ab04",
+                        "qt": "1a59b4b0-b700-48b6-b759-7d89219af868",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "f81dab60-73ef-4f71-8fb5-fe45aa7ec73c",
+                        "qt": "f60c72d7-f0cb-43ec-88b2-6c3f2a37d97d",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "913c730d-c89a-4efc-9da5-ba7bae86a920",
+                        "qt": "f51a9944-a24e-4ef8-aef4-8b68a665cbf8",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "9133c3a6-a416-4778-b208-29abddb0a312",
+                        "qt": "f371321e-60c0-46a1-8a22-22485ec7f480",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "a823a1e8-9e53-42b3-ac7d-78a1a9a6ed8f",
+                        "qt": "b1f66b2b-3b9f-4ed9-929a-9f487636d595",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "77067681-41ac-40b7-8450-ee085e267bae",
+                        "qt": "c6bbd104-d42d-42f1-af0a-87d4c1537aa8",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "6421efd8-66f0-4ed3-93f2-08ec8c508b05",
+                        "qt": "ef089cf5-47ac-4c28-bb6d-0d67e7889c12",
+                        "qp": 1
+                    },
+                    {
+                        "qe": "541d96aa-4bb0-43f4-92a7-5d42ecfa6e72",
+                        "qt": "51908a5b-41a9-4afe-b825-ecc83af2eb1d",
+                        "qp": 1
+                    }
+                ]
+            },
+            "computedFlags": {
+                "MY_DUMMY_FEATURE_FLAG": false,
+                "AA_TEST_PDP": true,
+                "SHOW_REGISTRY_PRIVATE_ITEMS": false,
+                "GLOBAL_BUY_NOW_FROM_PDP_ENABLED": true,
+                "GLOBAL_BUY_NOW_REFACTOR_ENABLED": true,
+                "ONE_DAY_DELIVERY_ENABLED": true,
+                "DIGITAL_GIFT_MESSAGE_FOR_SAME_DAY_DELIVERY_ENABLED": false,
+                "MONTHLY_MEMBERSHIP_ENABLED": true,
+                "TRIDENT_ENABLED": true,
+                "ITEM_GRAPHQL_ENABLED": true
+            },
+            "variants": {
+                "placement": "adaptpdph3",
+                "replacement_placement": "adaptpdph3_11840_V2",
+                "sb-autocomplete-service": "llm"
+            }
+        }
+    },
+    "page": "/p/[...subpath]",
+    "query": {
+        "subpath": [
+            "-",
+            "A-24007088"
+        ]
+    },
+    "buildId": "60d687ac1a627950d28d7f3d9a74ddab9265e1ba-standard",
+    "assetPrefix": "https://assets.targetimg1.com/webui/top-of-funnel",
+    "isFallback": false,
+    "dynamicIds": [
+        87858,
+        15708,
+        43628,
+        36267,
+        41971,
+        58225
+    ],
+    "gip": true,
+    "appGip": true,
+    "scriptLoader": []
+}

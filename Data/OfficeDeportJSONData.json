@@ -1,0 +1,822 @@
+{
+    "brand": "od",
+    "realTimeEnabled": "true",
+    "realTimeUrl": "https://realtime.officedepot.com/rt?",
+    "realTimeSite": "bAEQTsC",
+    "realTimeKey": "rt_od_prod",
+    "microApps": "https://ma.officedepot.com/",
+    "jSessionID": "0000y8T2KvLZvcvRIkSacpz8FIp",
+    "cloneID": "17h4h7b45",
+    "jsessionCookie": "false",
+    "loggedInState": "false",
+    "askToken": "",
+    "recognized": "false",
+    "MasterTmsUdo": {
+        "promo_id": "6",
+        "user_id": "",
+        "store_zip": "95118",
+        "store_id": "6209",
+        "store_address": "1130 BLOSSOM HILL ROAD",
+        "reward_member_id": "",
+        "rewards_member": "false",
+        "site_type": "Desktop",
+        "business_unit": "Consumer",
+        "reliableAccount": "false",
+        "loyaltyCustomerType": "",
+        "loyaltyPilotCustomer": "false",
+        "loyaltyPilot2Customer": "false",
+        "loyaltyRewardsCertificate": "false",
+        "loyaltyTierType": "EXECUTIVE",
+        "customerId": "",
+        "pageURL": "https://www.officedepot.com/catalog/catalogsku.do",
+        "pageName": "catalogcatalogsku",
+        "cust_browsing_zip": "95101",
+        "mini_cart": {
+            "prod_ids": "",
+            "prod_names": "",
+            "prod_quantities": "",
+            "prod_amounts": "",
+            "total_quantities": "",
+            "subscriptions_eligible": "",
+            "subscriptions_purchased": ""
+        },
+        "myprofile_avatar": {
+            "customAvatar": "N",
+            "presetAvatar": "N",
+            "industry": ""
+        },
+        "sbAccountStatus": "ELIGIBLE",
+        "promo_cust_type": "",
+        "accountStorePickUpEnabled": "",
+        "userStorePickUpEnabled": "",
+        "thirdPartyCustomerJSEnabled": "true",
+        "loyaltyTierTypePricingCode": "",
+        "loyaltyTypePricingCode": "",
+        "loyaltyNationalCustomer": "true",
+        "currentSBArea": "FREMONT_SC",
+        "firstName": "",
+        "lastName": "",
+        "hasBusinessSelectPayment": "false",
+        "businessSelectExpired": "false",
+        "segment": "",
+        "segmentCode": "",
+        "parent": "",
+        "grandParent": "",
+        "salesRepID": "",
+        "sicCode": "",
+        "coupons": "",
+        "banners": "",
+        "currentShipToState": "",
+        "currentShipToZip": "",
+        "email": "",
+        "hasLegalAgreement": "",
+        "isPastFreeTrialUser": "false",
+        "user_id_md5": "",
+        "user_id_sha256": "",
+        "user_id_sha1": "",
+        "email_md5": "",
+        "email_sha256": "",
+        "email_sha1": "",
+        "csrId": "",
+        "isEmployeeDiscount": "",
+        "onSiteSearchTerm": "",
+        "onsiteSearchTermEntered": "",
+        "contactId": "",
+        "searchResultsCount": "",
+        "customerSegments": null,
+        "productReviewsEnabled": true,
+        "sessionHash": "$2a$10$MmQK.gC3hKqz5kA4dHugzOvs6i6PsSvtZQcjHiVCHA8FvyT0eP2sW",
+        "agentId": null,
+        "backToSchoolLevel": null,
+        "backtoSchoolType": null,
+        "customerType": null,
+        "customCatalogProfileId": 0,
+        "contentLanguage": "en",
+        "jsessionId": "0000y8T2KvLZvcvRIkSacpz8FIp:17h4h7b45",
+        "jclonedId": "17h4h7b45",
+        "internalTrafficFlag": false,
+        "idMeVerified": false,
+        "registrationType": "",
+        "department": "Computers & Accessories",
+        "category": "Laptop Computers",
+        "sub_category": "PC Laptops",
+        "sub_sub_category": "",
+        "cartTotal": "0.000",
+        "pageType": "PRODUCT: ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6 Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows 11 Home,",
+        "brand": "ASUS",
+        "backOrderable": false,
+        "deliveryMinDate": null,
+        "deliveryMaxDate": null,
+        "hijackedSearch": false,
+        "prod_id": "3587544",
+        "prod_img": "https://media.officedepot.com/images//t_large,f_auto/products/3587544/ASUS-Vivobook-Go-E1504FA-OS36-Laptop",
+        "subscription_eligible": "false",
+        "category_id": "1462020",
+        "is_replenished": false,
+        "is_virtual_warehouse": false,
+        "location_id": "3035"
+    },
+    "aiRecZone": "false",
+    "aiRecZoneEndpoint": "https://api.officedepot.io/services/recrnnservice/recModel"
+}{
+    "promo_id": "6",
+    "user_id": "",
+    "store_zip": "95118",
+    "store_id": "6209",
+    "store_address": "1130 BLOSSOM HILL ROAD",
+    "reward_member_id": "",
+    "rewards_member": "false",
+    "site_type": "Desktop",
+    "business_unit": "Consumer",
+    "reliableAccount": "false",
+    "loyaltyCustomerType": "",
+    "loyaltyPilotCustomer": "false",
+    "loyaltyPilot2Customer": "false",
+    "loyaltyRewardsCertificate": "false",
+    "loyaltyTierType": "EXECUTIVE",
+    "customerId": "",
+    "pageURL": "https://www.officedepot.com/catalog/catalogsku.do",
+    "pageName": "catalogcatalogsku",
+    "cust_browsing_zip": "95101",
+    "mini_cart": {
+        "prod_ids": "",
+        "prod_names": "",
+        "prod_quantities": "",
+        "prod_amounts": "",
+        "total_quantities": "",
+        "subscriptions_eligible": "",
+        "subscriptions_purchased": ""
+    },
+    "myprofile_avatar": {
+        "customAvatar": "N",
+        "presetAvatar": "N",
+        "industry": ""
+    },
+    "sbAccountStatus": "ELIGIBLE",
+    "promo_cust_type": "",
+    "accountStorePickUpEnabled": "",
+    "userStorePickUpEnabled": "",
+    "thirdPartyCustomerJSEnabled": "true",
+    "loyaltyTierTypePricingCode": "",
+    "loyaltyTypePricingCode": "",
+    "loyaltyNationalCustomer": "true",
+    "currentSBArea": "FREMONT_SC",
+    "firstName": "",
+    "lastName": "",
+    "hasBusinessSelectPayment": "false",
+    "businessSelectExpired": "false",
+    "segment": "",
+    "segmentCode": "",
+    "parent": "",
+    "grandParent": "",
+    "salesRepID": "",
+    "sicCode": "",
+    "coupons": "",
+    "banners": "",
+    "currentShipToState": "",
+    "currentShipToZip": "",
+    "email": "",
+    "hasLegalAgreement": "",
+    "isPastFreeTrialUser": "false",
+    "user_id_md5": "",
+    "user_id_sha256": "",
+    "user_id_sha1": "",
+    "email_md5": "",
+    "email_sha256": "",
+    "email_sha1": "",
+    "csrId": "",
+    "isEmployeeDiscount": "",
+    "onSiteSearchTerm": "",
+    "onsiteSearchTermEntered": "",
+    "contactId": "",
+    "searchResultsCount": "",
+    "customerSegments": null,
+    "productReviewsEnabled": true,
+    "sessionHash": "$2a$10$MmQK.gC3hKqz5kA4dHugzOvs6i6PsSvtZQcjHiVCHA8FvyT0eP2sW",
+    "agentId": null,
+    "backToSchoolLevel": null,
+    "backtoSchoolType": null,
+    "customerType": null,
+    "customCatalogProfileId": 0,
+    "contentLanguage": "en",
+    "jsessionId": "0000y8T2KvLZvcvRIkSacpz8FIp:17h4h7b45",
+    "jclonedId": "17h4h7b45",
+    "internalTrafficFlag": false,
+    "idMeVerified": false,
+    "registrationType": "",
+    "department": "Computers & Accessories",
+    "category": "Laptop Computers",
+    "sub_category": "PC Laptops",
+    "sub_sub_category": "",
+    "cartTotal": "0.000",
+    "pageType": "PRODUCT: ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6 Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows 11 Home,",
+    "brand": "ASUS",
+    "backOrderable": false,
+    "deliveryMinDate": null,
+    "deliveryMaxDate": null,
+    "hijackedSearch": false,
+    "prod_id": "3587544",
+    "prod_img": "https://media.officedepot.com/images//t_large,f_auto/products/3587544/ASUS-Vivobook-Go-E1504FA-OS36-Laptop",
+    "subscription_eligible": "false",
+    "category_id": "1462020",
+    "is_replenished": false,
+    "is_virtual_warehouse": false,
+    "location_id": "3035"
+}{
+    "event": "onPageRendered",
+    "user": {
+        "session": {
+            "id": "96738871-64a9-4b12-b852-41ec1221fde5"
+        },
+        "agent_id": null,
+        "back_to_school_level": null,
+        "back_to_school_type": null,
+        "customer_type": null,
+        "account_store_pickup_enabled": null,
+        "allow_alt_srcs": null,
+        "allow_banners": "",
+        "customer_service_rep_id": "",
+        "sales_rep_id": "",
+        "parent": "",
+        "grand_parent": "",
+        "has_legal_agreement": "",
+        "third_party_customer_js_enabled": true,
+        "product_reviews_enabled": true,
+        "low_level_industry": "undefined",
+        "high_level_industry": "undefined",
+        "customer_segment_1": "undefined",
+        "location_id": "",
+        "billAddr": {
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "payment_method": "CR",
+        "is_business_select_expired": false,
+        "has_business_select_payment": false,
+        "shipAddr": {
+            "city": null,
+            "state": "",
+            "zip": ""
+        },
+        "segment": "",
+        "email": "",
+        "customer_id": "",
+        "email_md5": "",
+        "email_sha1": "",
+        "email_sha256": "",
+        "first_name": "",
+        "last_name": "",
+        "promo_customer_type": "",
+        "is_employee": false,
+        "contact_id": "",
+        "loyalty": {
+            "id": "",
+            "is_member": false,
+            "is_national_customer": true,
+            "has_rewards_certificate": false,
+            "tier_type": "EXECUTIVE",
+            "tier_type_pricing_code": "",
+            "pricing_code": ""
+        },
+        "user_id": "",
+        "user_id_md5": "",
+        "user_id_sha1": "",
+        "user_id_sha256": "",
+        "business_unit": "Consumer",
+        "browsing_zip": "95101",
+        "sic": "",
+        "store_id": "6209",
+        "store_zip": "95118",
+        "store_address": "1130 BLOSSOM HILL ROAD",
+        "segment_code": "",
+        "allow_coupons": false,
+        "business_select_status": "ELIGIBLE",
+        "session_hash": "$2a$10$MmQK.gC3hKqz5kA4dHugzOvs6i6PsSvtZQcjHiVCHA8FvyT0eP2sW"
+    },
+    "page": {
+        "department": "Computers & Accessories",
+        "category": "Laptop Computers",
+        "category_id": "",
+        "sub_category": "PC Laptops",
+        "sub_sub_category": "",
+        "page_name": "catalogcatalogsku",
+        "page_url": "https://www.officedepot.com/catalog/catalogsku.do",
+        "site_type": "Desktop",
+        "onsite_search_hijack": false,
+        "onsite_search_term": "",
+        "onsite_search_term_entered": "",
+        "promo_id": "6",
+        "onsite_search_results_count": ""
+    },
+    "product": {
+        "quantity": "",
+        "brand": "ASUS",
+        "department": "Computers & Accessories",
+        "category": "Laptop Computers",
+        "category_id": "1462020",
+        "sub_category": "PC Laptops",
+        "sub_sub_category": "",
+        "sku": "3587544",
+        "name": "ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6 Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows 11 Home,",
+        "available_qty": 24,
+        "is_out_of_stock": false,
+        "is_out_of_stock_for_pickup": false,
+        "is_out_of_stock_for_delivery": false,
+        "is_back_orderable": false,
+        "delivery_min_date": null,
+        "delivery_max_date": null,
+        "procurement": "D",
+        "is_replenished": false,
+        "location_id": "3035",
+        "is_from_alt_src": false,
+        "is_subscription_eligible": false,
+        "is_subscription_selected": false,
+        "clearance_price": "",
+        "crossed_out_price": "399.990",
+        "instant_savings_price": "369.990",
+        "unit_price": "369.990",
+        "is_business_select_price": false,
+        "is_marketplace_item": false,
+        "instore_pickup": null,
+        "marketplace_seller_name": "",
+        "is_warehouse": false,
+        "is_virtual_warehouse": false,
+        "fulfillment": "",
+        "coupons": null,
+        "discount": null,
+        "productBusinessSelectDiscount": null,
+        "isImprint": false,
+        "product_avg_star_rating": 0.0,
+        "product_reviews_count": 0,
+        "styleId": null,
+        "delivery_mode": "",
+        "estimated_delivery_date_verbiage": "",
+        "index": 0,
+        "discount_details": null,
+        "subscriptionFrequency": null,
+        "subscribedProductQuantity": null
+    },
+    "cart": {
+        "products": [],
+        "subtotal": "0",
+        "total_quantity": "0",
+        "products_pipe_delimited": {
+            "skus": "",
+            "names": "",
+            "quantities": "",
+            "is_subscription_eligible": null,
+            "is_subscription_selected": null
+        }
+    },
+    "order": {
+        "giftCardApplied": false,
+        "id": "",
+        "subtotal": "",
+        "total": "",
+        "discount": "",
+        "shipping": "",
+        "tax": "",
+        "transactions": [],
+        "payment_cc_bin": "",
+        "plcc_card": false,
+        "is_gift_card_applied": false
+    }
+}{
+    "compare-grid": {
+        "js": [
+            "/compare-grid/static/169da6323cc22a25e19a/js/main.js",
+            "/compare-grid/static/js/global.js"
+        ],
+        "css": [
+            "/compare-grid/static/169da6323cc22a25e19a/css/main.css",
+            "/compare-grid/static/css/global.css"
+        ]
+    },
+    "analytics-utils": {
+        "js": [
+            "/analytics-utils/static/js/main.js"
+        ]
+    },
+    "store-locator-modal": {
+        "js": [
+            "/store-locator-modal/static/js/main.js",
+            "/store-locator-modal/static/js/global.js"
+        ],
+        "css": [
+            "/store-locator-modal/static/css/main.css",
+            "/store-locator-modal/static/css/global.css"
+        ]
+    },
+    "shopping-list-overlay": {
+        "js": [
+            "/shopping-list-overlay/static/b92dda35e2c0db1b4cc5/js/main.js"
+        ],
+        "css": [
+            "/shopping-list-overlay/static/b92dda35e2c0db1b4cc5/css/main.css"
+        ]
+    },
+    "sku-page": {
+        "js": [
+            "/sku-page/static/538917439e18e70ed414/js/main.js"
+        ],
+        "css": [
+            "/sku-page/static/538917439e18e70ed414/css/main.css"
+        ]
+    },
+    "vui-ui": {
+        "css": [
+            "/vui-ui/static/css/main.css",
+            "/vui-ui/static/css/global.css"
+        ],
+        "js": [
+            "/vui-ui/static/js/main.js",
+            "/vui-ui/static/js/global.js"
+        ]
+    },
+    "account-web-preference": {
+        "js": [
+            "/account-web-preference/static/6817f284b7b0ccdd42d3/js/main.js"
+        ],
+        "css": [
+            "/account-web-preference/static/6817f284b7b0ccdd42d3/css/main.css"
+        ]
+    },
+    "teachers-list-app": {
+        "js": [
+            "/teachers-list-app/static/65b5b5a0346248febc35/js/main.js",
+            "/teachers-list-app/static/js/global.js"
+        ],
+        "css": [
+            "/teachers-list-app/static/65b5b5a0346248febc35/css/main.css",
+            "/teachers-list-app/static/css/global.css"
+        ]
+    },
+    "react-test": {
+        "css": [
+            "/react-test/static/css/main.css",
+            "/react-test/static/css/global.css"
+        ],
+        "js": [
+            "/react-test/static/js/main.js",
+            "/react-test/static/js/global.js"
+        ]
+    },
+    "share": {
+        "css": [
+            "/share/static/css/main.css",
+            "/share/static/css/global.css"
+        ],
+        "js": [
+            "/share/static/js/main.js",
+            "/share/static/js/global.js"
+        ]
+    },
+    "subscriptions-react": {
+        "js": [
+            "/subscriptions-react/static/js/main.js"
+        ],
+        "css": [
+            "/subscriptions-react/static/css/main.css"
+        ]
+    },
+    "employee-purchase": {
+        "js": [
+            "/employee-purchase/static/082621a1a72b48dbd311/js/main.js"
+        ],
+        "css": [
+            "/employee-purchase/static/082621a1a72b48dbd311/css/main.css"
+        ]
+    },
+    "user-authentication": {
+        "js": [
+            "/user-authentication/static/43d5b45578aadc95a052/js/main.js"
+        ],
+        "css": [
+            "/user-authentication/static/43d5b45578aadc95a052/css/main.css"
+        ]
+    },
+    "promote-iq-carousel": {
+        "js": [
+            "/promote-iq-carousel/static/f3a834e783f053a31527/js/main.js"
+        ],
+        "css": [
+            "/promote-iq-carousel/static/f3a834e783f053a31527/css/main.css"
+        ]
+    },
+    "criteo-carousel": {
+        "js": [
+            "/criteo-carousel/static/js/main.js"
+        ],
+        "css": [
+            "/criteo-carousel/static/css/main.css"
+        ]
+    },
+    "upsell": {
+        "css": [
+            "/upsell/static/css/main.css",
+            "/upsell/static/css/global.css"
+        ],
+        "js": [
+            "/upsell/static/js/main.js",
+            "/upsell/static/js/global.js"
+        ]
+    },
+    "voice-input": {
+        "css": [
+            "/voice-input/static/css/main.css",
+            "/voice-input/static/css/global.css"
+        ],
+        "js": [
+            "/voice-input/static/js/main.js",
+            "/voice-input/static/js/global.js"
+        ]
+    },
+    "compare-bar": {
+        "js": [
+            "/compare-bar/static/js/main.js",
+            "/compare-bar/static/js/global.js"
+        ],
+        "css": [
+            "/compare-bar/static/css/main.css",
+            "/compare-bar/static/css/global.css"
+        ]
+    },
+    "myfiles-react-app": {
+        "js": [
+            "/myfiles-react-app/static/js/main.js"
+        ],
+        "css": [
+            "/myfiles-react-app/static/css/main.css",
+            "/myfiles-react-app/static/css/global-od.min.css"
+        ]
+    },
+    "checkout-bs2-membership": {
+        "css": [
+            "/checkout-bs2-membership/static/css/main.css",
+            "/checkout-bs2-membership/static/css/global.css"
+        ],
+        "js": [
+            "/checkout-bs2-membership/static/js/main.js",
+            "/checkout-bs2-membership/static/js/global.js"
+        ]
+    },
+    "create-registry": {
+        "js": [
+            "/create-registry/static/aaad4fd33ffb92523d2c/js/main.js"
+        ],
+        "css": [
+            "/create-registry/static/aaad4fd33ffb92523d2c/css/main.css"
+        ]
+    },
+    "aem-slim-banner": {
+        "js": [
+            "/aem-slim-banner/static/719178d5df535236033e/js/main.js"
+        ],
+        "css": [
+            "/aem-slim-banner/static/719178d5df535236033e/css/main.css"
+        ]
+    },
+    "ink-toner": {
+        "js": [
+            "/ink-toner/static/js/main.js",
+            "/ink-toner/static/js/global.js"
+        ],
+        "css": [
+            "/ink-toner/static/css/main.css",
+            "/ink-toner/static/css/global.css"
+        ]
+    },
+    "products-rail": {
+        "js": [
+            "/products-rail/static/04528621a6d994eb94a5/js/main.js"
+        ],
+        "css": [
+            "/products-rail/static/04528621a6d994eb94a5/css/main.css"
+        ]
+    },
+    "returns": {
+        "js": [
+            "/returns/static/2065258ae1df56459d25/js/main.js",
+            "/returns/static/js/global.js"
+        ],
+        "css": [
+            "/returns/static/2065258ae1df56459d25/css/main.css",
+            "/returns/static/css/global.css"
+        ]
+    },
+    "kiosk-card-reader": {
+        "css": [
+            "/kiosk-card-reader/static/css/main.css",
+            "/kiosk-card-reader/static/css/global.css"
+        ],
+        "js": [
+            "/kiosk-card-reader/static/js/main.js",
+            "/kiosk-card-reader/static/js/global.js"
+        ]
+    },
+    "bought-together": {
+        "js": [
+            "/bought-together/static/js/main.js"
+        ],
+        "css": [
+            "/bought-together/static/css/main.css"
+        ]
+    }
+}{
+    "rua.upush": "false",
+    "rua.cpush": "false",
+    "rua.upre": "false",
+    "rua.cpre": "true",
+    "rua.uprl": "false",
+    "rua.cprl": "false",
+    "rua.cprf": "false",
+    "rua.trans": "SJ-08b8ff1e-44a9-4ef1-8f51-b1992f981ae4",
+    "rua.cook": "true",
+    "rua.ims": "false",
+    "rua.ufprl": "false",
+    "rua.cfprl": "false",
+    "rua.isuxp": "false",
+    "rua.texp": "norulematch"
+}{
+    "brand": "od",
+    "realTimeEnabled": "true",
+    "realTimeUrl": "https://realtime.officedepot.com/rt?",
+    "realTimeSite": "bAEQTsC",
+    "realTimeKey": "rt_od_prod",
+    "microApps": "https://ma.officedepot.com/",
+    "jSessionID": "0000y8T2KvLZvcvRIkSacpz8FIp",
+    "cloneID": "17h4h7b45",
+    "jsessionCookie": "false",
+    "loggedInState": "false",
+    "askToken": "",
+    "recognized": "false",
+    "MasterTmsUdo": {
+        "promo_id": "6",
+        "user_id": "",
+        "store_zip": "95118",
+        "store_id": "6209",
+        "store_address": "1130 BLOSSOM HILL ROAD",
+        "reward_member_id": "",
+        "rewards_member": "false",
+        "site_type": "Desktop",
+        "business_unit": "Consumer",
+        "reliableAccount": "false",
+        "loyaltyCustomerType": "",
+        "loyaltyPilotCustomer": "false",
+        "loyaltyPilot2Customer": "false",
+        "loyaltyRewardsCertificate": "false",
+        "loyaltyTierType": "EXECUTIVE",
+        "customerId": "",
+        "pageURL": "https://www.officedepot.com/catalog/catalogsku.do",
+        "pageName": "catalogcatalogsku",
+        "cust_browsing_zip": "95101",
+        "mini_cart": {
+            "prod_ids": "",
+            "prod_names": "",
+            "prod_quantities": "",
+            "prod_amounts": "",
+            "total_quantities": "",
+            "subscriptions_eligible": "",
+            "subscriptions_purchased": ""
+        },
+        "myprofile_avatar": {
+            "customAvatar": "N",
+            "presetAvatar": "N",
+            "industry": ""
+        },
+        "sbAccountStatus": "ELIGIBLE",
+        "promo_cust_type": "",
+        "accountStorePickUpEnabled": "",
+        "userStorePickUpEnabled": "",
+        "thirdPartyCustomerJSEnabled": "true",
+        "loyaltyTierTypePricingCode": "",
+        "loyaltyTypePricingCode": "",
+        "loyaltyNationalCustomer": "true",
+        "currentSBArea": "FREMONT_SC",
+        "firstName": "",
+        "lastName": "",
+        "hasBusinessSelectPayment": "false",
+        "businessSelectExpired": "false",
+        "segment": "",
+        "segmentCode": "",
+        "parent": "",
+        "grandParent": "",
+        "salesRepID": "",
+        "sicCode": "",
+        "coupons": "",
+        "banners": "",
+        "currentShipToState": "",
+        "currentShipToZip": "",
+        "email": "",
+        "hasLegalAgreement": "",
+        "isPastFreeTrialUser": "false",
+        "user_id_md5": "",
+        "user_id_sha256": "",
+        "user_id_sha1": "",
+        "email_md5": "",
+        "email_sha256": "",
+        "email_sha1": "",
+        "csrId": "",
+        "isEmployeeDiscount": "",
+        "onSiteSearchTerm": "",
+        "onsiteSearchTermEntered": "",
+        "contactId": "",
+        "searchResultsCount": "",
+        "customerSegments": null,
+        "productReviewsEnabled": true,
+        "sessionHash": "$2a$10$MmQK.gC3hKqz5kA4dHugzOvs6i6PsSvtZQcjHiVCHA8FvyT0eP2sW",
+        "agentId": null,
+        "backToSchoolLevel": null,
+        "backtoSchoolType": null,
+        "customerType": null,
+        "customCatalogProfileId": 0,
+        "contentLanguage": "en",
+        "jsessionId": "0000y8T2KvLZvcvRIkSacpz8FIp:17h4h7b45",
+        "jclonedId": "17h4h7b45",
+        "internalTrafficFlag": false,
+        "idMeVerified": false,
+        "registrationType": "",
+        "department": "Computers & Accessories",
+        "category": "Laptop Computers",
+        "sub_category": "PC Laptops",
+        "sub_sub_category": "",
+        "cartTotal": "0.000",
+        "pageType": "PRODUCT: ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6 Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows 11 Home,",
+        "brand": "ASUS",
+        "backOrderable": false,
+        "deliveryMinDate": null,
+        "deliveryMaxDate": null,
+        "hijackedSearch": false,
+        "prod_id": "3587544",
+        "prod_img": "https://media.officedepot.com/images//t_large,f_auto/products/3587544/ASUS-Vivobook-Go-E1504FA-OS36-Laptop",
+        "subscription_eligible": "false",
+        "category_id": "1462020",
+        "is_replenished": false,
+        "is_virtual_warehouse": false,
+        "location_id": "3035"
+    },
+    "aiRecZone": "false",
+    "aiRecZoneEndpoint": "https://api.officedepot.io/services/recrnnservice/recModel"
+}{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6&quot; Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows&reg; 11 Home,",
+    "sku": "3587544",
+    "description": "Choose this ASUS Vivobook Go AI Enabled laptop to elevate your tech game to outstanding new heights. Embrace a future where cutting-edge technology meets human-like intelligence&mdash;exploring territories such as language comprehension, image recognition, and independent decision-making. This technology wonder doesn't just perform tasks; it evolves, learning from every interaction to serve you better with each use. Engage in seamless communication, whether through voice or text, and witness the magic of technology that 'listens' and 'understands' your needs. With the ability to interpret visuals without human sight, your laptop surpasses boundaries, offering insights and predictions by connecting the dots from your digital world. Imagine a world where your laptop isn't just a tool, but a visionary companion capable of self-decision making and predicting future trends based on past events. Possessing this AI-enabled laptop is not just an upgrade&mdash;it's like having a personal assistant that's always one step ahead.",
+    "breadcrumbs": [
+        {
+            "@type": "ListItem",
+            "type": "",
+            "name": "Home",
+            "url": "/index.do"
+        },
+        {
+            "@type": "ListItem",
+            "type": "department",
+            "name": "Computers & Accessories",
+            "url": "/b/computers-and-accessories/N-1461888"
+        },
+        {
+            "@type": "ListItem",
+            "type": "category",
+            "name": "Laptop Computers",
+            "url": "/b/laptop-computers/N-1462020"
+        },
+        {
+            "@type": "ListItem",
+            "type": "sub_category",
+            "name": "PC Laptops",
+            "url": "/b/pc-laptops/N-1462026"
+        },
+        {
+            "@type": "ListItem",
+            "type": "",
+            "name": "Product Details",
+            "url": ""
+        }
+    ],
+    "brand": "ASUS",
+    "color": "Mixed Black",
+    "image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://media.officedepot.com/images/f_auto,q_auto,e_sharpen,h_450/products/3587544/3587544_o01/3587544_o01.jpg",
+        "name": "ASUS Vivobook Go E1504FA-OS36 Laptop, 15.6&quot; Screen, AMD Ryzen 3, AI Enabled, 8GB Memory, 512GB Solid State Drive, Windows&reg; 11 Home,"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "369.99",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+            "@type": "Organization",
+            "name": "Office Depot"
+        }
+    },
+    "mpn": "E1504FA-OS36"
+}{
+    "rightNowId": "200106306014",
+    "rightNowUrl": "officedepotchat-en.custhelp.com",
+    "rightNowAvailable": "false"
+}

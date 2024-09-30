@@ -1,0 +1,2622 @@
+{
+    "AUI_A11Y_2_750578": "T2",
+    "AUI_AMZN_IMG_959719": "C",
+    "AUI_A11Y_6_837773": "T2",
+    "AUI_TNR_V2_180836": "C",
+    "AUI_AMZN_IMG_GATE_959718": "C",
+    "AUI_TEMPLATE_WEBLAB_CACHE_333406": "C",
+    "AUI_72554": "C",
+    "AUI_KILLSWITCH_CSA_LOGGER_372963": "C",
+    "AUI_A11Y_SR_678508": "T1",
+    "AUI_PCI_RISK_BANNER_210084": "C"
+}{
+    "deviceType": "web"
+}{
+    "widgetSchema": "dp:widget:",
+    "dimensionSchema": "dp:dims:"
+}{
+    "landingImageUrl": "https://m.media-amazon.com/images/I/71SfcN143LL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+}{}{
+    "shouldUseNatc": true
+}{
+    "turboWeblab": "RCX_CHECKOUT_TURBO_DESKTOP_NONPRIME_87784",
+    "holdbackSecondaryPanelsWeblab": "",
+    "strings": {
+        "TURBO_CLOSE_TEXT": "Close.",
+        "TURBO_CHECKOUT_HEADER": "Buy now: Razer DeathAdder V3 HyperSpeed Wireless Gaming Mouse: 55g Lightweight - USB C Charging - Up to 100 Hr Battery - Advanced 26K Optical Sensor - Gen-3 Optical Switches - 8 Programmable Controls - Black",
+        "TURBO_LOADING_TEXT": "Loading your order summary"
+    },
+    "additionalWeblabs": "{\"RCX_CHECKOUT_DISABLE_TURBO_FOR_NPA_EXPERIMENT_543201\":\"\",\"UPMT_CHECKOUT_BUY_NOW_GIFT_TANGO_DESKTOP_1044576\":\"\",\"PAX_CHECKOUT_BUY_NOW_TO_TANGO_DESKTOP_EXPERIMENT_969581\":\"\",\"PAX_TURBO_INITIATE_MIGRATION_DESKTOP_NON_PRIME_986684\":\"\"}",
+    "inputs": {
+        "verificationSessionID": "137-1702945-7429020",
+        "a": "B0D4RF55QK",
+        "quantity": "1",
+        "oid": "",
+        "incentivizedCart": "",
+        "addressId": ""
+    },
+    "configurations": {
+        "isSignInEnabled": true,
+        "initiateSelector": "#buy-now-button",
+        "prefetchEnabled": true
+    },
+    "isPrimeCustomer": false,
+    "buttonID": "buy-now",
+    "eligibility": {
+        "isEligible": false
+    },
+    "turboWeblabTreatment": "T2",
+    "isTangoCheckoutEligible": false,
+    "timeout": "5000"
+}{
+    "heroName": ""
+}{}{}{
+    "shouldUseNatcUsed": true
+}{}{
+    "showInlineLink": false,
+    "hzPopover": true,
+    "wishlistButtonId": "add-to-wishlist-button",
+    "dropDownHtml": "",
+    "inlineJsFix": true,
+    "wishlistButtonSubmitId": "add-to-wishlist-button-submit",
+    "maxAjaxFailureCount": "3",
+    "asin": "B0D4RF55QK"
+}{
+    "formId": "addToCart",
+    "showWishListDropDown": false,
+    "wishlistPopoverWidth": 206,
+    "isAddToWishListDropDownAuiEnabled": true,
+    "showPopover": false
+}{
+    "shouldRemoveCaption": false
+}{
+    "clickstreamNexusMetricsConfig": {
+        "actionType": "DISCOVERY",
+        "productId": "B0D4RF55QK",
+        "eventOwner": "vsemetrics_playercards",
+        "schemaId": "clickstream.CustomerEvent.4",
+        "producerId": "vsemetrics_playercards",
+        "eventType": "IVEVideoView"
+    },
+    "clientPrefix": "mbsoftlines",
+    "closedCaptionsConfig": {
+        "captionsOnTexts": {
+            "en": "English (Automated)"
+        },
+        "captionsOffText": "Captions off",
+        "languageToLabelTexts": {
+            "English": "English"
+        }
+    },
+    "sushiMetricsConfig": {
+        "isRobot": false,
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "eventSource": "Player",
+        "sessionId": "137-1702945-7429020",
+        "refMarkers": "mbSoftlines_ref",
+        "placementContext": "ImageBlock",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "isInternal": false,
+        "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+        "requestId": "EHH94YXX2Q25RS5Q92FX",
+        "pageAsin": "B0D4RF55QK",
+        "customerId": "0",
+        "sessionType": 1
+    },
+    "mimeType": "application/x-mpegURL",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "pageAsin": "B0D4RF55QK",
+        "eventSource": "Player",
+        "videoAsin": "",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "mbSoftlines_ref",
+        "placementContext": "ImageBlock",
+        "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+    },
+    "videoHeight": 0,
+    "videoWidth": 0,
+    "videoUrl": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a4d481a-7900-47fe-8765-dae10e409c8c/default.jobtemplate.hls.m3u8",
+    "metricsEmissionMethod": "nexus",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xy4SDbuyL.SX522_.jpg",
+    "awaConfig": {
+        "useUpNextComponent": false,
+        "clickstreamNexusMetricsConfig": {
+            "actionType": "DISCOVERY",
+            "productId": "B0D4RF55QK",
+            "eventOwner": "vsemetrics_playercards",
+            "schemaId": "clickstream.CustomerEvent.4",
+            "producerId": "vsemetrics_playercards",
+            "eventType": "IVEVideoView"
+        },
+        "initialVideo": "",
+        "shouldPreload": true,
+        "enableClickBasedAttribution": false,
+        "isChromelessPlayer": false,
+        "closedCaptionsConfig": {
+            "captionsOnTexts": {
+                "en": "English (Automated)"
+            },
+            "captionsOffText": "Captions off",
+            "languageToLabelTexts": {
+                "English": "English"
+            }
+        },
+        "showPlayerPlayButton": false,
+        "isVideoImmersivePlayer": false,
+        "metricsEmissionMethod": "nexus",
+        "skipInitialFocus": false,
+        "playerSkin": "none",
+        "disabledViewIds": [
+            "replayHint"
+        ],
+        "includeEarnsComissionDisclosure": false,
+        "customerId": "0",
+        "containerId": "mbsoftlines-player-2577ada2-6a80-4973-80d5-fc7115ccf4f2",
+        "allowCrossOrigin": false,
+        "requestMetadata": {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "clientId": "VSE-US",
+            "method": "ImageBlock",
+            "requestId": "EHH94YXX2Q25RS5Q92FX",
+            "pageAsin": "",
+            "sessionId": "137-1702945-7429020"
+        },
+        "shouldLoop": false,
+        "shouldDisableControls": false,
+        "alwaysSetInitialVideo": false,
+        "showPlayerCloseButton": false,
+        "clientPrefix": "",
+        "useAutoplayFallback": false,
+        "sushiMetricsConfig": {
+            "isRobot": false,
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": "",
+            "eventSource": "Player",
+            "sessionId": "137-1702945-7429020",
+            "refMarkers": "mbSoftlines_ref",
+            "placementContext": "ImageBlock",
+            "marketplaceId": "ATVPDKIKX0DER",
+            "isInternal": false,
+            "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+            "requestId": "EHH94YXX2Q25RS5Q92FX",
+            "pageAsin": "B0D4RF55QK",
+            "customerId": "0",
+            "sessionType": 1
+        },
+        "ospLinkCode": "",
+        "showPosterImage": true,
+        "languageCode": "en",
+        "version": "",
+        "nexusMetricsConfig": {
+            "isInternal": false,
+            "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": "",
+            "pageAsin": "B0D4RF55QK",
+            "eventSource": "Player",
+            "videoAsin": "",
+            "producerId": "vsemetrics_playercards",
+            "refMarkers": "mbSoftlines_ref",
+            "placementContext": "ImageBlock",
+            "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+        },
+        "shouldStartMuted": false,
+        "airyVersion": "VideoJS",
+        "languagePreferenceStrings": {},
+        "enableInactiveFocus": true,
+        "isReactFactory": false,
+        "osaInstrumentationConfig": {
+            "schemaId": "csa.VideoInteractions.2",
+            "producerId": "vsemetrics_csa_instrumentation"
+        },
+        "enableDelphiAttribution": false,
+        "includeReportWidget": false,
+        "shouldAutoplay": false
+    },
+    "needPlayerFactory": false,
+    "isMobile": false
+}{
+    "enableFullScreenByDefault": false,
+    "clickstreamNexusMetricsConfig": {
+        "actionType": "DISCOVERY",
+        "productId": "B0D4RF55QK",
+        "eventOwner": "vsemetrics_playercards",
+        "schemaId": "clickstream.CustomerEvent.4",
+        "producerId": "vsemetrics_playercards",
+        "eventType": "IVEVideoView"
+    },
+    "videoReferenceId": "VideoCreatorPortal:e1795b0922584e8f996f5676cdf9f62f",
+    "contentId": "B0D4RF55QK",
+    "closedCaptionsConfig": {
+        "captionsOnTexts": {
+            "en": "English (Automated)"
+        },
+        "captionsOffText": "Captions off",
+        "languageToLabelTexts": {
+            "English": "English"
+        }
+    },
+    "mimeType": "application/x-mpegURL",
+    "vendorCode": "137GO",
+    "videoHeight": 480,
+    "videoWidth": 854,
+    "initialClosedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fd9b0bd1-a642-45ec-a263-c58c397cf0b0.vtt",
+    "videoUrl": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a4d481a-7900-47fe-8765-dae10e409c8c/default.jobtemplate.hls.m3u8",
+    "metricsEmissionMethod": "nexus",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xy4SDbuyL.jpg",
+    "isMobile": false,
+    "showHotspots": false,
+    "aciContentId": "amzn1.vse.video.0c2604ec12b545299e785113229aa64d",
+    "creatorType": "Vendor",
+    "clientPrefix": "detailpage-imageblock",
+    "productAsin": "B0D4RF55QK",
+    "labelDetails": {
+        "labelWeblabTreatment": "",
+        "labelWeblabName": "",
+        "labelType": "",
+        "tooltipSelector": "",
+        "labelName": "",
+        "showLabel": false
+    },
+    "sushiMetricsConfig": {
+        "isRobot": false,
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": ":",
+        "eventSource": "Player",
+        "sessionId": "137-1702945-7429020",
+        "refMarkers": "null_ref",
+        "placementContext": "desktop_web.ImageBlock.vse_ib_iv",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "isInternal": false,
+        "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+        "requestId": "HNPHJFGRAV8B1T0WDG0J",
+        "pageAsin": "B0D4RF55QK",
+        "customerId": "0",
+        "sessionType": 1
+    },
+    "videoTitle": "Razer DeathAdder V3 HyperSpeed Tech Video",
+    "vendorName": "Razer USA ltd",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": ":",
+        "pageAsin": "B0D4RF55QK",
+        "eventSource": "Player",
+        "videoAsin": "0c2604ec12b545299e785113229aa64d",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "null_ref",
+        "placementContext": "desktop_web.ImageBlock.vse_ib_iv",
+        "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+    },
+    "awaConfig": {
+        "useUpNextComponent": false,
+        "clickstreamNexusMetricsConfig": {
+            "actionType": "DISCOVERY",
+            "productId": "B0D4RF55QK",
+            "eventOwner": "vsemetrics_playercards",
+            "schemaId": "clickstream.CustomerEvent.4",
+            "producerId": "vsemetrics_playercards",
+            "eventType": "IVEVideoView"
+        },
+        "initialVideo": "0c2604ec12b545299e785113229aa64d",
+        "shouldPreload": true,
+        "enableClickBasedAttribution": false,
+        "isChromelessPlayer": false,
+        "closedCaptionsConfig": {
+            "captionsOnTexts": {
+                "en": "English (Automated)"
+            },
+            "captionsOffText": "Captions off",
+            "languageToLabelTexts": {
+                "English": "English"
+            }
+        },
+        "showPlayerPlayButton": false,
+        "isVideoImmersivePlayer": false,
+        "metricsEmissionMethod": "nexus",
+        "skipInitialFocus": false,
+        "playerSkin": "none",
+        "disabledViewIds": [
+            "replayHint"
+        ],
+        "includeEarnsComissionDisclosure": false,
+        "customerId": "0",
+        "containerId": "detailpage-imageblock-player-1a5887c2-0cb4-457b-ad13-6d98684803de",
+        "allowCrossOrigin": false,
+        "requestMetadata": {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "clientId": "VSE-US",
+            "method": "desktop_web.ImageBlock.vse_ib_iv",
+            "requestId": "HNPHJFGRAV8B1T0WDG0J",
+            "pageAsin": "",
+            "sessionId": "137-1702945-7429020"
+        },
+        "shouldLoop": false,
+        "shouldDisableControls": false,
+        "alwaysSetInitialVideo": true,
+        "showPlayerCloseButton": false,
+        "clientPrefix": "detailpage-imageblock",
+        "useAutoplayFallback": false,
+        "sushiMetricsConfig": {
+            "isRobot": false,
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": ":",
+            "eventSource": "Player",
+            "sessionId": "137-1702945-7429020",
+            "refMarkers": "null_ref",
+            "placementContext": "desktop_web.ImageBlock.vse_ib_iv",
+            "marketplaceId": "ATVPDKIKX0DER",
+            "isInternal": false,
+            "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+            "requestId": "HNPHJFGRAV8B1T0WDG0J",
+            "pageAsin": "B0D4RF55QK",
+            "customerId": "0",
+            "sessionType": 1
+        },
+        "ospLinkCode": "vib",
+        "showPosterImage": true,
+        "languageCode": "en",
+        "version": "",
+        "nexusMetricsConfig": {
+            "isInternal": false,
+            "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": ":",
+            "pageAsin": "B0D4RF55QK",
+            "eventSource": "Player",
+            "videoAsin": "0c2604ec12b545299e785113229aa64d",
+            "producerId": "vsemetrics_playercards",
+            "refMarkers": "null_ref",
+            "placementContext": "desktop_web.ImageBlock.vse_ib_iv",
+            "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+        },
+        "shouldStartMuted": false,
+        "airyVersion": "VideoJS",
+        "languagePreferenceStrings": {},
+        "enableInactiveFocus": true,
+        "isReactFactory": false,
+        "osaInstrumentationConfig": {
+            "schemaId": "csa.VideoInteractions.2",
+            "producerId": "vsemetrics_csa_instrumentation"
+        },
+        "enableDelphiAttribution": true,
+        "includeReportWidget": false,
+        "shouldAutoplay": false
+    }
+}{
+    "image": "image_url",
+    "shareButton": "SHARE",
+    "clientPrefix": "detailpage-imageblock",
+    "description": "video_description",
+    "id": "detailpage-imageblock-social-share-d925c714-0623-426e-af96-b302a52481dd",
+    "title": "video_title",
+    "pageLevelData": {
+        "deviceTypeRef": "dt",
+        "clientRef": "lb"
+    },
+    "shareWithFriendsPrompt": "Share this video with friends",
+    "url": "https://www.amazon.com/gp/product/B0D4RF55QK"
+}{
+    "socialShareModel": {
+        "image": "image_url",
+        "shareButton": "SHARE",
+        "clientPrefix": "detailpage-imageblock",
+        "description": "video_description",
+        "id": "detailpage-imageblock-social-share-d925c714-0623-426e-af96-b302a52481dd",
+        "title": "video_title",
+        "pageLevelData": {
+            "deviceTypeRef": "dt",
+            "clientRef": "lb"
+        },
+        "shareWithFriendsPrompt": "Share this video with friends",
+        "url": "https://www.amazon.com/gp/product/B0D4RF55QK"
+    },
+    "customerReviewConfig": {
+        "showCustomerReviewMetadata": false
+    },
+    "showUploadDate": false,
+    "defaultEntityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "videoVoteConfig": {
+        "experimentWeblab": "",
+        "requestId": "HNPHJFGRAV8B1T0WDG0J",
+        "actionPrefix": "ImageBlock",
+        "sessionId": "137-1702945-7429020",
+        "page": "DetailPage",
+        "placementContext": "vse_ib_iv",
+        "forceTreatment": false
+    },
+    "entityType": "customer",
+    "entityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "pageAsin": "B0D4RF55QK",
+        "eventSource": "ImageBlock",
+        "videoAsin": "",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "",
+        "placementContext": "desktop_web.ImageBlock.vse_ib_iv",
+        "playerTSMMetricsSchemaId": ""
+    }
+}{
+    "acAsin": "B0D4RF55QK"
+}{
+    "isInternal": false,
+    "isRobot": false,
+    "showFaceout": true,
+    "merchantId": "ATVPDKIKX0DER",
+    "availableBadges": "",
+    "loggedIn": false,
+    "asin": "B0D4RF55QK",
+    "showBadge": false,
+    "availableFaceouts": "TK_BOUGHT"
+}{
+    "impressionId": "1f2c3580-3d37-4d3f-a740-b8d05ac5c71a",
+    "marketplaceId": "ATVPDKIKX0DER",
+    "nexusSchemaId": "odysseus.Impression.5",
+    "nexusProducerId": "odysseus",
+    "requestId": "HNPHJFGRAV8B1T0WDG0J",
+    "issuancePlacementShortNm": "PRICEBLOCK",
+    "buyingOptionIndex": 1,
+    "sessionId": "137-1702945-7429020",
+    "buyingOptionName": "USED"
+}{
+    "buyingOptionTypes": [
+        "NEW",
+        "USED",
+        "PICKUP"
+    ],
+    "zipCode": "48912",
+    "countryCode": "US",
+    "productAsin": "B0D4RF55QK"
+}{
+    "showPPDBundlesWidget": false,
+    "doRedirect": true,
+    "showEnhancedUpsellBundle": false,
+    "hijackMBCATC": false,
+    "isCBM": false,
+    "isWarrantyPresent": true,
+    "isVariationalParent": false
+}{}{
+    "widgetSchema": "dp:widget:",
+    "dimensionSchema": "dp:dims:"
+}{
+    "assetNames": [
+        "DetailPageMetaAssetFixed",
+        "AmazonUICalendar",
+        "DetailPageEverywhereMetaAsset",
+        "DetailPageOffersDebugAssets",
+        "InContextDetailPageAssets",
+        "USHardlinesDetailPageMetaAssetFixed",
+        "DetailPageDesktopImageBlockMetaAsset",
+        "USHardlinesDetailPageMetaAssetVariable_TURBO_DESKTOP_TradeIn_BUYX_DP_RPCX_TPLUS_SUBASSETING_897079",
+        "DetailPageAllOffersDisplayAssets",
+        "GestaltDetailPageDesktopMetaAsset",
+        "InstallmentPaymentDetailPageMetaAsset",
+        "DetailPageDesktopConfiguratorMetaAsset",
+        "DetailPageNewDesktopTwisterMetaAsset",
+        "DetailPageWirelessPlansAssets",
+        "DetailPageProductDimensionsAssets",
+        "DetailPagePostPurchaseAssets",
+        "DetailPagePurchaseReminderAssets",
+        "DetailPageNostosAssets",
+        "BuyingRulesDetailPageAssets",
+        "DetailPagePriceTrackerAssets",
+        "DetailPageBulkBuyingAssets",
+        "DetailPageABSMultiSelectionAssets"
+    ]
+}{
+    "eelEndpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.SponsoredProductsEventTracking.prod"
+}{
+    "encryptedLazyLoadRenderRequest": "AAAAAAAAAAA7xxgPKuzE2oq4NGXhqcJ/iiMAAAAAAACZW+1cyJ0CZ6CbZyVXVxOWR1uIDDEcQKt8x4PPnDfsIt55eftlN+eBstPQJa/s4WHUFQ9vx5QCgd4rmzi8Hk1w6mgWhAx9uK6cDHDh6h/s26jaoSujlvzbLJJAeAIYX4bVR8bpLm9AW96e0FIC+j8bw7h6kxw49dJXKMoUKqwdu49YF8y/lI2qzCoQ9QBdmU7EUTLo7QUXWifSl6QLE6d0dzRnsQZlJy4QaWb3ZfV4vW76q0SBBshG9uzk0iQRE6GElyLPNO/5NyNzFipV4nKyeS2WhlXednDoJwRqBPwBTWx4QXuCScqEUqRfQlIVZ+mAS3wmusY+cKS855UupzM4FK3Dwea0QB135/rKM8qRituxAn0eg1SQ2RN8jd0DVMrZiZPJA7zIv6Jti7XOC+ME+AGuI7KeyY8mFoX76xc6jsZYTNk2nIyqkZ8Zlow5Hf27VX7VZT9DqMwrTBfQ2gXIjfgqmoiJOPNtu2dxWwNnW4U4InX/GGSPQO7QvyNsfy3utO/qSLgze5f55bn4w3vw74b2qFwuVROq5UpFw6TOXDfcGEKq+wutrD8OuEWz2KO4Jzq3DoA5DEOkSiayK5iyZsMbKeU4RsFdGnvvU0Hgmv4hObd6ippFzuZijFPCDeXSTl4EJgcH7sxerUq8/ynj9Iw/acd5MfZYjLm/utUAI5npgH+X4rPHv5lMZeEXJbQPOSwU5uuo88azXfRGuLK78dATNRbVpEXvm372FBP58asYllgZZlyNaUdm8EmCwOlmri+r/N3Wnuw6vJiuYijITHenx2sI1fMfxeiY0dOANo9ElNlin7WygR55bRT3N103zqKrjd0+pGs8qgVqjNsbO9blxwB9UWN6TIHVmLejhN/6yMJAcCrhxldHxfa3ZlQyLKSqEFCmgAUqqu+590yiCVDiNBCh1QbCfPEdfpXYCw9dJKU5LXRq+PxgyIvzjSF9p/qplh2ravDrSIl+5Bz6BE02ilvkbEUlHtpAHZOnXK7odazVgN3QNbA5dJRqe8Z2eSCt1OajMUqEQNlop9gLCGmtHLZlR7JjbXms2PeM/VG1j6nV9ks1lp8grW4qgWps5S86JyVnEfMSgRtmsTI9EjPCZs1XRgfZ9TAd/kqDghm8CHTNY7wX/0JjIJD5X8HEE1rZdPlvZ1BLxGyMAQB/WLwL7EFKNY3SzzOxD01oj4EO7vqur9IKIoO+Gj3L7SeVjGbTI9qMBXtHu3H3FYnPko2pvW4RW+zLARWR7hBA5Q7EtxexH//tV9pAWA/W1K4bhAUJu/e0FA6a7FxMNPjG9jKrS+sCF/pGclw3akTX9lPRLkNVqMAMFrgwMOvReHMdP9n0Ryp5O9Eyl8RgfC9GGnWSuAfy7LNdGWRlx0CzA4v7eLTLa3vUj+tbFkoqgltvOEe7YsB1T0ojgI6cZRP2pwkrkwTI87SoSi/zXUOICsyb0apAP71NmmBrXxC1PFM9oxoj72x2tHDQcRHMjbm4gyoPEkpvtgwwiLzfYmQop+xcVREOh0nQhJ16khPsZ7aHxrU4JB+F3w1/ULASJ11K72TjLilLyjiQi7BlIpI1DaHRon+GsqwFOi/O0h2syaivKhchj+q8MVofcfel6UYdE3lovwu7GatDfX0TjGbhSbJgJNhnJwOSNNKAWN3LNtWOUlSJIyLVNR/loNRSVv60V1kdz5ZPXObVDiS0RGXT/jiAUJVV+EJX0TOAp6C4e/TymFH79LRTtXaL7NBsw0hn60CuznccQAqfV9G4ukyQw3wY9l9qU0SYYbh9AW4C+ri2Du9n9DsjSQq5e5efPfsyNjOdYOInCBgWs9jXSgqrEQhhz9QgsbXWeh476dmkDG8//q7b9W2L8WfI7PvSI4Mq5wrhDIwBlY+ayywpv4qY/X2L5fvtL2z4JFNAmPVnI8UeTVUUFfx31sbd0LSKNbEAthsKunlUZdogDm/GNwWnGLFS75Z1Vg01AfdwxDmwPBZzWA/jqNwhBuu589OVbWZ7g4qE3tsypf4abZhINdMVTdMNXu/v7OJMwNVOT05MpoO4XAbqFlogk3WGdwmta8vBDgVq6zhLwtGcnKzOajmOdxzhIUviY5vpI2NoEkiaxzTmFyS2SpBjPwu8Eo7K0a12/BVumCEoHh0UfPDpHblP82bCLnHodN2zw0I0uXa0WIxs49mSkCM/ZmbcGfKLP2v3+Gfijam0yFo2bZTZz1vDX7UiqvXIk3S82PxMthoI2/YK6Y4R/Yy3pIU4KDVJMUfqlz3iYLvjyL6WGyXksX6Gj4w7YNYbmZWwb9GHAnfCvDucWs1t1j3BQaPAYErsuUnUoyHG8Vq8g6tTdPf/3bzOoQs3KoFxgURNs+vhocE5504WWfAfdeJUEhJZ3ICsr5YXxLd98uc7xIOKhhXVcd65rFXtRsMRU3LDQgMGB3T26MnZsemNXthy/NtDhXCLdjLshnwrVzIEVqDKPzimK5E6VZ3k/2E3O2VG9pqa1QK5C8teyMSMtZ91luyhDV4BjzC8Nj8GCCr3msyj92mrkwCIMkc1cN4JvKJ4/sS72eNJeMAhh6oE+S3V/cu1Flfl7zS889IHopjAFjRM7X3+5WS4KmzwPe8V0NcIlynDG/f9FmhTUpR/Cw4S7/mGmQyV35O+NeN1+ATZEMfubMKSly+lifONbQymFIq3rJIIC10nr9ZzkBt3z+4cBtRfkqaMxpNY10JvsL3kv2ahotrEM+c1dtKYAA2tzD7mznENRM7caO5sEX4ziz+v3vWhztfviTrCB6aWXMNST4/CvLZmaaM+RVybOcK2CnWOsUWlnlsiGFqjqqI09i1bBWVmqNeuUM196H2Obf2HEGO7msHUdyP4vCNksoY455DIdbdvUQ2IMDYfEOWSq6sZe6k+0SmllrgBPpdt0yd4aKBw7o7F2K+7ReIxtI5Dgeb/Hiyi7p87vlAXM3T02w2JnjJdM0Ai6/ppykbkGLXgWuL1LQYUBex3qwjBiSoiJDHdgZcnDRzCSmvrhz2RSWYwTtcIrTMFYw82WMqK/eviUBulkMOWhyJR/1uL6LTj7rrRtl3BHYFMRE5+CVMwRsLVBkqDMyOhs9vyTGVgaprZ/cZ034CnHnzjBgm2Gap29H3uHTFbIz9fLJp45AKbpYPyunN4lBklFOOIwxfNsgi0pfq5PpM96fQxGz/czncNCgFWErzwgBwrUDcRdFcIv18/SHyw+iKnVSZVyf+hZRZTbOWFSNqWsdvYrQI0OZzKLZ0gFacXq0tK88OH1+k0HNB1xaPPSa+vP9Kb08iuwCP26sN4wfZfvio6zluyuVky7DI7xFOyOOLVRD4+Cb1FbCqDJtnrq0PyWTb+gDXpt1s17tHvsz7HXSdZvZQFK9OMNAfyoMfaD6u20+BEUvUB4d5Y7x20w/KyF4CzzzRLCdpdM3xat3lOmY2FNZjms0GHhyRpVBHqimJJbMeACelVCLx5qGuuYXHmw4uxIzTYWJArAc73r7kl4TiWhIrNcftznIlWUr1sG1bJpp8D0BTvcwLsI5O8DPdIKEIvWY1zu88o68ZnME9eFvtHd8BK/iNSaGGPdJQu3XzlbbmtEDmAs1lx1y7mg1j5YZcfdF2lZQFTCU4OeFZBvMVH4YroBGCIDtfE5Gh65nDktxTmAYhuj7USXt8vc/ny1j2Lz07cTatxi26faDsYdwSRTQJoRq5huRmM6IQoizIBZtgmykB3l14rmNdlC3Cm/RScnBidMpYazOdmg6f+YPEfmdtM7838obj8asuZzpIP7+66BGIjIqGoMqwuPzxH+rt+Q3jDqW2fuao9HDXZw+O6bAogEY1A4Imh/kPYjpDPZlXUr6GPftg5b5GAFO+00oYLfpeDXEmBjPQvTS+xjcGm2YMYAZ2EAdD3YkaAkEwGxK/s8Vl2xuh21219IHAxro187o8wfCO32hS9udRNn7QQE5vheEeYNyyYVEvUQB0Pyw4wBnlB8+YFqHHoa82zKCvo/fH3Hb76srauFfMmmhWJX7X3fVL7bkkP4eIRiH8xqNInVl9G/LhFQ0J1RJeBxhP8Kpv01AwcIEfMlArNMqbK4zzYIBHoDX/Ft7rmxIYBMpKPUUt2uKEvKkbADEIPP21ssxl0kKuk92qgIAcKN/VVGoWP2cnfvmwSH2gxTqo88VdVUR42pgqSaXfWGP2ozmnQJextlOCs7xqBwiUAQZKoti6XszAJAo/hLuh0niu+qPn2FIqZxceoNNecEY43eo+3ydHYPkYZNPDpn+v54DOgs3TxQMoIvtRFo2XkzyrACzsI9sc1oWYeoMQ7/b8OlNVrRH80VxrRPgl2HP9JlFz4kTlU0EJN7+Bc8UOdq0XEBk5APytasI3vBLVuJk89xaPBlX7J6VPaJSEleMH+dTyoMywD1gN0OWzD6HOXcWcMu/sfnKwuZM+o0aNK+UQrfxebwmCWZuUXS7QAMjd07RQRaKIOK90ockcGAKYW/lnk/6JvS2POwoaiViV8NcSAB853G00uoQ4BrgWRgHRku6ZvzUOyL8hDUqHnO1LjIexP6UkZ/ewBq2fTysoXOEyOOREvVSOefKLUHqrYIRmoHdzQn1E+D0iPL6O4IxCrUzl3uh8qn38Mua+vivNXyFXLHdGLt8R1lSeBY76ihunXcE4Gwu1buzioE6nLZ7imwjeX4BqisqQv3INtZTQcB1rpS4XCM/iudEw1/hfTw7p5z2hpfRptw+vDlloTxlsoH+23uFHb6QAlpPhCKZmSf5Dc/Ju04KUGwzKf+uxCYbBYZMpV0mTscg92PqYA7MFPNzxMWc8m9rMRBwEXI/vOfcADNBs1B4yyhQvxsufdeBD8VAdmTFevQBIakoVaC0BlSWZDDibXahe+veR+MrM2dK/hAss/RbHkmcPeu0CsD/tfGWk9Z3L6xqWM0SNV2i/fiNKufbSB3cLLRQWmn254xTStrXtFjzEvHbCgkMIBf9IRsC8xD5A+uUfzPYpByIuGzE1DyPbTL1xPwtjHAxePFrnat1ms4SQ6RFb6UEaRqEornYd204HYd+l8CsAAwh6HNu9FCOGXjdhyRresEcpDMApyo4vP9FlzFZDZqpHD1/o8LJYezyRDTccHXVvqAegafJMQD4Z7rr1hpuy8flR2lTHXCUkBpJotpAIM4mpLFJNBARriAFDsRhdUy13fkc/Gw6RqNSc9M3ErMSNTawg0W8n9i3a8HJmSrQJGPVeHalwNqDe72adELRxnDA7WOGLfKH1Q57ip+r1CHS8oZt+n2DaNA1u0mNQloeDqBUwPt4jww6EhgBeZ67i25MZP8e7tOuNAiowYKaxZp+CcJB/46+9Nl0jh7IX+WIJUOXPxmm3314HJBCHSWTycMPd2C1rtBd/59lxtXMqusBvs8nf4Y6YlZmr0KBY9uSbkscHTRBEfwpkCmhtxC5SWWd6xAIRGoWOFWBvJq6r8RnYoWjwAbVi+9OjJM0bXHtJSCN5yeoSHhsP42MxFKbx8ozAnTp0Y4svYo/UpdqqvHxlLdljA5CYrX25velK/JSdk+aNyyAHALj8THNIj8fepudNC3CXiCxWlebkZ8HyOb+S2n/ybfYBGUxmXkG84UID1yciacgxRXAyKW0T4zHGALZhDb5qL/kCeBvaZVyu2mCl57SRHFeharu4rOWqm9Po+TINPxvRKon3a1XUyUSw+QJomMu9nMV5kmnCLNEvNBL0PAkOoLBFCXmXs89lTNKZhxyJgrBpp5l1+OQFa7bqTG9652bmygFK8U9sD99BleI1QUM61Xe1bWPyVNFNrMa8BfhzBnk+WYlO7vaZh3vEdmzvwrspAGRX3YN5iTI9UB/V2u8ryBw2k48zAVp4937rIW0n8hjpNL51uSKdWaZs1/Ikm60ORUGF/mNFARXB9SIDQHInW7a9JSqF1NR1GHDaXvb1hhidpsMmvrpUWVhuYmgclxmek1pSdX5WrVjtm13nUwVVB6JadbVWEYD9KQOhaIuq7njkBAQCUwmR8ITVf3xGlJcPR4g2wlS5T5HcSnBzSsDCK69D7j+X56KCqR+87Z0lJfDYm+Db+BFeTd6is2zba+PYwr/caxtMCA07KxvMMskP9S60UkiIrBU7LCA3BkKkXjaOiDKzEiICL3Xp019d7OsrGduyHGue89F1i/0NHJQj1AYCSg9Xv10bDorXijyuVwFHc7IYBTfNsCWvc+Y3PR3486vlGjN+BCyM8wQiCkbrwY1tG79Ry1/T3Hct4VP3F8L/3KyexbOqZcDX2go33GEvtnEb/dwnH0z0mv7ao9NQM0Io71TX1HOgZTidvKoV2TEh7Z/iUKgfynBYeRP/ujN0ktSivhMwNqeesw5PLrZ183gBp7PF49H6bJ+ktjSJIMYgtvO/NhMV614XdXX9Cd3NQ3uNTMZUNR7xMglmQWloR1X9+/PEgZLJ2FKCMSGeTBoitqPoiV91cUQP/X++bgBy338v7Tb7MLz9eP5KvDxNlCLjntsMJcyaRRXmQqwtDRgsRYpdbKM0V+0HowAjqMs6+AfwC7TzoCRfQTpH1Vo20MyHtrz8Xm2hlD5JRgOWSksk5IsgFzgyJlTnXQBtkaAkgUjeaBp2bbaE2qfAiwcDkpiEvjIfNgYnZlPL2KdGLP80VK7wohLPDLj9PpB5wXe9W9N0e5m0RE1YwfqV1+kirN4fBkVuC++yg/sa0c9xr7KTay8gnEApHaEg9kH3FzAah/pep1FLWjZxvZ4lPmevVp5GrNvpSheq0GJ9o+IVgIZo1Rnrci7RUnyg1GTovoIWQKKofPgnE9vdG/IjVegssvFbSnGhwnPbEIH990IkSAeJ8GHLxZPxdXtjJGqoBs/0z7zq+l1/q9TM0jJRg5qSpEidvvwxnBQ242t1GQfw+gpjkjdePVakcLjAzkmiYXmUYISwtFqu4lhrr3Nmpa29vy1Zhn3ESLPi1N//j5uGE7yHwvAJFoXMUYnZHDJo66KTuri1CGne+bC9Sk/mVDy0tsFnMsln9BCPeL8nitQ4BXXFBGhpfJki5/jAwB/PPxOq1YMT2H0t+x8TaIxtqE5Hi0Q5WODP8JMxlEGcOkhPnkwpGkrt85pvvIvYaRwrviw1uyAPzAn7Hgq2RwhyZ5I0dxRKBkkGILN9XQK2zPIb8aTks3RLf3tawKZ1/8ucbYvD3cbBRsakmk3qU4gVL86wrcVKyjWywEgtbr/a+RobB1StUSU+v8MpkmfE+z4a8yBbb4cgNbSjDSt7uGfCAloxq+9ZGFOlccIviMc0L42dFe6F8xJsXzHJLudInML/0u+EpASaxXAj6Hx7RS0ru4mUIR1Get95Hi5YWqBwxvK1TpNJwp8VD7iDoo4cFX4AmKQ/yRvOfVnXDZ5Cu1HpoUH1MbXhD6T4DTh86aoMUu3Z8KP+noX6mY1vgqZ3mZYoGpFPx1q0cb8wkwk6lNjmZc+lVNTRxAEX3g/+HLTMIkDzWWsjxzVyR0NZgo030TKTyxpJPuaO9Mhr5i9ZTJrTJ2HfHioOVC7rY+1+isMYzNlEQLLUNcB0hzagleYejQ7y+7S8/tbrvEUjdWvgi3UtwDQtDC0uoft8ZLIu+hbPhaG3wNagNsokvJN/TaZed5CB5NOJe7HEqasy86+xeDfWaWLI53yn7LJIgXipFO01GQ+1/9aREWwUlDjhF4gKzk5a6Q1R1BlS/n8UcVgmrrV47tIgX2w3AHJkFKwa8TecbMk25Rq73u+I1alxW6r0NzEgtnKUcsKoaSzRKCBBQCFFpDdBDNcEs1nrWvyvPWZ05u8IN98077enVPW3wpJsOkZOog4voIChf417vRNM9Ji5txJ4W+E06DLJ61LNpFzgVuOQQk4giL2EeVXa2Z0fqaLfho7I0vj9Hbr5SyJvXq6AinWGDEsKQQIGO/JuFq+dCZtSYyuJG8Sqr0n3RU73hPQkbESl6swJXeWJoy+6tQFi+bAhVaT9KEDbrERXCfrkalTSfyLh16h+3nvBzWtt+cm0n1hj1TiJXFe98emvKGFnjAYATKnNve52yqh2ie57/jv6Um3hFsde7pCDZf5WnsQ/ntI/ALl/LBVRDY6nqsPfxFqwRQTRrIridNdHaVoeEN9c+eKbeoo8NzqMBhx/ldEFNKZHiOcETOKtxSwF/2ZhZK+K5D2G1iUVXS84HUctH/hqzFuqESd4O3uNvjeT8nVAO5BRP4lTukxYM1feWPpapEtenlp/cOBx3LnpSI0Mql8GrSQd36M+fdqA4fNfaoLkRI8ygCgFjmkMMoLtauHFuYbIKzZCIyS7ayzcIyj9ND9Qb9a3yAVV2buSpeBsFKMQgnmLQRLTbyTzzjUmfytEfLY2RfmHfXeAvZcOi0nuGbSxfvqIqQLtNk4d9cCLHBL5d8P7g1+/a6rVqMqnkvmndojs5bmCKSmvK/uE32xVe5b+UcKRlLTdFC24kzGVI/kOLhitM2glcmPc1gNpYDGDV1Evnl31XBYRI7QS9kKpYL8gbxWJCULNbW3CG+pLem8Fv8PKB3ePuBAFUD8xJiHNMYLVlijDde4n7AQqejgTjPtqf0jZH3h86t+ANmqveuv0Ed6hSc+jHaOPOf2gxQe8af8/3qRsgNaAId71m7LH2hc+TRbB/SfyrnfphSkO9AI0I+D5yGgq40oRWJ2T+kiYnvsVZpHW6tlxTsrlcQoKpRZARAzS9CvMl4fVlWXvcgK4wqBWqQHW+th//Eh6dBQeDSnmg7LE+fIGaqLYwZl42ocLpW+k5MhUl/qbOGJ5QDBZNJHwPN4hWQ7SuDVjNqwDS7o/YvWzGo5y9BAaxFG5mOF+pVXDJFIaf4SBDM34RwSHwdvc+60qxEb1r+NnfsWSDFFs3TKHA6beksIH+f6LAG3Us3XPK+MOk7XpofbvIQiNyCrDEmllwVdxUbSJYKgvjpBnYLIYA8NkQUHQbtwX1b7lAD3WNxUerXNEi3MPsCTzWWldHMn4IYsmLtNWYmovMHchfqWouvQaX5vEALOgerUcy9Id+rbiqiqZeV61Tjc0pabRdMpQEH7jK/pH/yZ55OCAZu55VoQLADUb/fRlCJKWalTAAqGkThNojgsni+U0U8BK6UlhaOF6lh55LfvO2+LdxX2DkZTZFmPP865Bbw/HWL6NyGDvQpW58EzoNyZH5lNzZb1PAuMNTNQ0FI9Ctgmr78WEvrWbkJqJ0nqPgBlzr91j+4JdGiWIhQhI+MX+GSWtmDXCHUDVzIqMa+Lzhd/TbtF1MMpp5xfJgdhdWmaC9CBuBfQSBRGw0OEgHApPZbJeDVbcJILaI/+N2iZ0s+0jqidluc2E2G1ETbQoNaAQgGt7z0t+CLYcL1ksBl48qdLK7+JsQQaK109pH7PYtaKaDNv8YSio6bt9vhq68MJ5tZqpmC4Ld9gYX/+x+C8XPBo1w85bHtpNMd+czV/11ASLq+zEs2BoiNl7I94ck51Ev01I+Rk9YLTsjGERQHUOxBBERz1ZaYh48NuT5pKRysxRLqTQ2ieNkphRqh1WF7CEJURxR8cSk+1Nvvwb1V3/bdzA8jtFM6VBjUP1WP31vLcpG7ovlYBs+L181vKvVyOEGiWQK/a0YkSgPxIkZoFkvXbSkiKUQjIxOwGAaB22sU7meyMOEHgPBangxRd+5wsSxTNP+cpAHfXTDp9ol+bwCHceHGHU8TSiJleu/HMH0NgdpTTJK2u/MT34Ko9tavB/XeyYPCHDOK3v/L+NLkn0F/RT9GhgVk0R57NaPs1pFpGCMTh3qF7gs+k4XH9lyCe0SL57H8dvwznGyyr+02tWEeHZ51uLtgU6eTXergC2GQzQL5Rj7B6CVBTlE1SV5jrBke7mpJ8KoDV1jkSWq2ghMe8bFMrif7uTbnpSMORWFEbwfuMrwjueGB+gqARtzWaomGBfLcusuNnypmOkxzvUs0ubWtaxrjF0vMYIEZ6sW6c/zY4wTqm7MhRhArQvXS6JL1lFU1VNWCFrbgwXu2IPerIVFe8Hp4IYAwJ804NhWexgbh2kNuAcVvIw4j9tbrU5+Dpgs8rInUG5GyytbH7TUcXfxyvEl82OdPtnzMZvfm+JgJTSDB1wr/O+Jxv8ZzxzaGOYQ1sg2CGY4Q2XLGsH+4tC2oFh4H0eam84UQVlET4rXNo565KoUsaUKT5KD1zJD961SQ/2WBncPxacIzht6jmg5d4ByLequJAZwIum/vN9lXTnNFA5VGtY/awg2A0ZuCypec/7h8tNIm1buE8Xlm2ogG0jgVQGJMx3XV9TYvlUROabkvPXXXA0aXIepH3bf9xKPwpzjwsSpZzV7B+3XMc7KdhK/lTrET9vIT5gFsOfZ9sYQNGxcM2WTGReN1JXt8z6QA6woOIiBC0HMb2qOl0oxnCpnLUEPkGb2J61lMY8n9MfCyt316wzASEImzIEBJrVzYaY+vQaL4M0gvOCj5NZcS9+B5l7ji8yv9fSfTjdRBb2S3+jATSbIvyaTwmU906/boEejTPFBnpNcr38H33Pr2JglkFfTCnZIR7pu5IxmwXq5krZ97uyw9bJLzalRf8ltyQ6s8ajB+k2yWomxsdVQ1RYbsIn/AacmgHpEdjSvrFbFQQnQ+SbzwlOdmVWk6zM5GfeO/WlGgZf6rsOSf/B0YO0eSsXC1cCPnh7VnioCNJlIgH7R1VsyfPEfSxkrY6K0pFOO478NHI+eXFmP6dO8e/aekP4ite52BQhQVO/z3/TcDUdoCC3T1q87eLhariTVJfhRjTAhZLbxRknmj8gNQna/G+G5Om799rFfV2uc/UPsOMRGnCEXrJiMUXcWlkQAFwRvkqCboYJbStmEXa3ircn98NBNlXo2mBXr785BqNqiEf/zR3C9yu+8olc+BxgG8oBhmRuAWWjKYduOvN6vPqKJdhngv0j2BCM5JYQhH1nAiqjrQUfZV5FXI27xBr278h7a9huY+5Cov2O1tvvM3dyBia8IDgL9QGbiKo/322ecWSGCk7wKO4SxiKxXWL5AWJ+O9f0x0RYZsl5mEbyCpRZM7jRzrkOcvHFqaSVBrSfEseBnLg9fSgE0v2HcDC72hVPR8rPi41s0o4un1G/3eZa1IU+33DJ0fcWvM1r3L2OmYIPHLgmU1Sl1EvUmMrEUjwZ7/eAJYCmg9jmQcjPuvJXwLlWJDpQWTq3UIoysFVHaBBh8VzdsYkW55mxbxIs3PaAWXd6fM1KemlEaY0WXiBhAA0cZbCi6YqQzHH8j6Z1IPdazVSp+lXL+kUzwUR20h6ZDk8TRq5iYDSbMNGAKzjiqsJRlAquOLGtlDR9UJWI6A12U26J0dhmODAdAgOljrbbgp0HAu7SLJZxlxfz0zSOzZJatIwV/BB94/1PhY48UJebkQae1F6czNuLXpxyx4E8GjqMpmt+WCfO0hKaXD8O2FLrbIIbWA6pnOFa6QF8HPiZZuZpYs9gLp7K0sXvqx5VIjCzFrPTMAqk3ZUgcqzSlxI8bebU9xb1+2OOON5c1ekHa2cEp4rp4XLkfKpjN1BsautUpc+ysUHbvtSOy9jIhyqJLs0jJiroqHMFQjfC3BwmmaVZ4wFmnkZDu68RoBVTIC9nXwCK8fhkmGkuwfCfLgKjcnk22pvBQhMpETxjodXEqTBQ56mu66rYujBiDwa3vI/8r7CuuXlFz3CMRtMFtiqvKU5yY1Nhz2weJMcB7ShpeZU9e/uHB95sr9TJ1MAv3HoxA7kJzIuanJjY4+8DqvhdW20XsEzcZNBuk3RxdCgGEVSbQge5PInGRi2XrMbI8+ZGjZzhRW+1dFYuW9XGZVfi9fsC+ndIHKA1fnGwea4D3nwco+5rhLnFMAGH9YkAKQDb3hZujfGRUa4ns+XNVONTbjh+/x4KgdANHKDJHJLx3AUUo86dfZYTEhKAQ9CjoXS+1V2es0ZpggX45W5+0HQ787mqiXcznngeO8vDeAVZZTI+TKMgnyGE/AXdTsGfZ8sFU41X2PdXru2PBBQS4Pe2unsJC35dCD4IRWnS7eIZezeYvtChA/bY06zUC0OSEeW91lGVHAElNaSTzzohLvXyOWLqdRcUCfrJsk5ubsDTDFcz/248YCSmIsSAkbSRDMsY6I4ZFoy9q+0ViGcUwn5OJAwzsJpc0fGXzJ9OsMQeTNxa8cOj4saTDEg=="
+}{
+    "btf-sub-nav-desktop-similar-tab": [
+        "#miraiBTFShopByLook_feature_div",
+        "#desktop-dp-btf-shopbylook",
+        "#sims-consolidated-3_feature_div",
+        "#sims-consolidated-4_feature_div",
+        "#sims-consolidated-5_feature_div",
+        "#sims-consolidated-6_feature_div"
+    ],
+    "btf-sub-nav-desktop-leftAligned": false,
+    "btf-sub-nav-desktop-product-info-tab": [
+        "#productDetails_feature_div",
+        "#productDetailsNonPets_feature_div",
+        "#productDetails-placement-auto_feature_div"
+    ],
+    "btf-sub-nav-desktop-about-this-item-tab": [
+        "#featurebullets_feature_div",
+        "#richProductInformation_feature_div"
+    ],
+    "btf-sub-nav-desktop-lateActivation": true,
+    "btf-sub-nav-desktop-customer-reviews-tab": [
+        "#customer-reviews_feature_div"
+    ],
+    "btf-sub-nav-desktop-questions-tab": [
+        "#ask-btf_feature_div"
+    ]
+}{
+    "showHotspots": false,
+    "enableFullScreenByDefault": false,
+    "clickstreamNexusMetricsConfig": {
+        "actionType": "DISCOVERY",
+        "productId": "B0D4RF55QK",
+        "eventOwner": "vsemetrics_playercards",
+        "schemaId": "clickstream.CustomerEvent.4",
+        "producerId": "vsemetrics_playercards",
+        "eventType": "IVEVideoView"
+    },
+    "videoReferenceId": "CreatorStudio:37046c4d9f154a30b93e02080bd35d0e",
+    "aciContentId": "amzn1.vse.video.0d597865b4ec483a8976e1f19efd652f",
+    "clientPrefix": "detail",
+    "contentId": "B0D4RF55QK",
+    "productAsin": "B0D4RF55QK",
+    "labelDetails": {
+        "labelWeblabTreatment": "",
+        "labelWeblabName": "",
+        "labelType": "",
+        "tooltipSelector": "",
+        "labelName": "",
+        "showLabel": false
+    },
+    "closedCaptionsConfig": {
+        "captionsOnTexts": {
+            "en": "English (Automated)"
+        },
+        "captionsOffText": "Captions off",
+        "languageToLabelTexts": {
+            "English": "English"
+        }
+    },
+    "mimeType": "application/x-mpegURL",
+    "sushiMetricsConfig": {
+        "isRobot": false,
+        "clientId": "VSE-US",
+        "videoAsinList": "0d597865b4ec483a8976e1f19efd652f,0d138c0ecd8d498685374f46b06b4724,0fe8c3f68f6946e1a9278561c6b294e6,0ffe63db81874d6181d6105936290419,0c2604ec12b545299e785113229aa64d,010f85c31308443a91c9923d7235cd88",
+        "weblabIds": "",
+        "eventSource": "Player",
+        "sessionId": "137-1702945-7429020",
+        "refMarkers": "vse-cards-ingress_ref",
+        "placementContext": "desktop_web.VWDPCard-Desktop.vse_lb",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "isInternal": false,
+        "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+        "requestId": "8TC6TSEGSGXA5NXQFD70",
+        "pageAsin": "B0D4RF55QK",
+        "customerId": "0",
+        "sessionType": 1
+    },
+    "videoTitle": "Is This The Perfect Mouse For Gamers?",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "VSE-US",
+        "videoAsinList": "0d597865b4ec483a8976e1f19efd652f,0d138c0ecd8d498685374f46b06b4724,0fe8c3f68f6946e1a9278561c6b294e6,0ffe63db81874d6181d6105936290419,0c2604ec12b545299e785113229aa64d,010f85c31308443a91c9923d7235cd88",
+        "weblabIds": "",
+        "pageAsin": "B0D4RF55QK",
+        "eventSource": "Player",
+        "videoAsin": "0d597865b4ec483a8976e1f19efd652f",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "vse-cards-ingress_ref",
+        "placementContext": "desktop_web.VWDPCard-Desktop.vse_lb",
+        "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+    },
+    "vendorCode": "gadgetgremlin:shop",
+    "videoHeight": 0,
+    "videoWidth": 0,
+    "videoUrl": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc3d9024-f53a-4dfb-ac4d-209dda0299e6/default.jobtemplate.hls.m3u8",
+    "metricsEmissionMethod": "nexus",
+    "imageUrl": "https://m.media-amazon.com/images/I/91UOG4BPv2L.jpg",
+    "awaConfig": {
+        "useUpNextComponent": false,
+        "clickstreamNexusMetricsConfig": {
+            "actionType": "DISCOVERY",
+            "productId": "B0D4RF55QK",
+            "eventOwner": "vsemetrics_playercards",
+            "schemaId": "clickstream.CustomerEvent.4",
+            "producerId": "vsemetrics_playercards",
+            "eventType": "IVEVideoView"
+        },
+        "initialVideo": "0d597865b4ec483a8976e1f19efd652f",
+        "shouldPreload": false,
+        "enableClickBasedAttribution": false,
+        "isChromelessPlayer": false,
+        "closedCaptionsConfig": {
+            "captionsOnTexts": {
+                "en": "English (Automated)"
+            },
+            "captionsOffText": "Captions off",
+            "languageToLabelTexts": {
+                "English": "English"
+            }
+        },
+        "showPlayerPlayButton": false,
+        "isVideoImmersivePlayer": false,
+        "metricsEmissionMethod": "nexus",
+        "skipInitialFocus": false,
+        "playerSkin": "none",
+        "disabledViewIds": [
+            "replayHint"
+        ],
+        "includeEarnsComissionDisclosure": false,
+        "customerId": "0",
+        "containerId": "detail-player-aec6beb6-2538-4e7c-b524-f406365d2edb",
+        "allowCrossOrigin": false,
+        "requestMetadata": {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "clientId": "VSE-US",
+            "method": "desktop_web.VWDPCard-Desktop.vse_lb",
+            "requestId": "8TC6TSEGSGXA5NXQFD70",
+            "pageAsin": "",
+            "sessionId": "137-1702945-7429020"
+        },
+        "shouldLoop": false,
+        "shouldDisableControls": false,
+        "alwaysSetInitialVideo": true,
+        "showPlayerCloseButton": false,
+        "clientPrefix": "detail",
+        "useAutoplayFallback": false,
+        "sushiMetricsConfig": {
+            "isRobot": false,
+            "clientId": "VSE-US",
+            "videoAsinList": "0d597865b4ec483a8976e1f19efd652f,0d138c0ecd8d498685374f46b06b4724,0fe8c3f68f6946e1a9278561c6b294e6,0ffe63db81874d6181d6105936290419,0c2604ec12b545299e785113229aa64d,010f85c31308443a91c9923d7235cd88",
+            "weblabIds": "",
+            "eventSource": "Player",
+            "sessionId": "137-1702945-7429020",
+            "refMarkers": "vse-cards-ingress_ref",
+            "placementContext": "desktop_web.VWDPCard-Desktop.vse_lb",
+            "marketplaceId": "ATVPDKIKX0DER",
+            "isInternal": false,
+            "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+            "requestId": "8TC6TSEGSGXA5NXQFD70",
+            "pageAsin": "B0D4RF55QK",
+            "customerId": "0",
+            "sessionType": 1
+        },
+        "ospLinkCode": "vwd",
+        "showPosterImage": true,
+        "languageCode": "en",
+        "version": "",
+        "nexusMetricsConfig": {
+            "isInternal": false,
+            "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+            "clientId": "VSE-US",
+            "videoAsinList": "0d597865b4ec483a8976e1f19efd652f,0d138c0ecd8d498685374f46b06b4724,0fe8c3f68f6946e1a9278561c6b294e6,0ffe63db81874d6181d6105936290419,0c2604ec12b545299e785113229aa64d,010f85c31308443a91c9923d7235cd88",
+            "weblabIds": "",
+            "pageAsin": "B0D4RF55QK",
+            "eventSource": "Player",
+            "videoAsin": "0d597865b4ec483a8976e1f19efd652f",
+            "producerId": "vsemetrics_playercards",
+            "refMarkers": "vse-cards-ingress_ref",
+            "placementContext": "desktop_web.VWDPCard-Desktop.vse_lb",
+            "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+        },
+        "shouldStartMuted": false,
+        "airyVersion": "VideoJS",
+        "languagePreferenceStrings": {},
+        "enableInactiveFocus": true,
+        "isReactFactory": false,
+        "osaInstrumentationConfig": {
+            "schemaId": "csa.VideoInteractions.2",
+            "producerId": "vsemetrics_csa_instrumentation"
+        },
+        "enableDelphiAttribution": true,
+        "includeReportWidget": false,
+        "shouldAutoplay": false
+    },
+    "isMobile": false,
+    "vendorTrackingId": "onamzbygamers-20"
+}{
+    "image": "image_url",
+    "shareButton": "SHARE",
+    "clientPrefix": "detail",
+    "description": "video_description",
+    "id": "detail-social-share-7b609299-4ec7-4ecd-aa56-d26b046595a5",
+    "title": "video_title",
+    "pageLevelData": {
+        "deviceTypeRef": "dt",
+        "clientRef": "lb"
+    },
+    "shareWithFriendsPrompt": "Share this video with friends",
+    "url": "https://www.amazon.com/gp/product/B0D4RF55QK"
+}{
+    "socialShareModel": {
+        "image": "image_url",
+        "shareButton": "SHARE",
+        "clientPrefix": "detail",
+        "description": "video_description",
+        "id": "detail-social-share-7b609299-4ec7-4ecd-aa56-d26b046595a5",
+        "title": "video_title",
+        "pageLevelData": {
+            "deviceTypeRef": "dt",
+            "clientRef": "lb"
+        },
+        "shareWithFriendsPrompt": "Share this video with friends",
+        "url": "https://www.amazon.com/gp/product/B0D4RF55QK"
+    },
+    "customerReviewConfig": {
+        "showCustomerReviewMetadata": false
+    },
+    "showUploadDate": false,
+    "defaultEntityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "videoVoteConfig": {
+        "experimentWeblab": "",
+        "requestId": "8TC6TSEGSGXA5NXQFD70",
+        "actionPrefix": "VWDPCard-Desktop",
+        "sessionId": "137-1702945-7429020",
+        "page": "Detail",
+        "placementContext": "vse_lb",
+        "forceTreatment": false
+    },
+    "entityType": "customer",
+    "entityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "pageAsin": "B0D4RF55QK",
+        "eventSource": "RVSCAROUSEL",
+        "videoAsin": "",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "",
+        "placementContext": "desktop_web.VWDPCard-Desktop.vse_lb",
+        "playerTSMMetricsSchemaId": ""
+    }
+}{
+    "pageContext": {
+        "marketplaceID": "ATVPDKIKX0DER",
+        "metadata": {
+            "requestHasVideoData": "true",
+            "id": "vse-video-widget-card-detail",
+            "celQueryStringParam": "/"
+        },
+        "product": {
+            "contentIDType": "ASIN",
+            "parentContentIDType": "ASIN",
+            "contentID": "B0D4RF55QK",
+            "parentContentID": "B0D4RF55QK"
+        },
+        "metricsEmissionMethod": "sushi",
+        "requestId": "8TC6TSEGSGXA5NXQFD70",
+        "clientPrefix": "detail",
+        "sessionId": "137-1702945-7429020",
+        "page": "Detail",
+        "video": {
+            "videoReferenceId": "CreatorStudio:37046c4d9f154a30b93e02080bd35d0e",
+            "aciContentId": "amzn1.vse.video.0d597865b4ec483a8976e1f19efd652f",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc3d9024-f53a-4dfb-ac4d-209dda0299e6/default.jobtemplate.hls.m3u8",
+            "contentIDType": "VIDEO_ID",
+            "videoAge": "Jun 28, 2024",
+            "imageURL": "https://m.media-amazon.com/images/I/91UOG4BPv2L.jpg",
+            "contentID": "0d597865b4ec483a8976e1f19efd652f",
+            "videoTitle": "Is This The Perfect Mouse For Gamers?",
+            "vendorTrackingId": "onamzbygamers-20",
+            "vendorCode": "gadgetgremlin:shop"
+        },
+        "placement": "VWDPCard-Desktop",
+        "locale": "en_US",
+        "device": "Desktop"
+    },
+    "cacheOnProductAsin": false,
+    "componentConfiguration": {
+        "features": {
+            "features": {
+                "reftag": "vse_pfo_vwdp",
+                "sponsoredBrandVideoReftag": "ive_pfo_vwdp_sbv",
+                "cssClass": "vse-related-product-container vse-rp-container vse-hide-product-carousel vse-lb-v2",
+                "displayStrategy": "vse-rp",
+                "clientPrefix": "rvs",
+                "context": "vwdp-desktop-relatedProduct",
+                "carouselName": "Vwdp-desktop-relatedProduct-carousel"
+            }
+        },
+        "id": "div-relatedproducts-detail-8e757179-68c7-4331-a7a2-ae4d713e4977",
+        "binder": "relatedproducts",
+        "type": "relatedproducts"
+    },
+    "pfoOverlayMultiCard": false,
+    "showPFOOnOverlay": false,
+    "hideShopButton": false
+}{
+    "marketplaceID": "ATVPDKIKX0DER",
+    "metadata": {},
+    "product": {
+        "contentIDType": "ASIN",
+        "parentContentIDType": "ASIN",
+        "contentID": "B0D4RF55QK",
+        "parentContentID": "B0D4RF55QK"
+    },
+    "videoDataList": [
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "Is This The Perfect Mouse For Gamers?",
+                "referenceId": "CreatorStudio:37046c4d9f154a30b93e02080bd35d0e",
+                "vendorCode": "gadgetgremlin:shop",
+                "videoDetailPageLink": "vdp/0d597865b4ec483a8976e1f19efd652f/",
+                "profileLink": "/shop/gadgetgremlin",
+                "videoImageExtension": "jpg",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc3d9024-f53a-4dfb-ac4d-209dda0299e6/default.jobtemplate.hls.m3u8",
+                "publicName": "Consumesense",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "",
+                "formattedDuration": "0:30",
+                "profileImageUrl": "https://m.media-amazon.com/images/I/21c-iFwL1wL._CR0,0,349,349_._FMjpg_.jpg",
+                "channelId": "",
+                "videoImageWidth": "1920",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.0d597865b4ec483a8976e1f19efd652f",
+                "videoAge": "Jun 28, 2024",
+                "creatorType": "Influencer",
+                "entityType": "customer",
+                "entityId": "amzn1.account.AHOKA7JZPCYPLOR5SZ7GLETVOWQQ",
+                "vendorName": "Consumesense",
+                "videoImageHeight": "1080",
+                "videoImagePhysicalId": "91UOG4BPv2L",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/91UOG4BPv2L.jpg",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3625a540-7647-4b26-93ef-341a08b5d747.vtt",
+                "asin": "0d597865b4ec483a8976e1f19efd652f",
+                "vendorTrackingId": "onamzbygamers-20",
+                "status": ""
+            },
+            "contentId": "0d597865b4ec483a8976e1f19efd652f"
+        },
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "Razer DeathAdder V3 HyperSpeed Review - A Small Package with Big Performance",
+                "referenceId": "VseRssFeeds:bf5a25dc055840a0b1d2670abdf282ab",
+                "vendorCode": "A12X336D0ED4I3",
+                "videoDetailPageLink": "vdp/0d138c0ecd8d498685374f46b06b4724/",
+                "profileLink": "/gp/profile/amzn1.account.AFY4K4VDPCWQD36IEMIJDVP4JY3Q",
+                "videoImageExtension": "jpg",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c52fafe-06cf-4957-8d8a-5e35ef05816d/default.jobtemplate.hls.m3u8",
+                "publicName": "RTINGS.com",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "B0BV3Z4V7H,B0D4RZHDM7,B0B6XZLNHQ,B0B6Y52YXB",
+                "formattedDuration": "6:00",
+                "profileImageUrl": "https://www.amazon.com/avatar/default/amzn1.account.AFY4K4VDPCWQD36IEMIJDVP4JY3Q?max_width=110&square=true",
+                "channelId": "",
+                "videoImageWidth": "1920",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.0d138c0ecd8d498685374f46b06b4724",
+                "videoAge": "Sep 18, 2024",
+                "creatorType": "3P",
+                "entityType": "",
+                "entityId": "",
+                "vendorName": "RTINGS.com",
+                "videoImageHeight": "1080",
+                "videoImagePhysicalId": "91W39dqkxUL",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/91W39dqkxUL.jpg",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9482e284-6266-415f-b47c-8a220ddbd7e9.vtt",
+                "asin": "0d138c0ecd8d498685374f46b06b4724",
+                "vendorTrackingId": "onsitertings-20",
+                "status": ""
+            },
+            "contentId": "0d138c0ecd8d498685374f46b06b4724"
+        },
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "Razer DeathAdder V3 - Demo and My Opinion",
+                "referenceId": "VideoCreatorPortal:21015f1001e34f96af06a453ba612a53",
+                "vendorCode": "agnieszk4n:shop",
+                "videoDetailPageLink": "vdp/0fe8c3f68f6946e1a9278561c6b294e6/",
+                "profileLink": "/shop/agnieszk4n",
+                "videoImageExtension": "png",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b8e6109-02d4-4b1a-9ca7-7e43588f0c88/default.jobtemplate.hls.m3u8",
+                "publicName": "Agnes",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "",
+                "formattedDuration": "1:35",
+                "profileImageUrl": "https://m.media-amazon.com/images/I/41Ik1EeAXAL._CR0,0,392,392_._FMjpg_.jpg",
+                "channelId": "",
+                "videoImageWidth": "1200",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.0fe8c3f68f6946e1a9278561c6b294e6",
+                "videoAge": "Sep 26, 2024",
+                "creatorType": "Influencer",
+                "entityType": "customer",
+                "entityId": "amzn1.account.AFUV5TDYW4H6NBWI6MLY5JB4BIVA",
+                "vendorName": "Agnes",
+                "videoImageHeight": "675",
+                "videoImagePhysicalId": "914izJ0oKeL",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/914izJ0oKeL.png",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ea44e061-bd08-42aa-9ac5-44c1e0137eb8.vtt",
+                "asin": "0fe8c3f68f6946e1a9278561c6b294e6",
+                "vendorTrackingId": "onamzagnes09-20",
+                "status": ""
+            },
+            "contentId": "0fe8c3f68f6946e1a9278561c6b294e6"
+        },
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "This mouse is super light! DeathAdder V3 Pro wireless mouse!",
+                "referenceId": "VideoCreatorPortal:b91d95f7e2544f82b5fce23eab8fd943",
+                "vendorCode": "jrpgmillennialgamereviews:shop",
+                "videoDetailPageLink": "vdp/0ffe63db81874d6181d6105936290419/",
+                "profileLink": "/shop/jrpgmillennialgamereviews",
+                "videoImageExtension": "png",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f4be4a45-7f0e-4967-813b-f54ca3d4d7a2/default.jobtemplate.hls.m3u8",
+                "publicName": "David Yuh",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "B0B6Y52YXB,B0BBBXGD7T,B0D7Z5MZ8V,B0BBBLZKC8",
+                "formattedDuration": "0:39",
+                "profileImageUrl": "https://m.media-amazon.com/images/I/B17d7W+qTnL._CR167,227,1666,1666_._FMjpg_.jpg",
+                "channelId": "",
+                "videoImageWidth": "1920",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.0ffe63db81874d6181d6105936290419",
+                "videoAge": "Jul 29, 2024",
+                "creatorType": "Influencer",
+                "entityType": "customer",
+                "entityId": "amzn1.account.AGWVFHQHNNYN4E4LL44WDL6T3OCA",
+                "vendorName": "David Yuh",
+                "videoImageHeight": "1080",
+                "videoImagePhysicalId": "9113Un7cZ6L",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/9113Un7cZ6L.png",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1813900e-6dd0-4613-ac6c-79c5d8b91dce.vtt",
+                "asin": "0ffe63db81874d6181d6105936290419",
+                "vendorTrackingId": "onamzdavidyuh-20",
+                "status": ""
+            },
+            "contentId": "0ffe63db81874d6181d6105936290419"
+        },
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "Razer DeathAdder V3 HyperSpeed Tech Video",
+                "referenceId": "VideoCreatorPortal:e1795b0922584e8f996f5676cdf9f62f",
+                "vendorCode": "137GO",
+                "videoDetailPageLink": "vdp/0c2604ec12b545299e785113229aa64d/",
+                "profileLink": "",
+                "videoImageExtension": "jpg",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a4d481a-7900-47fe-8765-dae10e409c8c/default.jobtemplate.hls.m3u8",
+                "publicName": "Razer USA ltd",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "",
+                "formattedDuration": "0:35",
+                "profileImageUrl": "",
+                "channelId": "",
+                "videoImageWidth": "640",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.0c2604ec12b545299e785113229aa64d",
+                "videoAge": "Sep 26, 2024",
+                "creatorType": "Vendor",
+                "entityType": "",
+                "entityId": "",
+                "vendorName": "Razer USA ltd",
+                "videoImageHeight": "360",
+                "videoImagePhysicalId": "51xy4SDbuyL",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/51xy4SDbuyL.jpg",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fd9b0bd1-a642-45ec-a263-c58c397cf0b0.vtt",
+                "asin": "0c2604ec12b545299e785113229aa64d",
+                "vendorTrackingId": "",
+                "status": ""
+            },
+            "contentId": "0c2604ec12b545299e785113229aa64d"
+        },
+        {
+            "metadata": {
+                "groupType": "G1",
+                "source": "VSE",
+                "title": "DEADLY ACCURACY - Razer DeathAdder V3 Pro Review",
+                "referenceId": "CreatorStudio:066b5154eca34a599272add31f65d7de",
+                "vendorCode": "tweak:shop",
+                "videoDetailPageLink": "vdp/010f85c31308443a91c9923d7235cd88/",
+                "profileLink": "/shop/tweak",
+                "videoImageExtension": "jpg",
+                "rankingStrategy": "DEFAULT",
+                "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/85580f08-f2b8-4f2e-aa6b-11b10ed22e61/default.vertical.jobtemplate.hls.m3u8",
+                "publicName": "Tweak",
+                "fullReviewLink": "",
+                "relatedProductsAsins": "",
+                "formattedDuration": "0:36",
+                "profileImageUrl": "https://m.media-amazon.com/images/I/81h1bI7iuTL._CR191,37,318,319_._FMjpg_.jpg",
+                "channelId": "",
+                "videoImageWidth": "640",
+                "highlightedAsin": "",
+                "orientation": "",
+                "aciContentId": "amzn1.vse.video.010f85c31308443a91c9923d7235cd88",
+                "videoAge": "Sep 20, 2024",
+                "creatorType": "Influencer",
+                "entityType": "customer",
+                "entityId": "amzn1.account.AFPPP5LPLKX64RO6BGLVNDDSHETQ",
+                "vendorName": "Tweak",
+                "videoImageHeight": "853",
+                "videoImagePhysicalId": "51WLHxKtS8L",
+                "videoImageUrl": "https://m.media-amazon.com/images/I/51WLHxKtS8L.jpg",
+                "videoMimeType": "application/x-mpegURL",
+                "carouselItems": "",
+                "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f5a4044d-0b1e-43f1-8c04-025c02120b5c.vtt",
+                "asin": "010f85c31308443a91c9923d7235cd88",
+                "vendorTrackingId": "onamzjesuscue-20",
+                "status": ""
+            },
+            "contentId": "010f85c31308443a91c9923d7235cd88"
+        }
+    ],
+    "requestId": "8TC6TSEGSGXA5NXQFD70",
+    "clientPrefix": "detail",
+    "page": "Detail",
+    "placement": "VWDPCard-Desktop",
+    "locale": "en_US",
+    "device": "Desktop"
+}{
+    "marketplaceId": "",
+    "directedCustomerId": "",
+    "conversationHistoryId": "testConversationHistoryId",
+    "requestId": "testRequestId",
+    "locale": ""
+}{
+    "product_type": "INPUT_MOUSE",
+    "voyager-desktop-treatment": "T1"
+}{
+    "attributes": [
+        {
+            "tooltipData": {},
+            "label": "Finish Type",
+            "id": "finish_type",
+            "value": "Matte",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Material",
+            "id": "material",
+            "value": "Plastic",
+            "glanceAttribute": false
+        }
+    ]
+}{
+    "attributes": [
+        {
+            "tooltipData": {},
+            "label": "Item Dimensions L x W",
+            "id": "item_length_width",
+            "value": "4.81&#34;L x 2.55&#34;W",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Item Weight",
+            "id": "item_weight",
+            "value": "55 Grams",
+            "glanceAttribute": false
+        }
+    ]
+}{
+    "attributes": [
+        {
+            "tooltipData": {},
+            "label": "Manufacturer",
+            "id": "manufacturer",
+            "value": "Razer",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "UPC",
+            "id": "upc",
+            "value": "840272913901",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "",
+            "id": "averageCustomerReviews",
+            "jspTemplatePath": "/WEB-INF/views/jsp/features/productDetails/dependentModules/reviews-common.jsp",
+            "value": "",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "",
+            "id": "amazonSalesRankSummary",
+            "jspTemplatePath": "/WEB-INF/views/jsp/features/productDetails/dependentModules/amazonSalesRank-common.jsp",
+            "value": "",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "ASIN",
+            "id": "asin",
+            "value": "B0D4RF55QK",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Included Components",
+            "id": "included_components",
+            "value": "Important Product Information Guide, USB Type A to USB Type C cable, Razer HyperSpeed Wireless USB Dongle + USB Dongle Adapter, Razer DeathAdder V3 HyperSpeed",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Are Batteries Included",
+            "id": "batteries_included",
+            "value": "Yes",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Are Batteries Required",
+            "id": "batteries_required",
+            "value": "Yes",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Brand Name",
+            "id": "brand",
+            "value": "Razer",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Model Name",
+            "id": "model_name",
+            "value": "Deathadder V3 Hyperspeed",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Recommended Uses For Product",
+            "id": "recommended_uses_for_product",
+            "value": "Gaming",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Model Number",
+            "id": "model_number",
+            "value": "RZ01-05140100-R3U1",
+            "glanceAttribute": false
+        }
+    ]
+}{
+    "attributes": [
+        {
+            "tooltipData": {},
+            "label": "Style",
+            "id": "style",
+            "value": "Modern",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Color",
+            "id": "color",
+            "value": "Black",
+            "glanceAttribute": false
+        }
+    ]
+}{
+    "attributes": [
+        {
+            "tooltipData": {},
+            "label": "Battery Average Life",
+            "id": "battery.average_life",
+            "value": "1E+2 Hours",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Range",
+            "id": "range",
+            "value": "1.2 Meter",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Number of Batteries",
+            "id": "num_batteries",
+            "value": "1 Lithium Ion batteries required. (included)",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Power Source",
+            "id": "power_source_type",
+            "value": "Battery Powered",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Mouse Maximum Sensitivity",
+            "id": "mouse_maximum_sensitivity",
+            "value": "26000 Dots per Inch",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Hardware Platform",
+            "id": "hardware_platform",
+            "value": "PC, Mac",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Button Quantity",
+            "id": "button_quantity",
+            "value": "5",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Hand Orientation",
+            "id": "hand_orientation",
+            "value": "Right",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Compatible Devices",
+            "id": "compatible_devices",
+            "value": "Personal Computer",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Operating System",
+            "id": "operating_system",
+            "value": "Windows 11",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Connectivity Technology",
+            "id": "connectivity_technology",
+            "value": "Wireless",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Special Features",
+            "id": "special_feature",
+            "value": "Focus X 26K Optical Sensor, 55 g Lightweight, Up to 100 Hr Battery, Ergonomic &amp; Smooth Touch Texture, Gen 3 Optical Switches",
+            "glanceAttribute": false
+        },
+        {
+            "tooltipData": {},
+            "label": "Movement Detection",
+            "id": "movement_detection_technology",
+            "value": "Optical",
+            "glanceAttribute": false
+        }
+    ]
+}{
+    "mainAsin": "B0D4RF55QK",
+    "refinementStarsAndUp": "${count} Stars & Up",
+    "initialAsinList": "B0D4RF55QK,B07X828YG9,B0DG6DQ2DP,B0CNL46V1R,B095BRFHT4,B09NCPZSKH,B0BSKX9V7C,B0C42H2P2G,B0CF4DJM7F,B0C51934VF,B0CW25XR5R,B0B1P8LKZ2,B0C51J2ZXN,B09VCR969M,B0B6XTDJS1,B0D1CRTJ8J,B0CR9YQLNM,B08S45MD5Z,B0CLGQXR3D,B08RZ5W2VW,B0D4TRLLKZ,B0CCHV7RQM,B0DB3BSF2D,B0CJC26GQ9,B09JS9MKVM,B0CQYG9B76,B00EBXQXEO,B07V4QDZJJ,B07VG7DRQX,B0BPHG9FQR,B08DYY16J6,B073XMJMWJ,B09CXT81P3,B018WNIBJS,B0CQCT7RQ1,B0DD7K63DP,B0CP4TJZB2,B0CD3HFN8N,B0C95WB782,B0CQFC6RP6,B098FL3H51,B07VFL7HF4,B00LCLKJFC,B00YMI3JR2,B0D95J86R6,B0C39NV65Y,B09PY5FRN4,B0CPWHMDMT,B0BR7YG213,B0D9WR6F2Q,B0D2L88ZYB,B0DBQK8W1V,B0D482RTLW,B0C8ZG2WL2,B0DHN5PCJW,B0DHDCXMCW,B08C9JPV59,B00YMINUBM,B09WMMKJHH,B0D3CX3WFL,B0CCZQTF73,B0BG3CY4CX,B07PN7YN4R,B0752VK4XV,B08564NLZG,B0BGJTLFN5,B09GP7LR59,B0CSPM3FSD,B0CV8QWVYX,B087Z5WDJ2,B002HWRJBM,B003NR57BY,B09MF3JXQ4,B09JRZZ4RV,B09PC44N7Z,B09G64NN3X,B09G6F7463,B0BFJYPZYF,B08MKXVNZQ,B0BJHNFB59,B07D837ZLT,B0C7KBJ6CM,B0CH9X9PGK,B0CXLD2KGN,B0C996GJJN,B093N9M42C,B0D7FFXVV1,B0DB3Q3QK2,B0CJC2X68W,B0CJC293YD,B0D4QPPV9Q,B0CPXFVM8J,B0B84G16R7,B07Y8SF6ZY,B08BZT55N3,B07H7CKZTX,B0BB5S6DYD,B0C4FQX6ZM,B0D3KMR4D7,B0DB3HNG9J,B0D8KFYV8R,B0BJPXGVF3,B0BQMQHJYV,B00YMINU8A,B0BXPBZRH8,B0BRYQMVMG,B0CPPMVJF7,B097RZWD3F,B0D1TTBV3S,B0CNKG33FY,B0D4J5C6WY,B0D96C8RRD,B0BCKJZ7RH",
+    "searchInputTitle": "Discover similar items for ${query}",
+    "refinementResultCountStr": "Show {count} results",
+    "browseNode": "pc-accessories-mice",
+    "mainAsinPid": "71SfcN143LL"
+}{
+    "pageStateName": "discover-ive-discoverWidget-aw-ps",
+    "clientPrefix": "discover",
+    "translations": {
+        "watchTheVideo": "Watch the video",
+        "watchButtonText": "Watch"
+    },
+    "widgetSelector": "#desktop-dp-btf-shopbylook",
+    "contentStrategy": "MediaBlock",
+    "addWidgetMutationObserver": false,
+    "ospLinkCode": "vse",
+    "lightboxPopoverConfig": {
+        "popoverId": "discover-ive-lb-d1493ad6-0cbb-4001-a261-c47bf7c4491e",
+        "popoverTriggerId": "discover-ive-lb-triggerf1015db8-7877-40e9-bb99-51defec8ca94"
+    },
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "IVE",
+        "videoAsinList": "0effca079a0e46ae815ec0c042e4b2b0,0ad6b4bde40048c193726b127a799168,0172f3ce53b54f569fc071f4de20b45a,01536757da6f4896acde35c855956cbb,013beb070a594674b4b33ac2c6ecaff1,0b4945a5818f41a68fab05e436128705,09c0e843f12b45edb14c95bec29012a5,05878c56779e4c75b890d12aa80d3fa8,02983ebbe09a4619a1907a773b167b82,0cb8d648f91a47168f08ddbf3b02148c,0c7edbe0111e493885161d55e5379b44",
+        "weblabIds": "",
+        "pageAsin": "B0CNL46V1R",
+        "eventSource": "Widget",
+        "videoAsin": "0effca079a0e46ae815ec0c042e4b2b0",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "",
+        "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+        "playerTSMMetricsSchemaId": ""
+    },
+    "videoIngressConfig": {
+        "selector": ".play-icon-placeholder",
+        "type": "watchButton",
+        "injectVideoIngress": true,
+        "watchButtonSelector": ".play-icon-placeholder"
+    },
+    "asinToVideoAssetSpec": {
+        "B0BSKX9V7C": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "137GO",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0BSKX9V7C",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "ASUS Gaming Inputs",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a9792ff8-9bac-49a8-b1f4-9bca7e9c155a.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "ASUS ROG Harpe Ace Aim Lab Edition 54g Gaming Mouse",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a39f6797-60fe-44df-8f62-04a669200894/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "2:06",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0BSKX9V7C",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/41TXqwP7RbL.jpg"
+            },
+            "asin": "01536757da6f4896acde35c855956cbb"
+        },
+        "B0CF4DJM7F": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1920,
+            "vendorCode": "137GO",
+            "videoWidth": 1080,
+            "relatedProductsAsins": "B0CF4DJM7F",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Razer USA ltd",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/03b509c2-0532-4a6d-b5fb-63469e5caded.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Viper V3 HyperSpeed Wireless Gaming Mouse - Unboxing",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6a3a32e-35f2-4321-b225-3b0ed4c5d637/default.vertical.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:24",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0CF4DJM7F",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/613T9feuXWL.jpg"
+            },
+            "asin": "0b4945a5818f41a68fab05e436128705"
+        },
+        "B0C51J2ZXN": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1920,
+            "vendorCode": "137GO",
+            "videoWidth": 1080,
+            "relatedProductsAsins": "B0C51J2ZXN",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Razer USA ltd",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6b185592-a4c3-45fb-8b88-262b84c2edd9.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Cobra Gaming Mouse",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29d4f297-21b8-47ed-8d8b-bacb1644f4c2/default.vertical.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:20",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0C51J2ZXN",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/61VNiE744DL.jpg"
+            },
+            "asin": "0cb8d648f91a47168f08ddbf3b02148c"
+        },
+        "B0B1P8LKZ2": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "thinkcomputers:shop",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0B1P8LKZ2",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "amzn1.vse.video.02983ebbe09a4619a1907a773b167b82",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "ThinkComputers",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "https://m.media-amazon.com/images/S/influencer-profile-image-prod/logo/thinkcomputers_1679800068807_original.jpeg",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c5cf0a39-64ce-42d7-818c-91d5a875342e.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "onamzthinkco-20",
+            "profileUrl": "/shop/thinkcomputers",
+            "showMobileBigCard": false,
+            "groupType": "IB_G2",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Viper V2 Pro Gaming Mouse",
+            "referenceId": "amzn1.vse.video.02983ebbe09a4619a1907a773b167b82",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24cc844b-e143-42a3-87f6-211aff6ea065/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "14:39",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0B1P8LKZ2",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/61iR-V1VIiL.jpg"
+            },
+            "asin": "02983ebbe09a4619a1907a773b167b82"
+        },
+        "B09NCPZSKH": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "theprovokedprawn:shop",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B09NCPZSKH",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "amzn1.vse.video.0172f3ce53b54f569fc071f4de20b45a",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "The Provoked Prawn",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "https://m.media-amazon.com/images/S/influencer-profile-image-prod/logo/theprovokedprawn_1678446380830_original.jpeg",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/876d024a-21eb-4bdd-9d59-f313cf995aab.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "theprovoked06-20",
+            "profileUrl": "/shop/theprovokedprawn",
+            "showMobileBigCard": false,
+            "groupType": "IB_G2",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Asus TUF M4 Wireless review no wires and AA or AA batteries?",
+            "referenceId": "amzn1.vse.video.0172f3ce53b54f569fc071f4de20b45a",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4bdfcc92-ca65-4ebd-af75-e47c6e177301/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "15:56",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B09NCPZSKH",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/512a53vxrIL.jpg"
+            },
+            "asin": "0172f3ce53b54f569fc071f4de20b45a"
+        },
+        "B095BRFHT4": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1920,
+            "vendorCode": "influencer-564fe479:shop",
+            "videoWidth": 1080,
+            "relatedProductsAsins": "B095BRFHT4",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "amzn1.vse.video.0ad6b4bde40048c193726b127a799168",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "ShopOga",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "https://m.media-amazon.com/images/I/51V+24t92+L.jpg",
+            "useLazyLoad": true,
+            "closedCaptions": "",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "onamzglobasur-20",
+            "profileUrl": "/shop/influencer-564fe479",
+            "showMobileBigCard": false,
+            "groupType": "IB_G2",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Unboxing the ASUS ROG Gladius III Wireless Gaming Mouse",
+            "referenceId": "amzn1.vse.video.0ad6b4bde40048c193726b127a799168",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78ca4649-9fd2-406f-99fe-aafb5260790a/default.vertical.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:14",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B095BRFHT4",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/51p3Crgji1L.jpg"
+            },
+            "asin": "0ad6b4bde40048c193726b127a799168"
+        },
+        "B09VCR969M": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "137GO",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B09VCR969M",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Razer USA ltd",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/da5530d5-f654-4798-ab28-02c59a11a69b.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Esports - Viper V2 Pro",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf140663-5d49-49f5-abde-6d6fe6cbfff5/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:15",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B09VCR969M",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/41ki5J1QUrL.jpg"
+            },
+            "asin": "0c7edbe0111e493885161d55e5379b44"
+        },
+        "B0CW25XR5R": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "137GO",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0CW25XR5R",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Razer USA ltd",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d01248c7-470d-41cf-bb22-9ac74dca0c7e.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Viper V3 Pro Technology",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ba4f15c-6660-4e19-b4ad-0e9456be7a71/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:56",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0CW25XR5R",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/51-Q5C7kd8L.jpg"
+            },
+            "asin": "05878c56779e4c75b890d12aa80d3fa8"
+        },
+        "B0C51934VF": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "137GO",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0C51934VF",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Razer USA ltd",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "",
+            "useLazyLoad": true,
+            "closedCaptions": "",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "",
+            "profileUrl": "",
+            "showMobileBigCard": false,
+            "groupType": "IB_G1",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Razer Cobra Pro",
+            "referenceId": "",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/86ebcb37-9a1b-430d-b468-29166d197ceb/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "0:30",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0C51934VF",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/51Qm3gvPQfL.jpg"
+            },
+            "asin": "09c0e843f12b45edb14c95bec29012a5"
+        },
+        "B0CNL46V1R": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "epicgamingmusic:shop",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0CNL46V1R",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "amzn1.vse.video.0effca079a0e46ae815ec0c042e4b2b0",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "Review Realm",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "https://m.media-amazon.com/images/I/413oePVM1YL.jpg",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5ca30510-8e24-4aca-84fc-794aead1ec0b.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "onamzjustinog-20",
+            "profileUrl": "/shop/epicgamingmusic",
+            "showMobileBigCard": false,
+            "groupType": "IB_G2",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "3 Things You Should Know About the Keris 2 Gaming Mouse",
+            "referenceId": "amzn1.vse.video.0effca079a0e46ae815ec0c042e4b2b0",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1332f105-fbfb-4641-a6bf-3c68c181601f/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "1:19",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0CNL46V1R",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/91uVVDNxvfL.png"
+            },
+            "asin": "0effca079a0e46ae815ec0c042e4b2b0"
+        },
+        "B0C42H2P2G": {
+            "relatedProducts": [],
+            "mimeType": "",
+            "videoHeight": 1080,
+            "vendorCode": "diamondlobbyreviews:shop",
+            "videoWidth": 1920,
+            "relatedProductsAsins": "B0C42H2P2G",
+            "fullReviewLink": {},
+            "titlePrefix": "",
+            "group": "",
+            "showHotspots": false,
+            "aciContentId": "amzn1.vse.video.013beb070a594674b4b33ac2c6ecaff1",
+            "creatorType": "",
+            "videoAge": "",
+            "sponsoredBrandVideoMetadata": {
+                "clickTrackerUrl": "",
+                "instrumentationPixelUrl": "",
+                "adFeedbackUrl": "",
+                "linkUrl": "",
+                "trackingPixelUrl": ""
+            },
+            "entityType": "",
+            "sponsoredBrandVideo": false,
+            "vendorName": "DiamondLobby Reviews",
+            "displayLanguage": "",
+            "sbvLabel": "Sponsored",
+            "profileAvatarUrl": "https://m.media-amazon.com/images/I/518yXiV2CLL.jpg",
+            "useLazyLoad": true,
+            "closedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1c95e787-5f0d-4065-9901-18c4840a0e82.vtt",
+            "customerReviewModel": {
+                "profileAvatarUrl": "",
+                "bodyText": {},
+                "plainBodyText": "",
+                "publicName": "",
+                "reviewLink": {
+                    "linkText": "",
+                    "title": "",
+                    "url": ""
+                },
+                "isVerified": false,
+                "nonVerifiedPurchaseContentBadges": [],
+                "isVerifiedPurchase": false,
+                "stars": 0,
+                "title": "",
+                "originDescription": ""
+            },
+            "vendorTrackingId": "onamzrz092-20",
+            "profileUrl": "/shop/diamondlobbyreviews",
+            "showMobileBigCard": false,
+            "groupType": "IB_G2",
+            "useCustomerProfile": false,
+            "requiredAge": 0,
+            "cssClasses": "",
+            "origin": "",
+            "title": "Wish I knew this before buying the DeathAdder V3 Pro",
+            "referenceId": "amzn1.vse.video.013beb070a594674b4b33ac2c6ecaff1",
+            "videoDetailPageLink": {
+                "linkText": "",
+                "title": "",
+                "url": ""
+            },
+            "truncatedTitle": "",
+            "rankingStrategy": "",
+            "videoURL": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3836e0fe-f4ab-4ab9-9429-8d90322fcf44/default.jobtemplate.hls.m3u8",
+            "includesProfiles": false,
+            "formattedDuration": "1:36",
+            "mobile": false,
+            "use3PProfile": false,
+            "productAsin": "B0C42H2P2G",
+            "labelDetails": {
+                "labelWeblabName": "",
+                "labelType": "",
+                "labelName": "",
+                "showLabel": false
+            },
+            "entityId": "",
+            "sponsored": false,
+            "segmentName": "",
+            "showLabels": false,
+            "videoImage": {
+                "url": "https://m.media-amazon.com/images/I/91bH911hQjL.png"
+            },
+            "asin": "013beb070a594674b4b33ac2c6ecaff1"
+        }
+    },
+    "contentStrategyFilter": ""
+}{
+    "enableFullScreenByDefault": false,
+    "clickstreamNexusMetricsConfig": {
+        "actionType": "DISCOVERY",
+        "productId": "B0DG6DQ2DP",
+        "eventOwner": "vsemetrics_playercards",
+        "schemaId": "clickstream.CustomerEvent.4",
+        "producerId": "vsemetrics_playercards",
+        "eventType": "IVEVideoView"
+    },
+    "videoReferenceId": "amzn1.vse.video.0effca079a0e46ae815ec0c042e4b2b0",
+    "contentId": "B0DG6DQ2DP",
+    "closedCaptionsConfig": {
+        "captionsOnTexts": {
+            "en": "English (Automated)"
+        },
+        "captionsOffText": "Captions off",
+        "languageToLabelTexts": {
+            "English": "English"
+        }
+    },
+    "mimeType": "application/x-mpegURL",
+    "vendorCode": "epicgamingmusic:shop",
+    "videoHeight": 1080,
+    "videoWidth": 1920,
+    "initialClosedCaptions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5ca30510-8e24-4aca-84fc-794aead1ec0b.vtt",
+    "videoUrl": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1332f105-fbfb-4641-a6bf-3c68c181601f/default.jobtemplate.hls.m3u8",
+    "metricsEmissionMethod": "nexus",
+    "imageUrl": "https://m.media-amazon.com/images/I/91uVVDNxvfL.png",
+    "isMobile": false,
+    "showHotspots": false,
+    "aciContentId": "amzn1.vse.video.0effca079a0e46ae815ec0c042e4b2b0",
+    "clientPrefix": "discover",
+    "productAsin": "B0DG6DQ2DP",
+    "labelDetails": {
+        "labelWeblabTreatment": "",
+        "labelWeblabName": "",
+        "labelType": "",
+        "tooltipSelector": "",
+        "labelName": "",
+        "showLabel": false
+    },
+    "sushiMetricsConfig": {
+        "isRobot": false,
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "eventSource": "Player",
+        "sessionId": "137-1702945-7429020",
+        "refMarkers": "discoverWidget_ref",
+        "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+        "marketplaceId": "ATVPDKIKX0DER",
+        "isInternal": false,
+        "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+        "requestId": "HNPHJFGRAV8B1T0WDG0J",
+        "pageAsin": "B0DG6DQ2DP",
+        "customerId": "0",
+        "sessionType": 1
+    },
+    "videoTitle": "3 Things You Should Know About the Keris 2 Gaming Mouse",
+    "vendorName": "Review Realm",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "VSE-US",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "pageAsin": "B0DG6DQ2DP",
+        "eventSource": "Player",
+        "videoAsin": "0effca079a0e46ae815ec0c042e4b2b0",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "discoverWidget_ref",
+        "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+        "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+    },
+    "awaConfig": {
+        "useUpNextComponent": false,
+        "clickstreamNexusMetricsConfig": {
+            "actionType": "DISCOVERY",
+            "productId": "B0DG6DQ2DP",
+            "eventOwner": "vsemetrics_playercards",
+            "schemaId": "clickstream.CustomerEvent.4",
+            "producerId": "vsemetrics_playercards",
+            "eventType": "IVEVideoView"
+        },
+        "initialVideo": "0effca079a0e46ae815ec0c042e4b2b0",
+        "shouldPreload": true,
+        "enableClickBasedAttribution": false,
+        "isChromelessPlayer": false,
+        "closedCaptionsConfig": {
+            "captionsOnTexts": {
+                "en": "English (Automated)"
+            },
+            "captionsOffText": "Captions off",
+            "languageToLabelTexts": {
+                "English": "English"
+            }
+        },
+        "showPlayerPlayButton": false,
+        "isVideoImmersivePlayer": false,
+        "metricsEmissionMethod": "nexus",
+        "skipInitialFocus": false,
+        "playerSkin": "none",
+        "disabledViewIds": [
+            "replayHint"
+        ],
+        "includeEarnsComissionDisclosure": false,
+        "customerId": "0",
+        "containerId": "discover-player-0f1e3d52-7a05-43ed-a32e-329094237370",
+        "allowCrossOrigin": false,
+        "requestMetadata": {
+            "marketplaceId": "ATVPDKIKX0DER",
+            "clientId": "VSE-US",
+            "method": "desktop_web.HITDiscover.ive_hit_discover",
+            "requestId": "HNPHJFGRAV8B1T0WDG0J",
+            "pageAsin": "",
+            "sessionId": "137-1702945-7429020"
+        },
+        "shouldLoop": false,
+        "shouldDisableControls": false,
+        "alwaysSetInitialVideo": true,
+        "showPlayerCloseButton": false,
+        "clientPrefix": "discover",
+        "useAutoplayFallback": false,
+        "sushiMetricsConfig": {
+            "isRobot": false,
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": "",
+            "eventSource": "Player",
+            "sessionId": "137-1702945-7429020",
+            "refMarkers": "discoverWidget_ref",
+            "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+            "marketplaceId": "ATVPDKIKX0DER",
+            "isInternal": false,
+            "endpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.vse.metrics.prod.events.test",
+            "requestId": "HNPHJFGRAV8B1T0WDG0J",
+            "pageAsin": "B0DG6DQ2DP",
+            "customerId": "0",
+            "sessionType": 1
+        },
+        "ospLinkCode": "vse",
+        "showPosterImage": true,
+        "languageCode": "en",
+        "version": "",
+        "nexusMetricsConfig": {
+            "isInternal": false,
+            "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+            "clientId": "VSE-US",
+            "videoAsinList": "",
+            "weblabIds": "",
+            "pageAsin": "B0DG6DQ2DP",
+            "eventSource": "Player",
+            "videoAsin": "0effca079a0e46ae815ec0c042e4b2b0",
+            "producerId": "vsemetrics_playercards",
+            "refMarkers": "discoverWidget_ref",
+            "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+            "playerTSMMetricsSchemaId": "vse.VSECardsPlayerEvents.7"
+        },
+        "shouldStartMuted": false,
+        "airyVersion": "VideoJS",
+        "languagePreferenceStrings": {},
+        "enableInactiveFocus": true,
+        "isReactFactory": false,
+        "osaInstrumentationConfig": {
+            "schemaId": "csa.VideoInteractions.2",
+            "producerId": "vsemetrics_csa_instrumentation"
+        },
+        "enableDelphiAttribution": true,
+        "includeReportWidget": false,
+        "shouldAutoplay": false
+    },
+    "vendorTrackingId": "onamzjustinog-20"
+}{
+    "image": "image_url",
+    "shareButton": "SHARE",
+    "clientPrefix": "discover",
+    "description": "video_description",
+    "id": "discover-social-share-f0eb4bb8-c929-4c03-a125-4bc22b693da2",
+    "title": "video_title",
+    "pageLevelData": {
+        "deviceTypeRef": "dt",
+        "clientRef": "lb"
+    },
+    "shareWithFriendsPrompt": "Share this video with friends",
+    "url": "https://www.amazon.com/gp/product/B0DG6DQ2DP"
+}{
+    "socialShareModel": {
+        "image": "image_url",
+        "shareButton": "SHARE",
+        "clientPrefix": "discover",
+        "description": "video_description",
+        "id": "discover-social-share-f0eb4bb8-c929-4c03-a125-4bc22b693da2",
+        "title": "video_title",
+        "pageLevelData": {
+            "deviceTypeRef": "dt",
+            "clientRef": "lb"
+        },
+        "shareWithFriendsPrompt": "Share this video with friends",
+        "url": "https://www.amazon.com/gp/product/B0DG6DQ2DP"
+    },
+    "customerReviewConfig": {
+        "showCustomerReviewMetadata": false
+    },
+    "showUploadDate": false,
+    "defaultEntityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "videoVoteConfig": {
+        "experimentWeblab": "",
+        "requestId": "HNPHJFGRAV8B1T0WDG0J",
+        "actionPrefix": "HITDiscover",
+        "sessionId": "137-1702945-7429020",
+        "page": "Detail",
+        "placementContext": "ive_hit_discover",
+        "forceTreatment": false
+    },
+    "entityType": "customer",
+    "entityId": "amzn1.account.AEWJU7DAVAFQQL4MUODBTSRFL7PA",
+    "nexusMetricsConfig": {
+        "isInternal": false,
+        "widgetMetricsSchemaId": "vse.VSECardsEvents.8",
+        "clientId": "",
+        "videoAsinList": "",
+        "weblabIds": "",
+        "pageAsin": "B0DG6DQ2DP",
+        "eventSource": "HITDiscover",
+        "videoAsin": "",
+        "producerId": "vsemetrics_playercards",
+        "refMarkers": "",
+        "placementContext": "desktop_web.HITDiscover.ive_hit_discover",
+        "playerTSMMetricsSchemaId": ""
+    }
+}{
+    "pageContext": {
+        "marketplaceID": "ATVPDKIKX0DER",
+        "product": {
+            "contentIDType": "ASIN",
+            "contentID": "B0DG6DQ2DP"
+        },
+        "metricsEmissionMethod": "sushi",
+        "requestId": "HNPHJFGRAV8B1T0WDG0J",
+        "clientPrefix": "discover",
+        "sessionId": "137-1702945-7429020",
+        "page": "Detail",
+        "placement": "HITDiscover",
+        "locale": "en_US",
+        "device": "Desktop"
+    },
+    "cacheOnProductAsin": false,
+    "componentConfiguration": {
+        "features": {
+            "features": {
+                "reftag": "sbl_dpx_ive_",
+                "hideSponsoredProducts": "false",
+                "cssClass": "vse-related-product-container vse-rp-container vse-hide-product-carousel vse-lb-v2",
+                "displayStrategy": "vse-rp",
+                "context": "hit_discover-widget-desktop-relatedProduct",
+                "addCelParams": "true",
+                "carouselName": "hit-discover-widget-desktop-relatedProduct-carousel"
+            }
+        },
+        "id": "div-relatedproducts-discover-22a3f6c8-f027-4a95-acc5-520842729f85",
+        "binder": "relatedproducts",
+        "type": "relatedproducts"
+    },
+    "pfoOverlayMultiCard": false,
+    "showPFOOnOverlay": false,
+    "hideShopButton": false
+}{
+    "marketplaceID": "ATVPDKIKX0DER",
+    "metadata": {},
+    "product": {
+        "contentIDType": "ASIN",
+        "contentID": "B0DG6DQ2DP"
+    },
+    "videoDataList": [],
+    "requestId": "HNPHJFGRAV8B1T0WDG0J",
+    "clientPrefix": "discover",
+    "page": "Detail",
+    "placement": "HITDiscover",
+    "locale": "en_US",
+    "device": "Desktop"
+}{
+    "eelEndpoint": "https://unagi-na.amazon.com/1/events/com.amazon.eel.SponsoredProductsEventTracking.prod"
+}{}{
+    "pageRefreshUrlParams": {
+        "sid": "137-1702945-7429020",
+        "ptd": "INPUT_MOUSE",
+        "json": "1",
+        "dpxAjaxFlag": "1",
+        "sCac": "1",
+        "isUDPFlag": "1",
+        "twisterView": "glance",
+        "ee": "2",
+        "pgid": "pc_display_on_website",
+        "rid": "HNPHJFGRAV8B1T0WDG0J",
+        "originalHttpReferer": "https%3A%2F%2Fwww.amazon.com%2F",
+        "parentAsin": "B0D4RF55QK",
+        "dcm": "1",
+        "numericGLProductGroupID": "147",
+        "asinList": "B0D4RF55QK",
+        "storeID": "pc",
+        "auiAjax": "1"
+    }
+}{
+    "encryptedLazyLoadRenderRequest": "AAAAAAAAAAA7xxgPKuzE2oq4NGXhqcJ/yyMAAAAAAACTZFfCWGBdZn6KcdVvwMzziscV6feQRSJlKgv/akhwmulnmVNUbPdm/mNhCOB+kGrH0s0ZzKORcj5HwyPCTibkNyZDHNvlXrbJyc8qQc/nGh6DMLjcg5Kj4+ng0e7m73gaN1DTbHRPg7Zk+lHr9RMC8L2UIOYhjYuzevomIjzYE6hkPFaXbohHiwtFctxC0Uw0Y69kB4c7qbdjR8mM/BciDDqE8LQALjc7C49NYmGLp5jqV/NoQiZRLxB9oKTtBVCrlI2E5DXxnLLrQSCKZ98gAShkYmrKWKg3Phu7cIsvp8VWSm+hIBS+GOl7BoAyECtMWxymcKceh0bBVtCxkv3xA+ALrYDBE5QZcbNe+swV9Xw9rK60CD6d8JMeD6N7U5eWsuHM1q+LUP6AKgxD+J9Mj5c96f4S5LPSz3E5Ccap9MDptzJPT4D3Ylmb9k7DgECUgWzeaJpxASR8hMlkZMYVdeMFqJOhl+5C6WK0JnHwtOuX8QFICliZc4PVgDt0P0FLg+YA3/UI7+Q8Lfand1+KpcokN/Nflp/Emab8R+62S01WZz0nvvs/nUcmzpJiFCnki3x8+AkZj/HKAPpUxEfQ6wb5al+bjQ3f+4RJ7ihS/eS8RKtQU7sI9attX7yUGx9+5zPYVxhH0gvsGOoq5k4qfwhb/meU4WwdvdjyQqq3lKP4qMSwViIQgTIQ0OxCNnwKYzBGAgaZ09mMx9Of7dKatzhy271ZK/cSwYkzROPr29Nlg0//nwy9fHFpAFjsugUR4zqCO7mbQSfDJvtJhDXRUwstZJ7SLftBxSSmTbJgpQaVT07epzQBYaEWIyTf0Tem3hcq+9FV7bU/PPTv1IxytdG1/sTObpWseTc7TVT44DBhQcCU01Z134r1uq/t6J/ZYKurNntTHstZF9gBLnjvrRJaC8HDfjKLcs71OGkBIlVlOrMF1RExx+z3zy8F4fYOa5xlbDU3oY/uJHAnh7POqAqYFuHLkP2hdOc/gTcvSuG9Hv8W+NJbiuuaBDmq+cbvSaUr0tOy7sNO8wV2dnN91gqC3RgWF9fA4LuBaNm4820g7AGDA6238lJJyB3EFMpxttIM9u7nbt7GbVJFfeW1fb/lR2ziF69pStJ9J6GfjOHqNj+kUuCIL7tVTMatPFiYup7hUSqTVWQvZLFbF4GZtlM8XbPkuBbQlPkmXkVjDEWrUhdz64xnh8WmhToDyo7qh9qg4wXsN4z3bC4sBsN4xx4/a3sNZl9uBpgHuMOv3B8Er2h5OlkqdMHj5aMqryn2/3JcDJhl/gAbx+ppOFVPPesNpxHFKT/5hCtSjQmAvmXKAk9AWU7qArTJxJbSuB4qyyFbBAfa/vc4jFzJS2lm1Js7HsK++ddqkpBHUdSjGfdGTLhaySM/S8MSL+Sdj/YisnoivPTF08VvIazsVQ/rFUbGzTpWt73ab2a4wEvsdSIyeYb1MZh/hIwg6a7bcebSNU7bAZvLA/3VJvNFGnFWF0DBfSdk16S+oVZ/swi/SUKEsCaE+7mYE7f3RbXqJUwDYDnoIJ1q/KWiiHhnUxdG1x8S7jjpg8vOI1m2OLUxbD5Nk6YCeMD16RRMGXWBYNvks7xdSCF5mgSVw26Ysab0ZU+1BX+IMwlPwdlfKQN8FYO4XcV9I3m2MaOkmaUxEpbZwpuFrH7NWDJeP4o6fxi+1KIuXshNwkDaTe2R1/QRydXbGT6PZkrq9SZsGjZCGMYi4drADrOAZCi4nq358AIrELiMcD1LO1BNFYz88nukXuVq4B9zvJsNfVwlxKhrFZUSdf8kB6zsfaTfvaU5V13ADaPx3flO88gacF7ghA9oRj52D6ytV3IoELi+k6UZJcX4qsMzVvOnbH9m8OQJ9P6Gldk1T9oUZ+YzjSQnDmyr/1CDvJVlf2lYgdvk5Q2OzTMyPu84LELR33bmIeiqjAcN0WnfedLexgLsQebdxKR3CZWoZliQIACxEdUVppLyz1KrCx0vYDS00mZqTCctKANwMV242dbub6Njl5WllxTY3G564k6tIxUjyalE1wkOV7d0Yj/r5pQQhxoWKYK13u+7HkGBLvXi1V5jbwAlV4vLTzc+qz2Q8uC342EQWyNICpaqn/lqBktYb3mfOKfSijQRxoMDXugJguL1nj+ejHhyrE0h2E99w0DSBfl8RnEhlwyPKiuOjRMPVxl1+FLvCD6j/Uf/Mp3S4djx/2uwKILQq6P0311rggOxwZ/xKz9axEgpIXbxR2s7xQQxbS3kDK4cFk+20TVuwY2/8SUfVzYbYa9JTx+W/1cJmHq6uDrLFBVY6qAeHTZUJxUlOWkr0OxSTr7RBOeCUn2+9wSzU1jmsn8PXtSdcMMLrTehNLVs6OeRtzAE7nUpbA7zsDIcoaUaQjSPcbnqF6WmP8jkCv06P+uwwhOHvceEzl5fiRWBxnBbTY+wiGblCAxv5nNyORcgbzFFvjn8MpFiIX6tDY5vYxEXvdRM3KnSrPddabMAESpp+pGPFIM6wDdHEsu/i/89mPF495gtqatdAecWn7LT+FeGdbQXEkd9mk4csaiAhcYlI6T9gaSg9yeeCRW7sJ9clr5c4jt1GPF5KIdaM87+PnZEj1A26DdgydDg96N2UeKtsVLanp5/jN6mk1M7cjqqAlmPuIOgsFc6wYLgrXSTfO12/UQopILCHZXDcmhiFyuYZPbj0k0I5htW2KNsvvZEhvlBGxyfBPFaYvUmwPzqrKDM1v6zjtIuwKlKaHjpamVCSZNbGfj+yOwNet2okPiN844rXJjF+5rm1B4MFZ1/XtGVwMi6Tr2rs/0lDp9GfThbkZ9PDZkx6MDJDMtu6RWUFdsh1vvpObJEIyhUAGycteYdiBUexqzc+67cl707ry1yZTqDpOhtAg9taY6nJvqzkHV/5L9HEXSwH5vVXFgzswSyUWAUq4U+KPCVzqXdOSOJ18q4tEFwXuh9IJx9jWFvOTMXNJn2SIUJQog90qZNGmweXUM5FiMZQdjsFVBc3ytjJKX8Pr+mGt7HcdT93jeg0Mtc1AUTOKK65JRsaFZtlKYkCxsvr7Ju2tT8TEmkDF4UO2A2hQfs6yKGQOxPu/RgOq8e+aFb1d1k7YAlX07HAXvQSeDd+4BwJi3M6OBvlFMZpKz115JoPS0lLha4UWP+vUNoWPk2i8sbURef5z8UDcH/AYBTXWx2EeQslWSL2El4e37WjY/dBWYOFECUlEGKlsWaCiJ7lKPTtSZo7y/UQYhv3LMnIOCF5Y3mTkRpF+M7B/0RfdiRIpnaZEEh57oUD05LJYB5v88OiahdCncdqyEtrPAgVT5ws4m/Hg3mysfl2mDSyluJWVxQilz+I1NS7s9BkxZv+HMIvbjn2dRTrSSjCjcNILEm0vZOfPNQozqvH9VfHp6OeX+/JQ7YW54PGS25RRYaTBYowY75ykyLu7Z2Dns8A9FxLQ5dNcaxiPXLUihGDOjT+KtzHIp8/ZuuCzIZQjHB8TSVEqyiHHe7NkIg08rkH+gnPjyo4ZgjKMsW3hvKRotcsGeERKxPAswvSSqh9+06pWEoRyAJqOXflAGfTcY0MIIaP5dydGSmvKnIpwRq/NeaA9IcA8t5Dk21syJIU0zNeV5jJa+YKBn7eb6JfL06ZGoHPIM5ciGYRcL1FFyv56M8wpp3tFYQrW2Xc3wvcK/xbGp57mBXc14/4iMfFdKl4skS0yhoSB6TrMlaabU3EEV68Rol6mK5mUX+NrxglDePm7qVEnuuVFyLpqHEWAoBerh7bPc7JfQgZ0csAHwHXCHi+9yQ5SqtsQoLb3izCes3vruWe4g30zq2HhzxZ5Vs7oFL591Pgu1BKLkiolbvMPUSqmzUsJjqwIcDrc2/b0lz+uIqHpVDPJ3QyA7QIGAFL+MFFTUu1rTW6Gb8aYG1Vi5pQTT0D6dsBjYNuyvRg2Z5KXr/repk9iDic+7/TB6BAHiHszbI3Sl3Xah5it4GuVTsrix6LvXe0w8zrjp5eK2h7iFKnncWyUUI78YR/CnlBVlxsXICz50+QiN2LPQ4WnArOsqZSTmj8nDOH4dPYXMxxEzvqqeAa1YIGHtlFu1uVlzWw5o7UlXkfohigmit2wxwgh5/Uh0wAdaR42mb2t/pIrQHQrssDy1kk/VnLs+Fev+2UGwAh3G8JrI0bgsNZzw6m1AlDrzux7LbhhQZNQQQ1eJOrinPPqDDpvCN/RCv75Hip9oHBhThCtqawasdkzCHIrUK4dKM9XByLGFf+J4TDyv4OLwkJKhxpfVoaEW1jw3noiDZjaVJRjToMZ714UR9HjsxuPMstxfmRLHzb5JKMbhPmznl7xVK7jRfLmy6Dd6385Dian97iRXxJ5XtJS+av6+E6GnXPXvkdmzizSlIG0tHePcqvAZTi2MmQoFd8y6JJ+2lu/UPeVsQEDVvrvvRF+CQYOzK89JwkzDJGnIct7Uf7v3Oc4sSczjLpiKZGD2TdvMB0bVjv5eSBO7h11jVuBjAfp1l2/wC+f8ffxa0HWxZu0uUaAfHfLZB4FOA31ncX01VI8e5UrdQmRf2yBZ9mtT89dRQnfUQ5GqgHee9GGcLyIgDiCOaJtgRFNLYnyIr+UcZj8j7wh8U+iKTeVS+DiiuvZwnMW7rZu44ACscBXn0p/qz0JuT263yfkrSKQIwqellV9a7aTdO7Vbpkr9UhLu0f/cWHm10fKEvsjrQB91usoFJbzIiL1FKIQP3scDiyFdMk4tIw4aRjGuyFJ894kyI7uMslvi8NGkNe3W25+BCVY0FkLotqhurOfESsclYMPNUSSEoYYxzQS56oYnDL63xE/6g5KTYSfEVdpt8CmDolGIduGnAzCyrF7Ozr9V0qjQ2/gJNvbJlcAoS+/FNBoIIHBWeHdIizGQLtoxIu90tOhnUuXfitaJiFFikFiGtz/3FdG8kwIay+xijldn6UM2M39i9YtjsASuLFmyhUJGjrBOvWzjSA0/Ct/HvbweIsULlnmMnfi+Nsk9vHcigECAJL8qdu5r7POaOJc72G3oCyQOADpYhkrahmLxalPBxArZhEztR/Dd+fFb2yGprNR6MUeKwQQBd7U11V26eJjrGcFoSoXYYNoSEj5IVdPx0eTJS/UO2dfHMA0o599jUK9aUIV8xdZ/x3NxVvOma1f5iVw1QJyTsuQUzMXDfWYANtvLqe0VP0+L1yymRz+Y+JFM1Swo3HXf+5bACS8iK1PUIgpIRtIckAHXs1w10CBnH+pNzB48OzoGGvQ9Ws7LZTw3AJsxraeRjZM7Q4VvLjzu1A2bXJrmxyDWsH1SBtHy1k+XX4NAnuemtSHgRy2hEZLQdSV4zqxGiJPPwvRO2VeTP0kkvqhgNlyl+QSine2Hj7C2msJ+4Xs5jlSJ92MNxpUsmKmHR+gXJat5qbGU/4XEkzBR8sALND8fMrSeFcubVU/byxCFNsh1FhW3F3K9jTDiJvZKLwqidHyramobFrQ6bK10I5pCM7lsFwxtdsOCl4J026g253IIuBmKdhvr0I6t7bfJ2oPlTTLENFcqHUZvD7ID+GWHYWBD2tpeG7BtjYIWi6o9cTiA1VOa7zEdF6AkQX/kWV9bC2zD4CTjwdUgm5o6atwNtiyKuZ6ldVd5KMIscDR4gasDkA0nx/N1KZauGrl9qiQQxX6ipqwFysOvgEs5HFUfZtodJ4oQ8hp0SJ6ZpG4QANjWMdbEMGEpEijNYFCT0BFqlHaESgrPc+R8fnBMHg4gjCQAbXQWGwjtP6ORQy0r+IxJ5rmdKqNwwr6qNOVi2TVupj/p0CHZZnJ8EL/sH7MHJqMa99xGJpY8MbrbV8bLO4p7wjelad13+NyTf6uu329DudJfBckpSgiz1xUqnyC7Zsvw1Y9dy8wUY0zhcwcsFTy1plP3XtiVuc6T/C/EQ5FKeV8PIuMWKCtca0dlhR2iJKCOPHBAKie0/dinTo0OyUhBXj2juMjKZNtjS1JU3oXYxdLN5YHKUnvpO3XVsnynAJklm2XNmviIPoVqe/ExyHd2xq0SfJDIWdtKdiU+3BEgd7qaFKTrlyWiSwlqwmuY1mYpSgymmy+zQpByoaavFmPefVOTVahIIAirrm9aW9R1vonFpwrRFpkC23kvRl0ajiLHGP95m2rnwo+wKUlMvNxa75CsaEKZRyTn7fzeQBPgDbXJdF+zyHef+GfgAc3SDi77twGgfz+m93tZ1uG59VcoGEwacElGuRxDVOs0of8EpJSTJJv2pF1iE3fwfmfgID/5eDKpG7RfWuC24XSMYzstRFgojjaVK9DQYeEdDJMT/NOk+BgFFPjXxBPagMTFUqS+opfL7lhA2U0s6x/rW8mUV89EA/LMRuSaxx5HKWwpEO34W6FdvRD53StlYso78Zv5yRGq383Bf9x+EvxLRATmG5U1ckZUuRMTk6ruWnyOBHIYAcy3nphcsccXlYZGqFJ/Dwr2McAMr44SDWrxBZJpWlfnOFFkNFMpOis+ZnygUGyFl86JZE2UChuXVvj3RBpMhPR34It9QIkP/ro6Yw5HD0Trdj1M9XHCM0MIJEEJu8MQhczQUHkA7NzrYLOl3Mrbd7SuGT75DAvb3/DdQxb2Hvajx1ftKsqH8nQ6RC3HqodchzzEblSARkoCvtoflhLmELzvg4THbSsVrpIfMoclbYZ/giQekDtQSxcTvw2MvczqmUSww8ZelOuT0WZI0R+QIAgCXYr3TGmX0jEMp+iPd9MSGUc76Ic8DFBQsSTEcBNF9whDdTS9OZ7sn1Qgy7ILoQXbSyTXKGD+1ZXDGz0o9TBvC4hgwiGz+EEAgXDi30MUvdp0LzUpq9qilgvYQgU2Fwg0kBvB+7lefT4TNfF6KAivDqJzDluyLl/RhyDEYkMJH0cA/ULbox97ksNGqnMHwqMvB+ClExaGv9WSAihYApiOY+zR0jVgTMI5jdMJxAz0m+kOSwbqfG/ZyTIh7UvwnvtawmxDxkR2BjHiRgnbr+vGYgsDtwwN261ZHNdFICb1bX194v2URrf1cpYaIbYrmE9tvz6MmU+zhem9QRGHpMVcUCZY5+3lg2y7JPPZuKcho6+z35tsCZdevVB/sUYdervp8mpO1oTMMg3nIb7tXTTqGYEqS5GazoE0TDwtrK0Ga5y7tgpL/S9iEE3XN6HtK4cR0nDha1gWMYZx/e/kclGhvcA+NtPtBUTaonB/Pst8TMy2W/GUMYHaEZM1xnz+mZ/e61opNtJmwhRGhaocBHgGpmBetdcaDJNj7aGh2oLj52+A5lkg8Px23I2N9T+GTYhjgwdoM4/xEmOjZPzXAqh9L4elGgUDX6DGNxHQTDtu3Rb+ptnItndU1uJ7qtKSV0+jJrzjBkKCDeJRMe/I8llZLaBFi3G7Mjnl3qg4gO0uF5GSLiTDJTK9Z1MAHu5FhYr/9sLmEOVBGmZEgR7gnytbQw86BUT3Gr5gcMMziTupDvJPxvc1gcOnCfcOa8fR1dSamvJ18xc2H5eN5g/A4sSXHmfdI/kzvzy+9qxtPyInH5EwQkS1DgFlg3IQMf+jBBuacQYY2TilYHu7lTrCQCKsS8MeeG9Dw4u19MjhJ2+aW6+Om7QQ2vgNpq8fsp0oUl45XNYCtgzXxdxgaDi+FoJUz6XNwDvPoLaEY/TxETo2jrLcweUO+HrnrNI3bxaym5MFH4qybuYrWVQ+DU7r7XAEHW6nE3IapFh2wxnej0i1qOctikSURJ+8WWESIiclZxwPkzaeXRQC8XfRmocDTFx+Ir4/PVhRi/Y5uKLE/mc3+pqXiMV7gmLv0lsB5dFhRpA04/aA4DsbRjymvKVX1BIaB2USK0RmKF428Qq7fX4A5sJhZ5+0j1ienNzACln6fukokSF3vd2elbWTa+oe28l4ZtoJZLHIcd8eiTMohUZAnQSmL+EK6j64KTFiTNQBbsqNKlmIXqNXqHHpgDTcwq0GQEme9Nc3VdOFcCOlebcijFuRnrtmvrzUMRxUeKVRgnIS2rlQoZjHCq1Ow3bzc/qlwI+48xWA2MentUmzJy4S5QyHWj56uAtr6wd3Ul2ULvO0WtCbLHYFt/d7MdotliiBts/uR1ljdKBdxUEEpclcwIu1bvmRYvMWg3OfX7eedv6UNJkalZ23VlvXQViiZK6sALr8H3eNNyGbTlSemk+tv7FVkD+rC+kvI7xLXhPC1okT2N7sJTQ/7zLIrm3lGur8gXpb3vAeKApxpavchr75mMtcwVywgCoCIN33TzH49H27/2dL63CY+6BHk5RdpiXKw2yKHBOnlAw5pQTqZ/ibW0V9SXZKXOTDXiYqdYjCrRQ2HG4h+h3qunlZ+sudclLVbQ0iRAQMSYjK0H4AqFJavin4LH43y1OGXw9Nn/vfBfoolw3RkKr7xGGgXx4EyQ6WPYahBjmHdvZr9SUZi45h0ITS+hxW/xFmq7gIn3+wNQkXtaFGOYKPVWupg0YO10DOQ2Ixz44exkwhhbIOqeeomQvbgMy56c72ZdI5cPPeBMn0hz97koIjkWrNRFHVDA/KjF+NSKVdTdafc2nS8JJ+VoToyw9TJVv1k1SpT4trG7eRuipU13R9a23VspLqcSrLPJlACLcX3VByf6D9McLntOVhe8BVuyi3kh2mCywE38DQpkZ8AtqD56gBTRrSdxVqraV/NU4Fko/fkk4okNXOMJlZWbwW7IYbtgpdyXLc1dhX5vjhn1xQaeF36/kftsRG2O5yFlqXEnmD0ZNDPmCMvJOAyG2JRZUQLUH8FooP5LW8R+F7c+X8wPYTx0vZSxY6RvxJc95NG3TgYBhYiNV/SmjpEDlb0vkgcVDP+I0oFw5wRZQuWYxrz22wLWDyO3h3SEbV7oHwdSw932d3B6GtqsrQzFrPsC1rodi5rhAb4nzMel2JavLRYiIKPVGBK7pIYHQBGagFy8n0HsNjWHczZIRduV2I0WkQq+Yg0QnpCgW0AZf81QLG+8RLWINaDZTVN16k7YEe0ZEx4ZeKjsA6FYbxmVVoj8p7kknCHsI0h0k781DfhJPj+ay8qssg6HdbWzHRSrEQCvkTUjahW+Fjh/Rshy9AT5IdgtbOsFD1DjqZRq9bSOD0JPcnJFEwhnQZXAWCSGq1OqxZdtliGNgMinfVOpL2kH44H6aiQXqwmeqXGxfgtRp4Gwqge/yEvhkeOdRCsRzMGSF78gVGYlCDik4hLq8wEWcP4oen4EUcS3ozDkg0iqXlmX6mQczfJ66jlHeWtSvPMTo/s9fEwXQDd/1Ury0+qFja5NRpYBQGCXbwdw+WpXOVZnlanWS0b7zAUu3zb41kPPZsbj9TCvYrJsRc+T0Bi3rh3y1pvqGN3voYdt7PVZ3yymW/Xjm+W/dznUhTcdMsaL2R1XR1YcSg9CPgqEMFwBtAILAL+iJXxtCSGxZv8iz9rgOpzrQBEDGjUYVpL2IpGQ6LFPouwyT3TkFV09ayzbDNpUMKB+hB5WIrJ2pVmtv16AYl2RE4b8DLCTMULdVisl/mEKHjySN1PhQJFzwHBW6OdSE+tqI7pmKUqJqd19rpzKhKdnWAJxIBGktUq0qBY8TvqZrI5jIU5T1xkJwgrOt89LCwnwPT576YqFCue5ImRZJ2mDWglZpTUJ6YqH/VRajIniKx+RUQvtminGYMloES64bJUvem3Yn0Fd8BQ+RdJY3UUbuyWbE25tSUbPASpBBDSs4XQowpx3z1yNDn/D/oqrHLQ0/Mmi+de755z9o7i6LBUqJRyZfpjpgoSg1JwZnoAflONulbJcDlBLfc2U2JSRwByQpwJ7090XFXn6j5XMuUFZlKLF9OZrE76OAJkKsWaYnLDyOT+c5m+SRoRbRFjGm7ml+Q+nNyjFVBxItEB1qWckfUQxky/+LMEUlmLQ0EEL+8Cgxz3pPhroKDBs5bBG/fUzOnjLP98h4QFs5L1jIiziPuYPdGKWiLwuQBW7+jvyOkR1k1QHF5Sicf+9ndmjXC1I771AN3HnIBe28bU5k5h+uFnHrnKmUm0VsOJ6+il6km12kf/qhPrnUG0AFM55zKnwy/IxDysshsrmgs2wL8tOjin/uRViWLZDV+WpTV0b+p5o/qXpBLAtGSruFDtW0FMrivhTKr6NINz2NYSiLfxroYuIkLrEgpegb4lFSb8lezXtBnKqT8lfgy0kK892WCQ+74XDu5qre/cEYpcqXoEr87za+fb6/UI9wVzqLDkxSKIeekq8TcZgkt3hHXM5HUH9430rTR+OZfLdM4cPYlrWyFqHLkQ53S2dIKdcgmo7vwVRJ4tnT38TTCq6KfVvr+E6cU8m7SwNP504DQCCjG1g2DvaSy2FouO8oVTwdXtEJdHJdI1RxCRTyVosK1CxVBrJWQzXpnDPx+znBzS/JmnGn/trzajVtWuZ3rPGllPRAad9viyH43RKcI+zuwnju1zBm8ivWWdtUFgV2IYGy3uxJ0SI5zM0nLnMgYhSBgS8uqh9rhyG7z/2BnA3BMJ95akHeYV/ASyE1twWijPk1icAC9W9cgyRh7Hik64wrh3A/0Aod1Wnqg7z4nLCuLUJkXDiGGSctq3ZQqMTHERwc+PlA1dNtpidQSebMd9MrcNGw5tFcxjHnKiVfTfEcWOO3GyjnKcaFMk2DxL9FdmEzhw0bI/xTfPhgj+SiqiG5Ipu2dRHWSN1iTyKVHcu9VzbptMm1R2ftJtUfo9YHydBgsS6b5k86IDJfJcskhPHIDnCo/nqZ3WDxSg67xcXUkPJA4t0A37ssraRzgxeQwCIMcBYfaPllSaLe7l39OWTRwtXx4KOk1wkaANwoESyH5PVQs/Iasa/VBy2ApyQtAbK+K/jITGCrdyY0NK7vW/ipxGtYFUCUTdwsgaJd//AAiBqRYt3dEXV6g+vyu4HOvpxVhBSAau1YfR5+noP+hxqKXGJkgL3IW4ylad21biqfBh2XUC0YasS+T5/IL9q0V2JjOOHp4E/mKJIbfwwL1zRjNTNZywXYwY/b0xM7Cc+aX88u6rJmzQtY2H0G3XdMMhbjI17nmruNR6Y4VBkeP7fBgqjbFsbY5iXcGiYV3/o4Mgvw/cAi/MQ3Gy3Te555xPSjms1n5z2skdnv36qYmu8cpEyv44saIS26NXJmWc6Tbu5YgtjYfC8kMwty57LJmZb9AxT5DPGl+T+iTOBNjP/hNBFC56PuSkjpyVDJAStOcglHIpvvnj8e20TPmd58I1XH0VoEh2//zc6N2+6QY4SxdyhCAV+5/eMe4TccX+wUi/D1/b9Es1+apzZbFv2gisST2UYGzk0S4ApO70dNEY0MYdjpUiQcIP9qW+R4DgIqukvTzkTJ4C2rrfLO4ssr7V0SVvH1B+lqkEM7Td3UaoRn6B0anCJDJ6lGUZmcVnWngCMJ5YADfQonFxjx2Qu0yW/pe7mupA4SzD16RmtD02gjd5f0/6VCHEMEM038KNm9woHGnv8o650vsx03zrk2cyCFh6aS6W6fN2HFzEUGdGfvWJZkYY8EMudZUrHmCEItowCo6bv1MsRkvKRMh1k68yNb9lT/qTL9lC2C1zudjN2+FaaXxJ2xsG665puGh+Xw28wE3W6lrW1Wk+u7nbvsGl869J+WUSTPRUSv+ADlKTruYGVcFZGoTeUPoSqo6s2klN3+SN87wha8XVT7ZyMdl2kC0pHARppdlxw7IfQO1e3i4vRiqE6+6hwI+Uc94wzc0UpZXWS4MyVk8vti/R/bUkzlgMzVwIWUdmWL1D5rqLC45njuDH6Bh2gWgatUYVP25yuXutizkC8TPiRYBZv3iX3U3HsmOc+ConE89y/Hkl7P4ziOe9Uu0Hs7Cu5h+NojaIYc8QSNKZv5QmK4OyhSlMsGNAzs0XuqkG8s5dYTWGA2WoyNZvvLx5iFX1bRMz/wkatlmnnIbYbb1xufz12MjVrCKLsJRRpbcxl0oTI7gkoAUFBpBo1I6F08bimN+XJavQl2eEVqsHDch4C9VYj8wawWizHFo8WXH2pwrg33wzLSksiuXCQULftbCtOUYJ7RJ4KFnfYFgqx83gqMol9iye1GOLnyDfHN9OlC2XmQ3TPop+v8SWl4fVhE8qK8y3H1tLTcifNi5iw39qwCNBncmqI9EIXBspEwKFAOvum4jRTivWKQHjKloh2OKFDLomQAU4UUV3SpPvjcm1lYSN5yGfJMX6bHmYue3SaxpQek7vhPq03Gzf0O8vOAZUV7Bahlul0hkUQggWyZSwqzvaPW9G"
+}{
+    "rhfHandlerParams": {
+        "currentPageType": "Detail",
+        "currentSubPageType": "Glance",
+        "excludeAsin": "B0D4RF55QK",
+        "fieldKeywords": "",
+        "k": "",
+        "keywords": "",
+        "search": "",
+        "auditEnabled": "",
+        "previewCampaigns": "",
+        "forceWidgets": "",
+        "searchAlias": ""
+    }
+}

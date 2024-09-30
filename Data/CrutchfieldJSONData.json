@@ -1,0 +1,284 @@
+{}{}{}{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.crutchfield.com/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.crutchfield.com/c_16/TVs-Video.html?tp=3",
+                "name": "TVs &amp; video"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.crutchfield.com/m_260050/TVs.html?tp=26",
+                "name": "TVs"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@id": "https://www.crutchfield.com/g_330650/OLED-TVs.html?tp=9201",
+                "name": "OLED TVs"
+            }
+        }
+    ]
+}{
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "LG OLED65C4PUA",
+    "description": "C4 OLED evo Smart 4K UHD TV with HDR (65\")",
+    "category": "OLED TVs",
+    "url": "https://www.crutchfield.com/p_68965C4P/LG-OLED65C4PUA-65.html",
+    "logo": "https://images.crutchfieldonline.com/ImageBank/v20160623142600/graphics/vendors/689.gif",
+    "image": [
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-F.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/34/689/g68965C4P-o_other0.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other7.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other5.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other2.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/14/689/g68965C4P-R.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other8.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other6.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other0.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other3.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other1.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-o_other4.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/8/689/g68965C4P-V.jpg",
+        "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/7/689/g68965C4P-E.jpg"
+    ],
+    "sku": "68965C4P",
+    "mpn": "OLED65C4PUA",
+    "aggregateRating": {
+        "reviewCount": 22,
+        "ratingValue": 5.0,
+        "bestRating": 5,
+        "worstRating": 1
+    },
+    "brand": {
+        "@type": "Brand",
+        "name": "LG",
+        "logo": "https://images.crutchfieldonline.com/ImageBank/v20160623142600/graphics/vendors/689.gif"
+    },
+    "offers": [
+        {
+            "type": "Offer",
+            "price": 1596.99,
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+                "@type": "Organization",
+                "name": "Crutchfield",
+                "logo": "https://images.crutchfieldonline.com/ImageBank/v20201014113100/common/illustrations/icons/logo.svg"
+            },
+            "url": "https://www.crutchfield.com/p_68965C4P/LG-OLED65C4PUA-65.html",
+            "priceValidUntil": "2024-09-30",
+            "hasMerchantReturnPolicy": {
+                "type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 60,
+                "returnFees": "https://schema.org/ReturnShippingFees",
+                "returnMethod": [
+                    "https://schema.org/ReturnByMail",
+                    "https://schema.org/ReturnInStore"
+                ],
+                "returnShippingFeesAmount": {
+                    "currency": "USD",
+                    "value": 13.0
+                }
+            },
+            "shippingDetails": [
+                {
+                    "type": "OfferShippingDetails",
+                    "deliveryTime": {
+                        "type": "ShippingDeliveryTime",
+                        "businessDays": {
+                            "type": "OpeningHoursSpecification",
+                            "dayOfWeek": [
+                                "https://schema.org/Monday",
+                                "https://schema.org/Tuesday",
+                                "https://schema.org/Wednesday",
+                                "https://schema.org/Thursday",
+                                "https://schema.org/Friday"
+                            ]
+                        },
+                        "cutoffTime": "17:30:00-04:00",
+                        "handlingTime": {
+                            "type": "QuantitativeValue",
+                            "minValue": 0,
+                            "maxValue": 0,
+                            "unitCode": "d"
+                        },
+                        "transitTime": {
+                            "type": "QuantitativeValue",
+                            "minValue": 2,
+                            "maxValue": 5,
+                            "unitCode": "d"
+                        }
+                    },
+                    "shippingDestination": {
+                        "type": "DefinedRegion",
+                        "addressCountry": "US",
+                        "addressRegion": [
+                            "AA",
+                            "AE",
+                            "AK",
+                            "AL",
+                            "AP",
+                            "AR",
+                            "AS",
+                            "AZ",
+                            "CA",
+                            "CO",
+                            "CT",
+                            "DC",
+                            "DE",
+                            "FL",
+                            "FM",
+                            "GA",
+                            "GU",
+                            "HI",
+                            "IA",
+                            "ID",
+                            "IL",
+                            "IN",
+                            "KS",
+                            "KY",
+                            "LA",
+                            "MA",
+                            "MD",
+                            "ME",
+                            "MH",
+                            "MI",
+                            "MN",
+                            "MO",
+                            "MP",
+                            "MS",
+                            "MT",
+                            "NC",
+                            "ND",
+                            "NE",
+                            "NH",
+                            "NJ",
+                            "NM",
+                            "NV",
+                            "NY",
+                            "OH",
+                            "OK",
+                            "OR",
+                            "PA",
+                            "PR",
+                            "PW",
+                            "RI",
+                            "SC",
+                            "SD",
+                            "TN",
+                            "TX",
+                            "UT",
+                            "VA",
+                            "VI",
+                            "VT",
+                            "WA",
+                            "WI",
+                            "WV",
+                            "WY"
+                        ]
+                    },
+                    "shippingRate": {
+                        "type": "MonetaryAmount",
+                        "value": 0.0,
+                        "currency": "USD"
+                    }
+                }
+            ],
+            "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "priceType": "https://schema.org/ListPrice",
+                "price": 2696.99,
+                "priceCurrency": "USD"
+            }
+        },
+        {
+            "type": "Offer",
+            "price": 1596.99,
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/LimitedAvailability",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availableDeliveryMethod": "https://schema.org/OnSitePickup",
+            "potentialAction": "https://schema.org/ReserveAction",
+            "deliveryLeadTime": {
+                "@type": "QuantitativeValue",
+                "value": "0"
+            },
+            "availableAtOrFrom": [
+                {
+                    "@type": "Place",
+                    "name": "Crutchfield Store",
+                    "branchCode": "1824695"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Crutchfield Store",
+                    "branchCode": "1824689"
+                }
+            ],
+            "seller": {
+                "@type": "Organization",
+                "name": "Crutchfield",
+                "logo": "https://images.crutchfieldonline.com/ImageBank/v20201014113100/common/illustrations/icons/logo.svg"
+            },
+            "url": "https://www.crutchfield.com/p_68965C4P/LG-OLED65C4PUA-65.html",
+            "priceValidUntil": "2024-09-30",
+            "hasMerchantReturnPolicy": {
+                "type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 60,
+                "returnFees": "https://schema.org/ReturnShippingFees",
+                "returnMethod": [
+                    "https://schema.org/ReturnByMail",
+                    "https://schema.org/ReturnInStore"
+                ],
+                "returnShippingFeesAmount": {
+                    "currency": "USD",
+                    "value": 13.0
+                }
+            },
+            "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "priceType": "https://schema.org/ListPrice",
+                "price": 2696.99,
+                "priceCurrency": "USD"
+            }
+        }
+    ],
+    "width": {
+        "@type": "QuantitativeValue",
+        "value": "56 3/4",
+        "unitCode": "INH"
+    },
+    "height": {
+        "@type": "QuantitativeValue",
+        "value": "32 5/8",
+        "unitCode": "INH"
+    },
+    "depth": {
+        "@type": "QuantitativeValue",
+        "value": "1 7/8",
+        "unitCode": "INH"
+    }
+}

@@ -1,0 +1,489 @@
+{
+    "content": [
+        -1,
+        2024,
+        true,
+        471693462881401,
+        1,
+        2,
+        3,
+        4,
+        261214,
+        44.99,
+        44.99,
+        44.99,
+        144.0,
+        339.0,
+        49.95,
+        58.95,
+        279.0,
+        7.75,
+        599.0,
+        149.99,
+        295.0,
+        165.0,
+        199.0,
+        3299.99
+    ],
+    "gapi_processed": [
+        true
+    ],
+    "data-dom-ready": [
+        true
+    ],
+    "data-ind-ratio": [
+        100
+    ],
+    "data-resources-loaded": [
+        true
+    ],
+    "tabindex": [
+        -1,
+        1,
+        1,
+        1,
+        5000,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        5001,
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "aria-hidden": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "aria-modal": [
+        true
+    ],
+    "aria-level": [
+        2
+    ],
+    "aria-haspopup": [
+        true
+    ],
+    "data-inddrag": [
+        true
+    ],
+    "data-menu-initialized": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "data-ajax": [
+        {
+            "url": "/modules/menus/top_ancillary_menu.jsp",
+            "data": {
+                "menuCategoryID": "1410",
+                "subMenuBullets": false,
+                "topWedge": true
+            }
+        },
+        {
+            "url": "/cart?action=editcart&include=true&destinationpage=/modules/cart/mini_cart.jsp&jc_getBestDomestic=false"
+        },
+        {
+            "url": "/cart?action=editCart&include=true&destinationpage=/modules/cart/mini_cart_items.jsp&jc_getBestDomestic=false",
+            "postLoadEventTrigger": "miniCartItemsReload"
+        },
+        {
+            "url": "/modules/menus/top_ancillary_menu.jsp",
+            "data": {
+                "menuCategoryID": "13",
+                "subMenuBullets": false,
+                "myAccountOnly": true,
+                "hideDropdown": true
+            }
+        },
+        {
+            "url": "/cart?action=editcart&include=true&destinationpage=/modules/cart/mini_cart.jsp&jc_getBestDomestic=false&linkIcon=false"
+        },
+        {
+            "url": "/cart?action=editCart&destinationpage=/modules/cart/mini_cart_items.jsp&jc_getBestDomestic=false"
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing_alternate.jsp",
+            "data": {
+                "productID": "261214",
+                "pageType": "detail",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/variant_selector.jsp",
+            "data": {
+                "variantType": "optionsID",
+                "inStockOnly": false
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing_alternate.jsp",
+            "data": {
+                "productID": "261214",
+                "pageType": "detail",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/variant_selector.jsp",
+            "data": {
+                "variantType": "optionsID",
+                "inStockOnly": false
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/essential_accessories_alternate.jsp?cartBased=false&passedProductID=261214",
+            "postLoadEventTrigger": "accessoriesSectionLoaded"
+        },
+        {
+            "url": "/modules/product/product_detail/rebate_list_alternate.jsp?prodID=261214",
+            "postLoadEventTrigger": "rebatesSectionLoaded"
+        },
+        {
+            "url": "/site/RevAdd?include=true&pid=261214"
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing_alternate.jsp",
+            "data": {
+                "productID": "261214",
+                "pageType": "detail",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/related_products.jsp?passedProdID=261214&pageType=product&localizedSwiper=true",
+            "postLoadEventTrigger": "processAdditionalProductDetailRules"
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "248153",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "259686",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "198020",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "230573",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "225345",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "140118",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "254433",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "8699",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "256877",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "260757",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "216451",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/map_pricing.jsp",
+            "data": {
+                "productID": "263755",
+                "pageType": "featured",
+                "reloaded": true
+            }
+        },
+        {
+            "url": "/modules/product/product_detail/customers_also_browsed.jsp?excludeInfoID=S-081814",
+            "postLoadEventTrigger": "processAdditionalProductDetailRules"
+        }
+    ],
+    "data-reload-on-event-initialized": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "data-mini-cart": [
+        {
+            "autoPopOnAdd": false
+        },
+        {
+            "autoPopOnAdd": false
+        }
+    ],
+    "data-mini-cart-initialized": [
+        true,
+        true
+    ],
+    "data-menu-options": [
+        {
+            "delayBeforeShowPoll": 150
+        }
+    ],
+    "data-product-detail": [
+        {
+            "categoryID4Name": "",
+            "isComingSoon": false,
+            "categoryID": "235",
+            "stockMessageLong": "",
+            "miniBoxImage": "/images/noMiniBoxImage.gif",
+            "sellThroughRate": "0.0",
+            "productYield": "0",
+            "retailPrice": "$44.99",
+            "sizingChart": "",
+            "onHandStockForGroup": 0,
+            "availabilityPurchaseRelevant": "",
+            "categoryID3Name": "Medium Format Rechargeable Batteries",
+            "subcategoryID": "0",
+            "sellThroughRateMessage": "",
+            "cartButtonText": "Add To Cart",
+            "categoryIDName": "Video & Audio",
+            "categoryID2Name": "Video Camcorder Batteries & Power Adapters",
+            "mainDiscountMessage": "",
+            "stockMessage": "",
+            "url": "/p/4331/SmallRig-L-Series/NP-F550-USB-C-Rechargeable-Camera-Battery/261214.html",
+            "remainingStockMessage": "",
+            "outOfStock": false,
+            "inWishlist": false,
+            "remainingStock": 9999,
+            "optionsIDListSize": 0,
+            "price": "$44.99",
+            "largeBoxImageFront": "/images/product/main/S-081814x1000.jpeg",
+            "images": "/images/product/main/S-081814x1000.jpeg~true~image~retail;/images/product/main/S-081814x1000_2.jpeg~true~image;/images/product/main/S-081814x1000_3.jpeg~true~image;/images/product/main/S-081814x1000_4.jpeg~true~image;",
+            "isOnSale": false,
+            "savingsAmount": "$0.00",
+            "lowStockForGroup": false,
+            "previouslyRemovedFromCart": false,
+            "isExclusive": false,
+            "infoID": "S-081814",
+            "productID": "261214",
+            "subcategoryIDName": "No Color",
+            "pendingRestock": false,
+            "productYieldMessage": "",
+            "name": "L-Series/NP-F550 USB-C Rechargeable Camera Battery",
+            "addToCartErrorMessage": "",
+            "optionsIDSelected": false,
+            "availability": "Temporarily Out of Stock",
+            "isRentalProduct": false,
+            "categoryID5Name": "",
+            "netStockOnHand": "0",
+            "stockForGroup": 9999,
+            "priceDouble": 44.99,
+            "lowStock": false,
+            "salesPotentialMessage": "",
+            "optionsID": "0",
+            "optionsIDName": "No Size",
+            "subcategoryIDListSize": 0,
+            "salesPotential": "",
+            "reloadOptionsIDs": false,
+            "optionsIDSelectedOrUnecessary": true
+        }
+    ],
+    "data-product-detail-configuration": [
+        {
+            "initializationSource": "Product Detail",
+            "enableBackOrderWarning": "true"
+        }
+    ],
+    "product-detail-plugin-initialized": [
+        true
+    ],
+    "data-reloadajaxdata": [
+        {
+            "containerID": "productShowcaseImageSlider261214",
+            "containerClass": "product-showcase",
+            "ajaxRequest": "true",
+            "allowResizeForHiRes": "true",
+            "imageResizerParams": "SH480_MW480",
+            "imageResizerHiResParams": "SH760_MW760",
+            "autoInitialize": "false",
+            "thumbsPerPane": "8",
+            "customPager": ".slider-thumbs-container",
+            "allowZoom": "false",
+            "showVideoEmbedSlide": "true",
+            "allowZoomModal": "true",
+            "includeCategoryImages": "false"
+        }
+    ],
+    "aria-atomic": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "aria-disabled": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "value": [
+        1,
+        261214,
+        1,
+        1,
+        261214,
+        1,
+        261214,
+        true,
+        1,
+        261214,
+        1,
+        235,
+        true
+    ],
+    "data-review-section": [
+        true
+    ],
+    "data-review-write-section": [
+        true
+    ],
+    "data-product-review-container": [
+        true
+    ],
+    "data-ajax-form-initialized": [
+        true
+    ],
+    "maxlength": [
+        110,
+        16
+    ],
+    "aria-required": [
+        true,
+        true
+    ],
+    "data-nox-swiper": [
+        {
+            "sliderConfig": "relatedProductSlider"
+        }
+    ],
+    "width": [
+        256,
+        1,
+        1,
+        1
+    ],
+    "height": [
+        60,
+        1,
+        1,
+        1
+    ],
+    "data-load-time": [
+        1727505780933,
+        1727505780984
+    ],
+    "data-cfasync": [
+        true
+    ],
+    "allowtransparency": [
+        true,
+        true
+    ],
+    "allowfullscreen": [
+        true
+    ]
+}

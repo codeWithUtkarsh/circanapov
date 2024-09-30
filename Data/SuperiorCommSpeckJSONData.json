@@ -1,0 +1,104 @@
+{
+    "shopId": 32542523523,
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "merchantCapabilities": [
+        "supports3DS"
+    ],
+    "merchantId": "gid://shopify/Shop/32542523523",
+    "merchantName": "Speck Products",
+    "requiredBillingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "requiredShippingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "shippingType": "shipping",
+    "supportedNetworks": [
+        "visa",
+        "masterCard",
+        "amex",
+        "discover",
+        "elo",
+        "jcb"
+    ],
+    "total": {
+        "type": "pending",
+        "label": "Speck Products",
+        "amount": "1.00"
+    },
+    "shopifyPaymentsEnabled": true,
+    "supportsSubscriptions": true
+}{
+    "accessToken": "ef87e758aa77b0562673b1a8297b4e13",
+    "betas": [
+        "rich-media-storefront-analytics"
+    ],
+    "domain": "speckproducts.com",
+    "predictiveSearch": true,
+    "shopId": 32542523523,
+    "smart_payment_buttons_url": "https://speckproducts.com/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js",
+    "dynamic_checkout_cart_url": "https://speckproducts.com/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js",
+    "locale": "en"
+}{}{
+    "pageType": "product"
+}{
+    "a": 32542523523,
+    "offset": -25200,
+    "reqid": "31a95ba6-4ca5-4554-8802-ed58eb4613a0-1727528806",
+    "pageurl": "speckproducts.com/products/presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases",
+    "u": "39c533bbce8f",
+    "p": "product",
+    "rtyp": "product",
+    "rid": 8372967211139
+}{
+    "@context": "https://schema.org",
+    "@id": "https://speckproducts.com/products/presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases",
+    "@type": "Product",
+    "sku": "150680-5085",
+    "mpn": "150680-5085",
+    "brand": {
+        "@type": "Brand",
+        "name": "Samsung"
+    },
+    "description": "Presidio\u00ae Perfect-Clear Fold is our most clear protective case that we\u2019ve ever designed. Our innovative new Perfect-Clear coating resists yellowing and discoloration for a case that stays clear longer and provides more protection and durability. Our new smart, foldable one-piece design keeps up with you: moving seamlessly with your phone, it adds more security and protection while ensuring your phone opens and closes easily with an extra secure fit for life on the go.\r\nFeaturing a quick-access groove, you don\u2019t have to worry about your fingers slipping while trying to open your case. This groove is perfectly placed for ease of use.\r\nNot only is this case stylish, but our clear impact technology makes it tough for rough moments. Our proprietary, clear phone-cushioning rubber compresses on impact to protect your phone while the case is open when dropped up to 13 feet. Durable yet slim, this case allows for easy, seamless wireless charging. Tested to withstand real-life situations, including extreme drops, chemicals, and antenna interference.\r\nIt also has a built-in antimicrobial treatment from Microban\u00ae that delivers a 99% reduction in stain and odor-causing bacteria on the case, creating a cleaner surface.\r\nIf that wasn\u2019t enough, it also features our raised bezel. This added edge helps protect your screen from scratching and shattering if, and/or when your phone falls and lands face-down.",
+    "url": "https://speckproducts.com/products/presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases",
+    "name": "Presidio Perfect-Clear Fold Samsung Galaxy Z Fold 6 Cases",
+    "image": "https://speckproducts.com/cdn/shop/files/speck-presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases-galaxy-z-fold-6-clear-150680-5085-phone-case-41030181093507.jpg?v=1726321618&width=1024",
+    "offers": [
+        {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "priceCurrency": "USD",
+            "price": "59.99",
+            "priceValidUntil": "2025-09-28",
+            "url": "https://speckproducts.com/products/presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases?variant=44543257280643",
+            "checkoutPageURLTemplate": "https://speckproducts.com/cart/add?id=44543257280643&quantity=1",
+            "image": "https://speckproducts.com/cdn/shop/files/speck-presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases-galaxy-z-fold-6-clear-150680-5085-phone-case-41030181093507.jpg?v=1726321618&width=1024",
+            "mpn": "150680-5085",
+            "sku": "150680-5085",
+            "gtin12": "840168540204",
+            "seller": {
+                "@type": "Organization",
+                "name": "Speck Products"
+            }
+        }
+    ]
+}{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Presidio Perfect-Clear Fold Samsung Galaxy Z Fold 6 Cases",
+            "item": "https://speckproducts.com/products/presidio-perfect-clear-fold-samsung-galaxy-z-fold-6-cases"
+        }
+    ]
+}{}

@@ -1,0 +1,273 @@
+{
+    "shopId": 25364594751,
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "merchantCapabilities": [
+        "supports3DS"
+    ],
+    "merchantId": "gid://shopify/Shop/25364594751",
+    "merchantName": "Rockbrook Camera",
+    "requiredBillingContactFields": [
+        "postalAddress",
+        "email"
+    ],
+    "requiredShippingContactFields": [
+        "postalAddress",
+        "email"
+    ],
+    "shippingType": "shipping",
+    "supportedNetworks": [
+        "visa",
+        "masterCard",
+        "amex",
+        "discover",
+        "elo",
+        "jcb"
+    ],
+    "total": {
+        "type": "pending",
+        "label": "Rockbrook Camera",
+        "amount": "1.00"
+    },
+    "shopifyPaymentsEnabled": true,
+    "supportsSubscriptions": true
+}{
+    "accessToken": "4bb8357e1535bf6625162215726dc0df",
+    "betas": [
+        "rich-media-storefront-analytics"
+    ],
+    "domain": "www.rockbrookcamera.com",
+    "predictiveSearch": true,
+    "shopId": 25364594751,
+    "smart_payment_buttons_url": "https://www.rockbrookcamera.com/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js",
+    "dynamic_checkout_cart_url": "https://www.rockbrookcamera.com/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js",
+    "locale": "en"
+}{}{
+    "pageType": "product"
+}{
+    "a": 25364594751,
+    "offset": -14400,
+    "reqid": "cd88a628-3329-45f6-a8af-91b702e447ad-1727525778",
+    "pageurl": "www.rockbrookcamera.com/products/canon-eos-r100-body?_pos=1&_sid=b56b4a066&_ss=r",
+    "u": "0bc12f1cdd19",
+    "p": "product",
+    "rtyp": "product",
+    "rid": 7189875949631
+}{}{
+    "id": 7189875949631,
+    "title": "Canon EOS R100 Body",
+    "handle": "canon-eos-r100-body",
+    "description": "<h1><strong>Canon EOS R100 Body</strong></h1>\nExperience the fun of RF mount content creation with the smallest and lightest EOS R series camera1, the Canon EOS R100. Excellent still-image capabilities start with its 24.1 Megapixel APS-C size CMOS Image sensor and DIGIC 8 processor, along with Dual Pixel CMOS AF with the ability to detect human faces and focus on their eyes. The EOS R100 also can record Full HD video at up to 60 frames per second, and detailed, high-res 4K from the central area of the sensor at 24 frames per second.<br>",
+    "published_at": "2024-01-08T01:13:55-05:00",
+    "created_at": "2023-05-25T09:30:23-04:00",
+    "vendor": "Canon",
+    "type": "Mirrorless Cameras",
+    "tags": [
+        "Brand_Canon",
+        "Camera Kits_Body",
+        "Camera Type_Mirrorless Camera",
+        "Canon",
+        "Canon Mount",
+        "Sensor Size_APS-C"
+    ],
+    "price": 39999,
+    "price_min": 39999,
+    "price_max": 39999,
+    "available": false,
+    "price_varies": false,
+    "compare_at_price": 47999,
+    "compare_at_price_min": 47999,
+    "compare_at_price_max": 47999,
+    "compare_at_price_varies": false,
+    "variants": [
+        {
+            "id": 40514786361407,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "212019",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": false,
+            "name": "Canon EOS R100 Body",
+            "public_title": null,
+            "options": [
+                "Default Title"
+            ],
+            "price": 39999,
+            "weight": 0,
+            "compare_at_price": 47999,
+            "inventory_management": "shopify",
+            "barcode": "013803356625",
+            "requires_selling_plan": false,
+            "selling_plan_allocations": []
+        }
+    ],
+    "images": [
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-FrontSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-RearSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-TopSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-PortSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-GripSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BottomSide-212019.jpg?v=1685045885",
+        "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BoxContents-212019.jpg?v=1685045885"
+    ],
+    "featured_image": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-FrontSide-212019.jpg?v=1685045885",
+    "options": [
+        "Title"
+    ],
+    "media": [
+        {
+            "alt": "Front Side of the Canon EOS R100 Body",
+            "id": 23446171811903,
+            "position": 1,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-FrontSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-FrontSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Rear Side of the Canon EOS R100 Body",
+            "id": 23446171910207,
+            "position": 2,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-RearSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-RearSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Top Side of the Canon EOS R100 Body",
+            "id": 23446171942975,
+            "position": 3,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-TopSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-TopSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Port Side of the Canon EOS R100 Body",
+            "id": 23446171877439,
+            "position": 4,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-PortSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-PortSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Grip Side of the Canon EOS R100 Body",
+            "id": 23446171844671,
+            "position": 5,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-GripSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-GripSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Bottom Side of the Canon EOS R100 Body",
+            "id": 23446171746367,
+            "position": 6,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BottomSide-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BottomSide-212019.jpg?v=1685045885",
+            "width": 1024
+        },
+        {
+            "alt": "Box Contents of the Canon EOS R100 Body",
+            "id": 23446171779135,
+            "position": 7,
+            "preview_image": {
+                "aspect_ratio": 1.0,
+                "height": 1024,
+                "width": 1024,
+                "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BoxContents-212019.jpg?v=1685045885"
+            },
+            "aspect_ratio": 1.0,
+            "height": 1024,
+            "media_type": "image",
+            "src": "//www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-BoxContents-212019.jpg?v=1685045885",
+            "width": 1024
+        }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "content": "<h1><strong>Canon EOS R100 Body</strong></h1>\nExperience the fun of RF mount content creation with the smallest and lightest EOS R series camera1, the Canon EOS R100. Excellent still-image capabilities start with its 24.1 Megapixel APS-C size CMOS Image sensor and DIGIC 8 processor, along with Dual Pixel CMOS AF with the ability to detect human faces and focus on their eyes. The EOS R100 also can record Full HD video at up to 60 frames per second, and detailed, high-res 4K from the central area of the sensor at 24 frames per second.<br>"
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Canon EOS R100 Body",
+    "productID": 7189875949631,
+    "@id": "https://www.rockbrookcamera.com/products/canon-eos-r100-body",
+    "url": "https://www.rockbrookcamera.com/products/canon-eos-r100-body",
+    "image": [
+        "https://www.rockbrookcamera.com/cdn/shop/files/Canon-EOSR100Body-FrontSide-212019_1024x.jpg?v=1685045885"
+    ],
+    "description": "Canon EOS R100 Body\nExperience the fun of RF mount content creation with the smallest and lightest EOS R series camera1, the Canon EOS R100. Excellent still-image capabilities start with its 24.1 Megapixel APS-C size CMOS Image sensor and DIGIC 8 processor, along with Dual Pixel CMOS AF with the ability to detect human faces and focus on their eyes. The EOS R100 also can record Full HD video at up to 60 frames per second, and detailed, high-res 4K from the central area of the sensor at 24 frames per second.",
+    "gtin": "013803356625",
+    "mpn": "013803356625",
+    "sku": "212019",
+    "brand": {
+        "@type": "Thing",
+        "name": "Canon"
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "gtin": "013803356625",
+            "mpn": "013803356625",
+            "sku": "212019",
+            "priceCurrency": "USD",
+            "price": "399.99",
+            "priceValidUntil": "2025-09-28",
+            "availability": "http://schema.org/OutOfStock",
+            "url": "https://www.rockbrookcamera.com/products/canon-eos-r100-body?variant=40514786361407",
+            "seller": {
+                "@type": "Organization",
+                "name": "Rockbrook Camera"
+            }
+        }
+    ]
+}

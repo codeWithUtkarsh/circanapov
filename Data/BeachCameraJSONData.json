@@ -1,0 +1,511 @@
+{
+    "gtm_id": "GTM-KGXNM8T",
+    "event_config": {
+        "cart_reconcile": true,
+        "cart_view": true,
+        "checkout_complete": true,
+        "checkout_step": true,
+        "collection_view": true,
+        "defers_collection_loading": false,
+        "defers_search_results_loading": false,
+        "product_add_to_cart": false,
+        "product_add_to_cart_ajax": true,
+        "product_remove_from_cart": true,
+        "product_select": true,
+        "product_view": true,
+        "search_results_view": true,
+        "user": true,
+        "save_order_notes": true
+    },
+    "gtm_suite_script": "https://shopify-gtm-suite.getelevar.com/shops/c7a48983ba8712879b19791a566edea8c0c29e0e/3.8.0/gtm-suite.js",
+    "consent_enabled": false,
+    "apex_domain": null
+}{
+    "data_layer_listener_script": "https://shopify-gtm-suite.getelevar.com/shops/c7a48983ba8712879b19791a566edea8c0c29e0e/3.8.0/events.js",
+    "ss_url": null,
+    "signing_key": null,
+    "myshopify_domain": null
+}{
+    "shopId": 50435555511,
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "merchantCapabilities": [
+        "supports3DS"
+    ],
+    "merchantId": "gid://shopify/Shop/50435555511",
+    "merchantName": "Beach Camera",
+    "requiredBillingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "requiredShippingContactFields": [
+        "postalAddress",
+        "email",
+        "phone"
+    ],
+    "shippingType": "shipping",
+    "supportedNetworks": [
+        "visa",
+        "masterCard",
+        "amex",
+        "discover",
+        "elo",
+        "jcb"
+    ],
+    "total": {
+        "type": "pending",
+        "label": "Beach Camera",
+        "amount": "1.00"
+    },
+    "shopifyPaymentsEnabled": true,
+    "supportsSubscriptions": true
+}{
+    "accessToken": "a862d499205eb9ae75dfe15efa685ea9",
+    "betas": [
+        "rich-media-storefront-analytics"
+    ],
+    "domain": "www.beachcamera.com",
+    "predictiveSearch": true,
+    "shopId": 50435555511,
+    "smart_payment_buttons_url": "https://www.beachcamera.com/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js",
+    "dynamic_checkout_cart_url": "https://www.beachcamera.com/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js",
+    "locale": "en"
+}{}{
+    "pageType": "product"
+}{
+    "a": 50435555511,
+    "offset": -14400,
+    "reqid": "3856213c-b485-41ef-9b56-a4ee5032fd4f-1727523996",
+    "pageurl": "www.beachcamera.com/products/panasonic-lumix-fz80d-compact-camera-20-1200mm-zoom-lens",
+    "u": "83b8589fe786",
+    "p": "product",
+    "rtyp": "product",
+    "rid": 7780631380151
+}{}{
+    "settings": {
+        "sticky_header": false,
+        "live_search": {
+            "enable": true,
+            "enable_images": true,
+            "enable_content": true,
+            "money_format": "${{amount}}",
+            "show_mobile_search_bar": true,
+            "context": {
+                "view_all_results": "View all results",
+                "view_all_products": "View all products",
+                "content_results": {
+                    "title": "Pages &amp; Posts",
+                    "no_results": "No results."
+                },
+                "no_results_products": {
+                    "title": "No products for \u201c*terms*\u201d.",
+                    "title_in_category": "No products for \u201c*terms*\u201d in *category*.",
+                    "message": "Sorry, we couldn\u2019t find any matches."
+                }
+            }
+        }
+    }
+}{
+    "settings": {
+        "cart_redirection": false,
+        "layout": "layout--three-col",
+        "thumbnail_position": "below",
+        "gallery_video_autoplay": true,
+        "gallery_video_looping": true,
+        "hover_zoom": "disabled",
+        "click_to_zoom": "always",
+        "money_format": "${{amount}}",
+        "swatches_enable": false,
+        "sold_out_options": "hidden",
+        "select_first_available_variant": false,
+        "show_bc_related_products": true
+    },
+    "context": {
+        "select_variant": "Please select a variant",
+        "product_available": "Add to cart",
+        "product_sold_out": "Sold out",
+        "product_unavailable": "Unavailable"
+    },
+    "product": {
+        "id": 7780631380151,
+        "title": "Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens",
+        "handle": "panasonic-lumix-fz80d-compact-camera-20-1200mm-zoom-lens",
+        "description": "<h2 style=\"text-align: center;\"><strong>Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens</strong></h2>\n<h3><strong>Product Highlight:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens with 60x zoom for landscapes and macro details</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot LVF with 0.74x magnification for glare-free viewing</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Amazing Video Quality for Fast-Paced Action with 4K Video and 4K Photo</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus lets you adjust focus after the shot</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">No More Blur, Even at 60x Zoom with the POWER O.I.S (Optical Image Stabilizer)</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">USB Type-C Battery Charging</span></p>\n<h3><strong>Product Feature:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Taking Bridge Cameras to Another Level</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The FZ80D enables you to capture incredibly clear moments near and far. The 20-1200mm zoom lens (35mm camera equivalent) gives you the ability to shoot landscapes and panoramas with a high level of detail. Clear, glare-resistant View Finder (2,360K dots); 4K video/photo; POWER O.I.S.; macro shooting</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Panoramas in Extraordinary Detail</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens creates breathtaking landscapes, with a powerful 60x zoom (35mm equivalent: 20-1200mm) to capture the big picture as well as fine details.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>An Always-Clear View, Even in Bright Sunlight</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot. Large LVF 0.74x (35mm camera equivalent) ensures you'll see your screen without glare.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Amazing Video Quality for Fast-Paced Action</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">4K Video Mode records up to 4x resolution of Full HD; for incredible flexibility; 4K Photo feature lets you extract the perfect 8-megapixel photo out of 4K video and save it.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Shoot Now, Focus Later</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus feature gives you the power to touch the area you'd like to be in focus, even after the shot has been taken.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>No More Blur, Even at 60x Zoom</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The POWER O.I.S. (Optical Image Stabilizer) effectively suppresses hand-shake vibration at the tele-end.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Stunning Macro Photos</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Shoot incredibly vivid close-up shots of food, flowers, insects, and more with a minimum focusing distance of 1cm.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Intuitive Touch Control with 1,840k-dot Monitor</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The 3.0-inch rear monitor with a high resolution of approximately 1,840k-dot features higher visibility even for sunny outdoor shooting. And, touch control immediately lets you to set focus to the subject by just touching it on the screen and you can even release the shutter.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Zoom Compose Assist</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The Zoom Compose Assist function lets you quickly zoom out with a single press of a button when you've lost your subject while telephoto shooting. This allows you to instantly reconfirm your composition.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>USB Type-C Battery Charging</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The camera's battery can be recharged via USB Type-C\u00ae according to your convenience.</span></p>\n<h3><strong>Product\u00a0<span style=\"font-size: 14px;\">Specifications:</span></strong></h3>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Physical Specifications</u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Dimensions (W x H x D)</strong>\u00a0- 130.2 x 94.3 x 119.2 mm (5.13 x 3.71 x 4.69 inch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Weight</strong> - Approx. 616 g with Battery and SD Memory Card (1.36 lb); Approx. 572 g without Battery and SD Memory Card (1.26 lb)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Optics</u><br></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Camera Effective Pixels</strong> - 18.1 Megapixels</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Sensor Size / Total Pixels / Filter</strong> - 1/2.3-inch High Sensitivity MOS Sensor / 18.9 Total Megapixels / Primary Color Filter</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Aperture</strong> - F2.8 - 5.9 / Multistage Iris Diaphragm (F2.8 - 8.0 (W), F5.9 - 8.0 (T)) </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Zoom</strong> - 60x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focal Length</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">f = 3.58 - 215mm</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(20 - 1200mm in 35mm equiv. in 4:3)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(21 - 1260mm in 35mm equiv. in 3:2)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in 16:9)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(23 - 1380mm in 35mm equiv. in 1:1)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K PHOTO recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K video recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in FHD / HD video recording)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Extra Optical Zoom (EZ)</strong> - 84x (4:3 / 9M (M)), 122x (4:3 / 4.5M (S))</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Intelligent Zoom</strong> - 120x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Lens</strong> - LUMIX DC VARIO\u00a0- 14 elements in 12 groups (6 aspherical lenses / 9 aspherical surfaces / 3 ED lenses)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Image Stabilizer</strong> - POWER O.I.S. (On with Active Mode (only for motion picture) / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Zoom</strong> - Max. 4x (When Digital Zoom is used simultaneously with Intelligent Zoom, you can only increase the zoom ratio up to 2x.)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Conversion Lens Compatibility</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focusing Area</strong> - Normal: Wide 30 cm - infinity / Tele 150 cm - infinity; AF Macro / MF / Intelligent Auto / Motion Picture: Wide 1 cm - infinity / Tele 150 cm - infinity</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Assist Lamp</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus</strong>\u00a0- AF / AF Macro / Macro Zoom * Each available with AFS (Single) / AFF (Flexible) / AFC (Continuous); Quick AF, Continuous AF (during motion picture recording), Touch AF/AE Function, Touch Pad AF, Touch Shutter, MF Assist, Touch MF Assist, AF+MF, Focus Peaking, One Shot AF (Set the Fn button in custom menu to AF-ON), Low Light AF</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Post Focus</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus Stacking</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Metering</strong> - Face/Eye Detection / Tracking / 49-area / Custom Multi / 1-area / Pinpoint (Full area touch is available)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Shutter Speed</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Still Image</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 4 - 1/2,000 sec (Mechanical Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1 - 1/16,000 sec (Electronic Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Artistic Nightscape (Approx. 60 sec)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Motion Picture</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/30 - 1/16,000 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/2 - 1/16,000 sec (Creative Video M Mode / MF Mode)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Viewfinder</strong> - 0.20\" LVF (Live View Finder) (1,166k dots equiv.), Field of View: Approx. 100%, Lens 19.6x; Magnification: Approx. 2.59x / 0.46x (35 mm camera equivalent)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Recording and Playback<br></u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>File Format</strong> - Still Image: JPEG (DCF/Exif2.3) / RAW, DPOF; Motion Picture: AVCHD Progressive, AVCHD, MP4</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Mode Dial -</strong> Intelligent Auto, P, A, S, M, Creative Video, C (Custom), Panorama Shot, Scene Guide, Creative Control</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Creative Control Mode</strong> - Expressive, Retro, Old Days, High Key, Low Key, Sepia, Monochrome, Dynamic Monochrome, Rough Monochrome, Silky Monochrome, Impressive Art, High Dynamic, Cross Process, Toy Effect, Toy Pop, Bleach Bypass, Miniature Effect, Soft Focus, Fantasy, Star Filter, One Point Color, Sunshine (22 filters)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Image Scene Guide</strong> - Clear Portrait, Silky Skin, Backlit Softness, Clear in Backlight, Relaxing Tone, Sweet Child's Face, Distinct Scenery, Bright Blue Sky, Romantic Sunset Glow, Vivid Sunset Glow, Glistening Water, Clear Nightscape, Cool Night Sky, Warm Glowing Nightscape, Artistic Nightscape, Glittering Illuminations, Handheld Night Shot, Clear Night Portrait, Soft Image of a Flower, Appetizing Food, Cute Dessert, Freeze Animal Motion, Clear Sports Shot, Monochrome</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Continuous Shooting Mode (Approx.)</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFS] H: 10 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFC] H: 6 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>4K Photo Mode</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst: 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst (S/S): 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Pre-Burst: 30 frames/sec, approx. 2 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>(Depending on memory card size and battery power)</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Exif Information: Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Marking Function: Yes (in 4K Burst (S/S) mode)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Motion Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>4K Video</em></strong> - 3840 x 2160 pixels, 30p (4K: 100Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>HD Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 24Mbps / AVCHD) (Sensor Output is 30fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 17Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / MP4) (Sensor Output is 60fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 30p (FHD: 20Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: 10Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>High Speed Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: MP4) (Sensor Output is 120fps)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">640 x 480 pixels, 30p (VGA: MP4) (Sensor Output is 240fps)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 100 min; FHD/60i: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 80 min; FHD/60p: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 50 min; FHD/60i: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 40 min; FHD/60p: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure</strong> - Program AE, Aperture Priority AE, Shutter Priority AE, Manual</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure Compensation</strong> - 1/3 EV step, +/-5 EV (+/-3 EV for motion picture)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Light Metering</strong> - Intelligent Multiple / Center Weighted / Spot</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>ISO Sensitivity</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Still Image: Auto / i.ISO / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400 (Extended ISO)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Motion Picture: Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 <br><em>(Changeable to 1/3 EV step)</em></span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3672 (18M) (L) / 3456x2592 (9M) (M) / 2400x1800 (4.5M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3264 (16M) (L) / 3456x2304 (8M) (M) / 2400x1600 (4M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x2752 (13.5M) (L) / 3840x2160 (8M) (M) / 1920x1080 (2M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">3664x3664 (13.5M) (L) / 2592x2592 (7M) (M) / 1824x1824 (3.5M) (S)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Image Quality</strong> - RAW / RAW+Fine / RAW+Standard / Fine / Standard</span></li>\n<li>\n<span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance</strong> - Auto / Daylight / Cloudy / Shade / Incandescent / Flash / White Set1 / White Set2 / White Set3 / White Set4 / Color Temperature (2-axis </span><span style=\"font-family: Verdana; font-size: small;\">adjustable)</span>\n</li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Photo Style</strong> - Standard, Vivid, Natural, Monochrome, Scenery, Portrait, Custom</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Picture Adjustment</strong> - Contrast, Sharpness, Noise Reduction, Saturation<em>(Except for Monochrome mode)</em>, Color Tone**, Filter Effect**<br><em>** For Monochrome mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AE Bracket</strong> - 3, 5, 7 images in 1/3, 2/3 or 1 EV step, Max. +/-3 EV</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance Bracket</strong> - 3 exposures in blue/amber axis or in magenta/green axis </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Red Eye Correction (Red-Eye Removal)</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Wi-Fi</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">IEEE 802.11b/g/n</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">2412 MHz - 2462 MHz (1-11 ch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">WPA / WPA2</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Infrastructure Mode / WPS</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>GPS, NFC</strong> - No</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Zoom in Motion Picture</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Self Timer</strong> - 2 sec / 10 sec / 10 sec (3 images)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Playback Mode</strong> - All, Slideshow, Filtering Play (Picture Only, Video Only, 4K PHOTO, Post Focus, Category Selection, Favorite), Calendar</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Thumbnails / Zoomed Playback</strong> - 12,30-thumbnails / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Set Favorites / Rotate Image</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Show Histogram / Show Highlights</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>DPOF Print Setting / Set Protection</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Retouch</strong> - Clear Retouch</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>RAW Processing</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Resize / Cropping</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Title Edit / Text Stamp</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Video Divide</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>PictBridge Support</strong> - Single / Multi / All / DPOF / Favorites</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Other</u></strong><br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>LCD Monitor</strong> - 3.0\" (7.5cm) TFT Screen LCD Display (1040k dots); Static Touch Control; Field of View: Approx. 100%, Wide Viewing-angle, AF Coating<br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Built- in- Flash</strong>\u00a0 - Auto*, Auto/Red-eye Reduction*, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off; 1st Curtain Sync., 2nd Curtain Sync; 0.3 - 14.1m (Wide / ISO Auto), 1.5 - 6.1m (Tele / ISO Auto)<br><em>* For iA, iA+ mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Recording Media</strong> - SD Memory Card, SDHC Memory Card, SDXC Memory Card (Compatible with UHS-I UHS Speed Class 3 standard SDHC / SDXC Memory Cards)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Microphone / Speaker</strong> - Stereo / Mono</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Interface</strong> - microHDMI typeD, USB2.0 Micro-B</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Power</strong> - Li-ion Battery Pack (7.2V, 895mAh, 6.5 Wh) (Included); USB Power Charging</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Battery Life (Approx.)</strong> - Approx. 330 images (rear monitor), 240 images (LVF)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Included Software</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software to process RAW files on PC is not bundled with this camera. To do this, SILKYPIX Developer Studio is available for download at Ichikawa Soft Laboratory's website using a PC connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The Operating Instructions for advanced features is available for download at Panasonic LUMIX Customer Support Site using a PC, smartphone or tablet connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software for PC is not bundled with this camera. Please use software included with your PC or other general image viewing software to browse pictures.</em></span></li>\n</ul>\n</ul>",
+        "published_at": "2024-09-27T12:49:28-04:00",
+        "created_at": "2024-07-03T14:16:19-04:00",
+        "vendor": "Panasonic",
+        "type": "Point & Shoot Digital Cameras",
+        "tags": [
+            "2092",
+            "Brand_Panasonic",
+            "Cameras with Free Memory Card!",
+            "Category_Point & Shoot Digital Cameras",
+            "Condition_New",
+            "Digital Cameras",
+            "Digital Cameras 14-19 MP",
+            "Free 2 Day Shipping",
+            "Panasonic",
+            "Photography",
+            "Point & Shoot Digital Cameras",
+            "Save on these great deals"
+        ],
+        "price": 47799,
+        "price_min": 47799,
+        "price_max": 47799,
+        "available": true,
+        "price_varies": false,
+        "compare_at_price": 47999,
+        "compare_at_price_min": 47999,
+        "compare_at_price_max": 47999,
+        "compare_at_price_varies": false,
+        "variants": [
+            {
+                "id": 43097540395191,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PNDCFZ80D",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "name": "Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens",
+                "public_title": null,
+                "options": [
+                    "Default Title"
+                ],
+                "price": 47799,
+                "weight": 640,
+                "compare_at_price": 47999,
+                "inventory_management": "shopify",
+                "barcode": "885170432253",
+                "requires_selling_plan": false,
+                "selling_plan_allocations": [],
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                }
+            }
+        ],
+        "images": [
+            "//www.beachcamera.com/cdn/shop/files/1019183_1.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019184_2.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019185_3.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019186_4.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019187_5.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019188_6.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019189_7.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019190_8.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019191_9.jpg?v=1720030579",
+            "//www.beachcamera.com/cdn/shop/files/1019192_10.jpg?v=1720030580",
+            "//www.beachcamera.com/cdn/shop/files/1019193_11.jpg?v=1720030580",
+            "//www.beachcamera.com/cdn/shop/files/1019194_12.jpg?v=1720030580",
+            "//www.beachcamera.com/cdn/shop/files/1019195_13.jpg?v=1720030580"
+        ],
+        "featured_image": "//www.beachcamera.com/cdn/shop/files/1019183_1.jpg?v=1720030579",
+        "options": [
+            "Title"
+        ],
+        "media": [
+            {
+                "alt": null,
+                "id": 29342069162167,
+                "position": 1,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019183_1.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019183_1.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069194935,
+                "position": 2,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019184_2.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019184_2.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069227703,
+                "position": 3,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019185_3.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019185_3.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069260471,
+                "position": 4,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019186_4.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019186_4.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069293239,
+                "position": 5,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019187_5.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019187_5.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069326007,
+                "position": 6,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019188_6.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019188_6.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069358775,
+                "position": 7,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019189_7.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019189_7.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069391543,
+                "position": 8,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019190_8.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019190_8.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069424311,
+                "position": 9,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019191_9.jpg?v=1720030579"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019191_9.jpg?v=1720030579",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069457079,
+                "position": 10,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019192_10.jpg?v=1720030580"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019192_10.jpg?v=1720030580",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069489847,
+                "position": 11,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019193_11.jpg?v=1720030580"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019193_11.jpg?v=1720030580",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069522615,
+                "position": 12,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019194_12.jpg?v=1720030580"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019194_12.jpg?v=1720030580",
+                "width": 1500
+            },
+            {
+                "alt": null,
+                "id": 29342069555383,
+                "position": 13,
+                "preview_image": {
+                    "aspect_ratio": 1.0,
+                    "height": 1500,
+                    "width": 1500,
+                    "src": "//www.beachcamera.com/cdn/shop/files/1019195_13.jpg?v=1720030580"
+                },
+                "aspect_ratio": 1.0,
+                "height": 1500,
+                "media_type": "image",
+                "src": "//www.beachcamera.com/cdn/shop/files/1019195_13.jpg?v=1720030580",
+                "width": 1500
+            }
+        ],
+        "requires_selling_plan": false,
+        "selling_plan_groups": [],
+        "content": "<h2 style=\"text-align: center;\"><strong>Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens</strong></h2>\n<h3><strong>Product Highlight:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens with 60x zoom for landscapes and macro details</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot LVF with 0.74x magnification for glare-free viewing</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Amazing Video Quality for Fast-Paced Action with 4K Video and 4K Photo</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus lets you adjust focus after the shot</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">No More Blur, Even at 60x Zoom with the POWER O.I.S (Optical Image Stabilizer)</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">USB Type-C Battery Charging</span></p>\n<h3><strong>Product Feature:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Taking Bridge Cameras to Another Level</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The FZ80D enables you to capture incredibly clear moments near and far. The 20-1200mm zoom lens (35mm camera equivalent) gives you the ability to shoot landscapes and panoramas with a high level of detail. Clear, glare-resistant View Finder (2,360K dots); 4K video/photo; POWER O.I.S.; macro shooting</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Panoramas in Extraordinary Detail</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens creates breathtaking landscapes, with a powerful 60x zoom (35mm equivalent: 20-1200mm) to capture the big picture as well as fine details.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>An Always-Clear View, Even in Bright Sunlight</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot. Large LVF 0.74x (35mm camera equivalent) ensures you'll see your screen without glare.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Amazing Video Quality for Fast-Paced Action</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">4K Video Mode records up to 4x resolution of Full HD; for incredible flexibility; 4K Photo feature lets you extract the perfect 8-megapixel photo out of 4K video and save it.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Shoot Now, Focus Later</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus feature gives you the power to touch the area you'd like to be in focus, even after the shot has been taken.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>No More Blur, Even at 60x Zoom</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The POWER O.I.S. (Optical Image Stabilizer) effectively suppresses hand-shake vibration at the tele-end.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Stunning Macro Photos</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Shoot incredibly vivid close-up shots of food, flowers, insects, and more with a minimum focusing distance of 1cm.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Intuitive Touch Control with 1,840k-dot Monitor</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The 3.0-inch rear monitor with a high resolution of approximately 1,840k-dot features higher visibility even for sunny outdoor shooting. And, touch control immediately lets you to set focus to the subject by just touching it on the screen and you can even release the shutter.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Zoom Compose Assist</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The Zoom Compose Assist function lets you quickly zoom out with a single press of a button when you've lost your subject while telephoto shooting. This allows you to instantly reconfirm your composition.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>USB Type-C Battery Charging</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The camera's battery can be recharged via USB Type-C\u00ae according to your convenience.</span></p>\n<h3><strong>Product\u00a0<span style=\"font-size: 14px;\">Specifications:</span></strong></h3>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Physical Specifications</u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Dimensions (W x H x D)</strong>\u00a0- 130.2 x 94.3 x 119.2 mm (5.13 x 3.71 x 4.69 inch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Weight</strong> - Approx. 616 g with Battery and SD Memory Card (1.36 lb); Approx. 572 g without Battery and SD Memory Card (1.26 lb)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Optics</u><br></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Camera Effective Pixels</strong> - 18.1 Megapixels</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Sensor Size / Total Pixels / Filter</strong> - 1/2.3-inch High Sensitivity MOS Sensor / 18.9 Total Megapixels / Primary Color Filter</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Aperture</strong> - F2.8 - 5.9 / Multistage Iris Diaphragm (F2.8 - 8.0 (W), F5.9 - 8.0 (T)) </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Zoom</strong> - 60x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focal Length</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">f = 3.58 - 215mm</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(20 - 1200mm in 35mm equiv. in 4:3)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(21 - 1260mm in 35mm equiv. in 3:2)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in 16:9)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(23 - 1380mm in 35mm equiv. in 1:1)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K PHOTO recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K video recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in FHD / HD video recording)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Extra Optical Zoom (EZ)</strong> - 84x (4:3 / 9M (M)), 122x (4:3 / 4.5M (S))</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Intelligent Zoom</strong> - 120x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Lens</strong> - LUMIX DC VARIO\u00a0- 14 elements in 12 groups (6 aspherical lenses / 9 aspherical surfaces / 3 ED lenses)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Image Stabilizer</strong> - POWER O.I.S. (On with Active Mode (only for motion picture) / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Zoom</strong> - Max. 4x (When Digital Zoom is used simultaneously with Intelligent Zoom, you can only increase the zoom ratio up to 2x.)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Conversion Lens Compatibility</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focusing Area</strong> - Normal: Wide 30 cm - infinity / Tele 150 cm - infinity; AF Macro / MF / Intelligent Auto / Motion Picture: Wide 1 cm - infinity / Tele 150 cm - infinity</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Assist Lamp</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus</strong>\u00a0- AF / AF Macro / Macro Zoom * Each available with AFS (Single) / AFF (Flexible) / AFC (Continuous); Quick AF, Continuous AF (during motion picture recording), Touch AF/AE Function, Touch Pad AF, Touch Shutter, MF Assist, Touch MF Assist, AF+MF, Focus Peaking, One Shot AF (Set the Fn button in custom menu to AF-ON), Low Light AF</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Post Focus</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus Stacking</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Metering</strong> - Face/Eye Detection / Tracking / 49-area / Custom Multi / 1-area / Pinpoint (Full area touch is available)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Shutter Speed</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Still Image</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 4 - 1/2,000 sec (Mechanical Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1 - 1/16,000 sec (Electronic Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Artistic Nightscape (Approx. 60 sec)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Motion Picture</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/30 - 1/16,000 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/2 - 1/16,000 sec (Creative Video M Mode / MF Mode)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Viewfinder</strong> - 0.20\" LVF (Live View Finder) (1,166k dots equiv.), Field of View: Approx. 100%, Lens 19.6x; Magnification: Approx. 2.59x / 0.46x (35 mm camera equivalent)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Recording and Playback<br></u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>File Format</strong> - Still Image: JPEG (DCF/Exif2.3) / RAW, DPOF; Motion Picture: AVCHD Progressive, AVCHD, MP4</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Mode Dial -</strong> Intelligent Auto, P, A, S, M, Creative Video, C (Custom), Panorama Shot, Scene Guide, Creative Control</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Creative Control Mode</strong> - Expressive, Retro, Old Days, High Key, Low Key, Sepia, Monochrome, Dynamic Monochrome, Rough Monochrome, Silky Monochrome, Impressive Art, High Dynamic, Cross Process, Toy Effect, Toy Pop, Bleach Bypass, Miniature Effect, Soft Focus, Fantasy, Star Filter, One Point Color, Sunshine (22 filters)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Image Scene Guide</strong> - Clear Portrait, Silky Skin, Backlit Softness, Clear in Backlight, Relaxing Tone, Sweet Child's Face, Distinct Scenery, Bright Blue Sky, Romantic Sunset Glow, Vivid Sunset Glow, Glistening Water, Clear Nightscape, Cool Night Sky, Warm Glowing Nightscape, Artistic Nightscape, Glittering Illuminations, Handheld Night Shot, Clear Night Portrait, Soft Image of a Flower, Appetizing Food, Cute Dessert, Freeze Animal Motion, Clear Sports Shot, Monochrome</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Continuous Shooting Mode (Approx.)</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFS] H: 10 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFC] H: 6 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>4K Photo Mode</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst: 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst (S/S): 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Pre-Burst: 30 frames/sec, approx. 2 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>(Depending on memory card size and battery power)</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Exif Information: Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Marking Function: Yes (in 4K Burst (S/S) mode)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Motion Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>4K Video</em></strong> - 3840 x 2160 pixels, 30p (4K: 100Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>HD Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 24Mbps / AVCHD) (Sensor Output is 30fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 17Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / MP4) (Sensor Output is 60fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 30p (FHD: 20Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: 10Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>High Speed Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: MP4) (Sensor Output is 120fps)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">640 x 480 pixels, 30p (VGA: MP4) (Sensor Output is 240fps)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 100 min; FHD/60i: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 80 min; FHD/60p: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 50 min; FHD/60i: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 40 min; FHD/60p: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure</strong> - Program AE, Aperture Priority AE, Shutter Priority AE, Manual</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure Compensation</strong> - 1/3 EV step, +/-5 EV (+/-3 EV for motion picture)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Light Metering</strong> - Intelligent Multiple / Center Weighted / Spot</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>ISO Sensitivity</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Still Image: Auto / i.ISO / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400 (Extended ISO)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Motion Picture: Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 <br><em>(Changeable to 1/3 EV step)</em></span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3672 (18M) (L) / 3456x2592 (9M) (M) / 2400x1800 (4.5M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3264 (16M) (L) / 3456x2304 (8M) (M) / 2400x1600 (4M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x2752 (13.5M) (L) / 3840x2160 (8M) (M) / 1920x1080 (2M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">3664x3664 (13.5M) (L) / 2592x2592 (7M) (M) / 1824x1824 (3.5M) (S)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Image Quality</strong> - RAW / RAW+Fine / RAW+Standard / Fine / Standard</span></li>\n<li>\n<span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance</strong> - Auto / Daylight / Cloudy / Shade / Incandescent / Flash / White Set1 / White Set2 / White Set3 / White Set4 / Color Temperature (2-axis </span><span style=\"font-family: Verdana; font-size: small;\">adjustable)</span>\n</li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Photo Style</strong> - Standard, Vivid, Natural, Monochrome, Scenery, Portrait, Custom</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Picture Adjustment</strong> - Contrast, Sharpness, Noise Reduction, Saturation<em>(Except for Monochrome mode)</em>, Color Tone**, Filter Effect**<br><em>** For Monochrome mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AE Bracket</strong> - 3, 5, 7 images in 1/3, 2/3 or 1 EV step, Max. +/-3 EV</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance Bracket</strong> - 3 exposures in blue/amber axis or in magenta/green axis </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Red Eye Correction (Red-Eye Removal)</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Wi-Fi</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">IEEE 802.11b/g/n</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">2412 MHz - 2462 MHz (1-11 ch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">WPA / WPA2</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Infrastructure Mode / WPS</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>GPS, NFC</strong> - No</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Zoom in Motion Picture</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Self Timer</strong> - 2 sec / 10 sec / 10 sec (3 images)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Playback Mode</strong> - All, Slideshow, Filtering Play (Picture Only, Video Only, 4K PHOTO, Post Focus, Category Selection, Favorite), Calendar</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Thumbnails / Zoomed Playback</strong> - 12,30-thumbnails / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Set Favorites / Rotate Image</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Show Histogram / Show Highlights</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>DPOF Print Setting / Set Protection</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Retouch</strong> - Clear Retouch</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>RAW Processing</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Resize / Cropping</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Title Edit / Text Stamp</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Video Divide</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>PictBridge Support</strong> - Single / Multi / All / DPOF / Favorites</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Other</u></strong><br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>LCD Monitor</strong> - 3.0\" (7.5cm) TFT Screen LCD Display (1040k dots); Static Touch Control; Field of View: Approx. 100%, Wide Viewing-angle, AF Coating<br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Built- in- Flash</strong>\u00a0 - Auto*, Auto/Red-eye Reduction*, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off; 1st Curtain Sync., 2nd Curtain Sync; 0.3 - 14.1m (Wide / ISO Auto), 1.5 - 6.1m (Tele / ISO Auto)<br><em>* For iA, iA+ mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Recording Media</strong> - SD Memory Card, SDHC Memory Card, SDXC Memory Card (Compatible with UHS-I UHS Speed Class 3 standard SDHC / SDXC Memory Cards)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Microphone / Speaker</strong> - Stereo / Mono</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Interface</strong> - microHDMI typeD, USB2.0 Micro-B</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Power</strong> - Li-ion Battery Pack (7.2V, 895mAh, 6.5 Wh) (Included); USB Power Charging</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Battery Life (Approx.)</strong> - Approx. 330 images (rear monitor), 240 images (LVF)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Included Software</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software to process RAW files on PC is not bundled with this camera. To do this, SILKYPIX Developer Studio is available for download at Ichikawa Soft Laboratory's website using a PC connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The Operating Instructions for advanced features is available for download at Panasonic LUMIX Customer Support Site using a PC, smartphone or tablet connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software for PC is not bundled with this camera. Please use software included with your PC or other general image viewing software to browse pictures.</em></span></li>\n</ul>\n</ul>"
+    }
+}{
+    "recently_viewed_info": {
+        "handle": "panasonic-lumix-fz80d-compact-camera-20-1200mm-zoom-lens"
+    },
+    "time": {
+        "second": "second",
+        "seconds": "seconds",
+        "minute": "minute",
+        "minutes": "minutes",
+        "hour": "hour",
+        "hours": "hours",
+        "ago": "ago"
+    },
+    "product_card_settings": {
+        "emphasize_price": true,
+        "sale_badge": false,
+        "sale_badge_style": "percent"
+    },
+    "currency": "USD"
+}{
+    "cart_redirection": false,
+    "money_format": "${{amount}}"
+}{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.beachcamera.com/collections",
+                "name": "Collections"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.beachcamera.com/collections/all-products",
+                "name": "All products"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.beachcamera.com/products/panasonic-lumix-fz80d-compact-camera-20-1200mm-zoom-lens",
+                "name": "Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens"
+            }
+        }
+    ]
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens",
+    "image": "https://www.beachcamera.com/cdn/shop/files/1019183_1_1024x1024.jpg?v=1720030579",
+    "description": "<h2 style=\"text-align: center;\"><strong>Panasonic Lumix FZ80D Compact Camera + 20-1200mm Zoom Lens</strong></h2>\n<h3><strong>Product Highlight:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens with 60x zoom for landscapes and macro details</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot LVF with 0.74x magnification for glare-free viewing</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Amazing Video Quality for Fast-Paced Action with 4K Video and 4K Photo</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus lets you adjust focus after the shot</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">No More Blur, Even at 60x Zoom with the POWER O.I.S (Optical Image Stabilizer)</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">USB Type-C Battery Charging</span></p>\n<h3><strong>Product Feature:</strong></h3>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Taking Bridge Cameras to Another Level</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The FZ80D enables you to capture incredibly clear moments near and far. The 20-1200mm zoom lens (35mm camera equivalent) gives you the ability to shoot landscapes and panoramas with a high level of detail. Clear, glare-resistant View Finder (2,360K dots); 4K video/photo; POWER O.I.S.; macro shooting</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Panoramas in Extraordinary Detail</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">20mm wide-angle lens creates breathtaking landscapes, with a powerful 60x zoom (35mm equivalent: 20-1200mm) to capture the big picture as well as fine details.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>An Always-Clear View, Even in Bright Sunlight</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">2,360K-dot. Large LVF 0.74x (35mm camera equivalent) ensures you'll see your screen without glare.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Amazing Video Quality for Fast-Paced Action</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">4K Video Mode records up to 4x resolution of Full HD; for incredible flexibility; 4K Photo feature lets you extract the perfect 8-megapixel photo out of 4K video and save it.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Shoot Now, Focus Later</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Post Focus feature gives you the power to touch the area you'd like to be in focus, even after the shot has been taken.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>No More Blur, Even at 60x Zoom</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The POWER O.I.S. (Optical Image Stabilizer) effectively suppresses hand-shake vibration at the tele-end.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Stunning Macro Photos</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">Shoot incredibly vivid close-up shots of food, flowers, insects, and more with a minimum focusing distance of 1cm.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Intuitive Touch Control with 1,840k-dot Monitor</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The 3.0-inch rear monitor with a high resolution of approximately 1,840k-dot features higher visibility even for sunny outdoor shooting. And, touch control immediately lets you to set focus to the subject by just touching it on the screen and you can even release the shutter.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Zoom Compose Assist</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The Zoom Compose Assist function lets you quickly zoom out with a single press of a button when you've lost your subject while telephoto shooting. This allows you to instantly reconfirm your composition.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>USB Type-C Battery Charging</strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\">The camera's battery can be recharged via USB Type-C\u00ae according to your convenience.</span></p>\n<h3><strong>Product\u00a0<span style=\"font-size: 14px;\">Specifications:</span></strong></h3>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Physical Specifications</u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Dimensions (W x H x D)</strong>\u00a0- 130.2 x 94.3 x 119.2 mm (5.13 x 3.71 x 4.69 inch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Weight</strong> - Approx. 616 g with Battery and SD Memory Card (1.36 lb); Approx. 572 g without Battery and SD Memory Card (1.26 lb)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Optics</u><br></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Camera Effective Pixels</strong> - 18.1 Megapixels</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Sensor Size / Total Pixels / Filter</strong> - 1/2.3-inch High Sensitivity MOS Sensor / 18.9 Total Megapixels / Primary Color Filter</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Aperture</strong> - F2.8 - 5.9 / Multistage Iris Diaphragm (F2.8 - 8.0 (W), F5.9 - 8.0 (T)) </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Zoom</strong> - 60x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focal Length</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">f = 3.58 - 215mm</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(20 - 1200mm in 35mm equiv. in 4:3)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(21 - 1260mm in 35mm equiv. in 3:2)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in 16:9)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(23 - 1380mm in 35mm equiv. in 1:1)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K PHOTO recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(28 - 1680mm in 35mm equiv. in 4K video recording)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">(22 - 1320mm in 35mm equiv. in FHD / HD video recording)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Extra Optical Zoom (EZ)</strong> - 84x (4:3 / 9M (M)), 122x (4:3 / 4.5M (S))</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Intelligent Zoom</strong> - 120x</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Lens</strong> - LUMIX DC VARIO\u00a0- 14 elements in 12 groups (6 aspherical lenses / 9 aspherical surfaces / 3 ED lenses)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Optical Image Stabilizer</strong> - POWER O.I.S. (On with Active Mode (only for motion picture) / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Zoom</strong> - Max. 4x (When Digital Zoom is used simultaneously with Intelligent Zoom, you can only increase the zoom ratio up to 2x.)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Conversion Lens Compatibility</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focusing Area</strong> - Normal: Wide 30 cm - infinity / Tele 150 cm - infinity; AF Macro / MF / Intelligent Auto / Motion Picture: Wide 1 cm - infinity / Tele 150 cm - infinity</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Assist Lamp</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus</strong>\u00a0- AF / AF Macro / Macro Zoom * Each available with AFS (Single) / AFF (Flexible) / AFC (Continuous); Quick AF, Continuous AF (during motion picture recording), Touch AF/AE Function, Touch Pad AF, Touch Shutter, MF Assist, Touch MF Assist, AF+MF, Focus Peaking, One Shot AF (Set the Fn button in custom menu to AF-ON), Low Light AF</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Post Focus</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Focus Stacking</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AF Metering</strong> - Face/Eye Detection / Tracking / 49-area / Custom Multi / 1-area / Pinpoint (Full area touch is available)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Shutter Speed</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Still Image</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 4 - 1/2,000 sec (Mechanical Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1 - 1/16,000 sec (Electronic Shutter)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Artistic Nightscape (Approx. 60 sec)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>Motion Picture</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/30 - 1/16,000 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Approx. 1/2 - 1/16,000 sec (Creative Video M Mode / MF Mode)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Viewfinder</strong> - 0.20\" LVF (Live View Finder) (1,166k dots equiv.), Field of View: Approx. 100%, Lens 19.6x; Magnification: Approx. 2.59x / 0.46x (35 mm camera equivalent)</span></li>\n</ul>\n<p><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Recording and Playback<br></u></strong></span></p>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>File Format</strong> - Still Image: JPEG (DCF/Exif2.3) / RAW, DPOF; Motion Picture: AVCHD Progressive, AVCHD, MP4</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Mode Dial -</strong> Intelligent Auto, P, A, S, M, Creative Video, C (Custom), Panorama Shot, Scene Guide, Creative Control</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Creative Control Mode</strong> - Expressive, Retro, Old Days, High Key, Low Key, Sepia, Monochrome, Dynamic Monochrome, Rough Monochrome, Silky Monochrome, Impressive Art, High Dynamic, Cross Process, Toy Effect, Toy Pop, Bleach Bypass, Miniature Effect, Soft Focus, Fantasy, Star Filter, One Point Color, Sunshine (22 filters)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Image Scene Guide</strong> - Clear Portrait, Silky Skin, Backlit Softness, Clear in Backlight, Relaxing Tone, Sweet Child's Face, Distinct Scenery, Bright Blue Sky, Romantic Sunset Glow, Vivid Sunset Glow, Glistening Water, Clear Nightscape, Cool Night Sky, Warm Glowing Nightscape, Artistic Nightscape, Glittering Illuminations, Handheld Night Shot, Clear Night Portrait, Soft Image of a Flower, Appetizing Food, Cute Dessert, Freeze Animal Motion, Clear Sports Shot, Monochrome</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Continuous Shooting Mode (Approx.)</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFS] H: 10 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">[AFC] H: 6 frames/sec, M: 6 frames/sec (with Live View), L: 2 frames/sec (with Live View)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>4K Photo Mode</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst: 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Burst (S/S): 30 frames/sec, max. 15 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4K Pre-Burst: 30 frames/sec, approx. 2 sec</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>(Depending on memory card size and battery power)</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Exif Information: Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Marking Function: Yes (in 4K Burst (S/S) mode)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Motion Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>4K Video</em></strong> - 3840 x 2160 pixels, 30p (4K: 100Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>HD Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 24Mbps / AVCHD) (Sensor Output is 30fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60i (FHD: 17Mbps / AVCHD) (Sensor Output is 60fps) (Dolby)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 60p (FHD: 28Mbps / MP4) (Sensor Output is 60fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1920 x 1080 pixels, 30p (FHD: 20Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: 10Mbps / MP4) (Sensor Output is 30fps) (AAC)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><em>High Speed Video</em></strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">1280 x 720 pixels, 30p (HD: MP4) (Sensor Output is 120fps)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">640 x 480 pixels, 30p (VGA: MP4) (Sensor Output is 240fps)</span></li>\n</ul>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 100 min; FHD/60i: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 80 min; FHD/60p: Approx. 100 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AVCHD</strong> - FHD/60p: Approx. 50 min; FHD/60i: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>MP4</strong> - 4K/30p: Approx. 40 min; FHD/60p: Approx. 50 min</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure</strong> - Program AE, Aperture Priority AE, Shutter Priority AE, Manual</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Exposure Compensation</strong> - 1/3 EV step, +/-5 EV (+/-3 EV for motion picture)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Light Metering</strong> - Intelligent Multiple / Center Weighted / Spot</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>ISO Sensitivity</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">Still Image: Auto / i.ISO / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400 (Extended ISO)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Motion Picture: Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 <br><em>(Changeable to 1/3 EV step)</em></span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Still Picture Recording</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3672 (18M) (L) / 3456x2592 (9M) (M) / 2400x1800 (4.5M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x3264 (16M) (L) / 3456x2304 (8M) (M) / 2400x1600 (4M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">4896x2752 (13.5M) (L) / 3840x2160 (8M) (M) / 1920x1080 (2M) (S)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">3664x3664 (13.5M) (L) / 2592x2592 (7M) (M) / 1824x1824 (3.5M) (S)</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Image Quality</strong> - RAW / RAW+Fine / RAW+Standard / Fine / Standard</span></li>\n<li>\n<span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance</strong> - Auto / Daylight / Cloudy / Shade / Incandescent / Flash / White Set1 / White Set2 / White Set3 / White Set4 / Color Temperature (2-axis </span><span style=\"font-family: Verdana; font-size: small;\">adjustable)</span>\n</li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Photo Style</strong> - Standard, Vivid, Natural, Monochrome, Scenery, Portrait, Custom</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Picture Adjustment</strong> - Contrast, Sharpness, Noise Reduction, Saturation<em>(Except for Monochrome mode)</em>, Color Tone**, Filter Effect**<br><em>** For Monochrome mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>AE Bracket</strong> - 3, 5, 7 images in 1/3, 2/3 or 1 EV step, Max. +/-3 EV</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>White Balance Bracket</strong> - 3 exposures in blue/amber axis or in magenta/green axis </span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Digital Red Eye Correction (Red-Eye Removal)</strong> - Yes (On / Off)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Wi-Fi</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\">IEEE 802.11b/g/n</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">2412 MHz - 2462 MHz (1-11 ch)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">WPA / WPA2</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\">Infrastructure Mode / WPS</span></li>\n</ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>GPS, NFC</strong> - No</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Zoom in Motion Picture</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Self Timer</strong> - 2 sec / 10 sec / 10 sec (3 images)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Playback Mode</strong> - All, Slideshow, Filtering Play (Picture Only, Video Only, 4K PHOTO, Post Focus, Category Selection, Favorite), Calendar</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Thumbnails / Zoomed Playback</strong> - 12,30-thumbnails / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Set Favorites / Rotate Image</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Show Histogram / Show Highlights</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>DPOF Print Setting / Set Protection</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Retouch</strong> - Clear Retouch</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>RAW Processing</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Resize / Cropping</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Title Edit / Text Stamp</strong> - Yes / Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Video Divide</strong> - Yes</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>PictBridge Support</strong> - Single / Multi / All / DPOF / Favorites</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong><u>Other</u></strong><br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>LCD Monitor</strong> - 3.0\" (7.5cm) TFT Screen LCD Display (1040k dots); Static Touch Control; Field of View: Approx. 100%, Wide Viewing-angle, AF Coating<br></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Built- in- Flash</strong>\u00a0 - Auto*, Auto/Red-eye Reduction*, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off; 1st Curtain Sync., 2nd Curtain Sync; 0.3 - 14.1m (Wide / ISO Auto), 1.5 - 6.1m (Tele / ISO Auto)<br><em>* For iA, iA+ mode only.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Recording Media</strong> - SD Memory Card, SDHC Memory Card, SDXC Memory Card (Compatible with UHS-I UHS Speed Class 3 standard SDHC / SDXC Memory Cards)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Microphone / Speaker</strong> - Stereo / Mono</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Interface</strong> - microHDMI typeD, USB2.0 Micro-B</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Power</strong> - Li-ion Battery Pack (7.2V, 895mAh, 6.5 Wh) (Included); USB Power Charging</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Battery Life (Approx.)</strong> - Approx. 330 images (rear monitor), 240 images (LVF)</span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><strong>Included Software</strong></span></li>\n<ul>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software to process RAW files on PC is not bundled with this camera. To do this, SILKYPIX Developer Studio is available for download at Ichikawa Soft Laboratory's website using a PC connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The Operating Instructions for advanced features is available for download at Panasonic LUMIX Customer Support Site using a PC, smartphone or tablet connected to the Internet.</em></span></li>\n<li><span style=\"font-family: Verdana; font-size: small;\"><em>The software for PC is not bundled with this camera. Please use software included with your PC or other general image viewing software to browse pictures.</em></span></li>\n</ul>\n</ul>",
+    "brand": {
+        "@type": "Thing",
+        "name": "Panasonic"
+    },
+    "sku": "PNDCFZ80D",
+    "mpn": "885170432253",
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": 477.99,
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.beachcamera.com/products/panasonic-lumix-fz80d-compact-camera-20-1200mm-zoom-lens?variant=43097540395191",
+        "seller": {
+            "@type": "Organization",
+            "name": "Beach Camera"
+        },
+        "priceValidUntil": "2025-09-28"
+    }
+}{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Beach Camera",
+    "url": "https://www.beachcamera.com"
+}{
+    "api_key": "e8c74750-6aba-44e9-ae37-cc0532260261",
+    "merchant_id": "4146",
+    "merchant_group_id": "12683",
+    "locale": "en_US"
+}

@@ -1,0 +1,414 @@
+{
+    "rua.upush": "false",
+    "rua.cpush": "true",
+    "rua.upre": "false",
+    "rua.cpre": "true",
+    "rua.uprl": "false",
+    "rua.cprl": "false",
+    "rua.cprf": "false",
+    "rua.trans": "SJ-5928e0dc-7657-4fb1-a860-270296dde9f8",
+    "rua.cook": "false",
+    "rua.ims": "false",
+    "rua.ufprl": "false",
+    "rua.cfprl": "true",
+    "rua.isuxp": "false",
+    "rua.texp": "norulematch"
+}{
+    "isHardLoggedIn": false,
+    "productDetails": {
+        "productId": "p810425779",
+        "skuId": "810425779",
+        "productType": "product",
+        "isOnDisplay": false,
+        "sellType": "",
+        "promotionalMessage": "",
+        "displayName": "Low Dose Safety Coated Aspirin 81 mg Tablets, 120-Count",
+        "brandDisplayName": "Bayer",
+        "displayShowSkuShelfValue": "",
+        "productSize": "120.00&amp;nbsp;CT",
+        "curFavStore": "",
+        "isSkuBopisEligible": true,
+        "powerReviewsEnabled": true,
+        "isComingSoon": false,
+        "displayLeaseInfo": false,
+        "writeAReviewLabel": "Write a Review",
+        "askTheFirstQuestionLabel": "Ask the First Question",
+        "displayQAndA": false,
+        "financingTermContent": "",
+        "promotions": [],
+        "seoSellPrice": 7.99,
+        "pricing": {
+            "sellPrice": "$7.99",
+            "listPrice": "$7.99",
+            "originalPrice": "$7.99",
+            "savingsDollarAmount": "$0.00",
+            "savingsPercentageAmount": "0"
+        },
+        "savingsLabel": "Save",
+        "percentLabel": "&amp;#37;",
+        "savingsOffLabel": "Off",
+        "savingsLessLabel": "Less Than Elsewhere",
+        "regularPriceLabel": "Reg Price",
+        "shouldDisplayPrice": true,
+        "showMultipleOffersLink": "",
+        "hasRelatedSku": "false",
+        "commonSizeLabel": "Size:",
+        "itemSizeDescription": "",
+        "commonQuantity": "Quantity:",
+        "productCollections": {
+            "partOfCollection": false
+        },
+        "pdpProdutFulfillmentOptions": {
+            "maxQuantities": {
+                "maxQty": "2",
+                "envMaxQty": "2",
+                "orderMaxQty": "2",
+                "maxOnlineQty": "10",
+                "maxDfsQty": "0",
+                "maxBopisQty": "1"
+            },
+            "cartQty": "0",
+            "pickup": {
+                "available": "false",
+                "label": "Pickup"
+            },
+            "sameDay": {
+                "available": "false",
+                "shippingRate": "[{&#034;size&#034;:&#034;Medium&#034;,&#034;price&#034;:&#034;29.00&#034;},{&#034;size&#034;:&#034;Large&#034;,&#034;price&#034;:&#034;59.00&#034;},{&#034;size&#034;:&#034;XLarge&#034;,&#034;price&#034;:&#034;99.00&#034;},{&#034;size&#034;:&#034;Small&#034;,&#034;price&#034;:&#034;12.99&#034;}]",
+                "label": "Same-Day Delivery",
+                "timeZoneUtcOffset": "",
+                "sameDayDeliveryMessage": {
+                    "deliveryLabel": "Enjoy convenient delivery to your doorstep.",
+                    "dataTarget": "sameDayDelivery",
+                    "howItWorksLabel": "See How it Works",
+                    "descriptionOne": "&amp;lt;div id=&amp;#034;Fast-Delivery-wrapper&amp;#034;&amp;gt;\n&amp;lt;h3 style=&amp;#034;text-align: center;\n                letter-spacing: 0px;\n                color: #FF5200;\n                opacity: 1;\n                font-size: 24px;\n                margin-top: 1.7rem;&amp;#034;&amp;gt;Same-Day Delivery&amp;lt;/h3&amp;gt;\n\n&amp;lt;p style=&amp;#034;text-align: center;\n                letter-spacing: 0px;\n                color: #000000;\n                font-size: 16px;\n                opacity: 1; \n                line-height: normal;&amp;#034;&amp;gt;Orders &amp;lt;strong&amp;gt;prior&amp;lt;/strong&amp;gt; to 2pm - Get it Today!&amp;lt;br /&amp;gt;\nOrders &amp;lt;strong&amp;gt;after&amp;lt;/strong&amp;gt; 2pm - Get it Tomorrow!&amp;lt;/p&amp;gt;\n\n&amp;lt;div class=&amp;#034;divider-line&amp;#034; style=&amp;#034;border: 0px;\n                height: 2px;\n                width: 27%;\n                background-color: #FF5200;\n                margin: 10px 8rem;&amp;#034;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;\n\n&amp;lt;p style=&amp;#034;letter-spacing: 0px; color: rgb(0, 0, 0); opacity: 1; font-size: 16px; text-align: center; font-style: italic; padding: 3px;&amp;#034;&amp;gt;We select the &amp;lt;strong&amp;gt;first available&amp;lt;/strong&amp;gt; time window.&amp;lt;br /&amp;gt;\nYou can find more time windows in cart.&amp;lt;/p&amp;gt;\n\n&amp;lt;div class=&amp;#034;divider-line-two&amp;#034; style=&amp;#034;border: 0px;\n                height: 1px;\n                padding: 1px;\n                background-color: #F0F0F0;&amp;#034;&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;\n\n&amp;lt;h3 style=&amp;#034;text-align: center;\n                letter-spacing: 0px;\n                color: #FF5200;\n                opacity: 1;\n                padding: 3px;\n                font-size: 24px;&amp;#034;&amp;gt;Price is calculated in cart&amp;lt;/h3&amp;gt;\n\n&amp;lt;p style=&amp;#034; text-align: center;\n                letter-spacing: 0px;\n                margin-left: -5px;\n                color: #000000;\n                opacity: 1;\n                white-space: nowrap;\n                font-size: 16px;&amp;#034;&amp;gt;Price based on the &amp;lt;strong&amp;gt;single&amp;lt;/strong&amp;gt; largest product size.&amp;lt;br /&amp;gt;\nAdd as many &amp;lt;strong&amp;gt;same size or smaller&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;\nitems at a &amp;lt;strong&amp;gt;flat rate!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;\n&amp;lt;/div&amp;gt;",
+                    "descriptionTwo": "",
+                    "descriptionTrigger": "",
+                    "countElement": "1",
+                    "elementId": "700001"
+                },
+                "linkTo": "addressForm"
+            },
+            "standard": {
+                "available": "true",
+                "label": "Standard Shipping",
+                "linkTo": "addressForm",
+                "pdpPromiseDate": {
+                    "pdpPromiseDate": {
+                        "success": "false"
+                    }
+                }
+            },
+            "bigDelivery": {
+                "available": "false",
+                "label": ""
+            }
+        },
+        "wishlist": {
+            "itemInWishList": false,
+            "listName": ""
+        },
+        "enableForSaleInStoreOption": false,
+        "badges": [],
+        "isAvailable": true,
+        "productImageList": [
+            {
+                "imageSrcSmall": "https://assets.biglots.com/is/image/biglots/810425779",
+                "imageSrcMedium": "https://assets.biglots.com/is/image/biglots/810425779",
+                "imageSrcLarge": "https://assets.biglots.com/is/image/biglots/810425779",
+                "imgForStructuredData": "https://assets.biglots.com/is/image/biglots/810425779",
+                "altText": "Low Dose Safety Coated Aspirin 81 mg Tablets, 120-Count",
+                "isVideo": false,
+                "youtubeUrl": ""
+            }
+        ],
+        "pdpUrl": "https://www.biglots.com/product/low-dose-safety-coated-aspirin-81-mg-tablets-120-count/p810425779?skuId=810425779"
+    },
+    "productContent": {
+        "description": {
+            "title": "About This Product",
+            "content": "This low dose pain reliever is great for pain for helping prevent heart attacks or clot-related strokes when recommended by your doctor. Bayer brings you trusted pain relief. Take aspirin for pain or for life."
+        },
+        "productDetails": {
+            "title": "Product Details",
+            "sku": "810425779",
+            "isComboProduct": "false",
+            "specifications": [
+                "Contains: 120 - Aspirin tablets",
+                "Dosage per tablet: 81 mg",
+                "120 ct"
+            ],
+            "features": [
+                "Includes 120 - enteric coated aspirin tablets",
+                "Helps prevent a heart attack or clot-related (ischemic) stroke when taken as directed by your doctor",
+                "Aspirin is not appropriate for everyone, so be sure to talk to your doctor before you begin an aspirin regimen",
+                "Sodium-free and caffeine-free",
+                "Coated to make it easier to swallow",
+                "#1 Doctor recommended aspirin brand"
+            ]
+        },
+        "promotions": {
+            "title": "Promotions",
+            "promotionDetails": []
+        },
+        "deliveryReturnPolicies": {
+            "title": "Delivery &amp; Return Policies",
+            "returnPolicy": "If you wish to return your online order, please visit your <a href=\"https://www.biglots.com/account/order-status\"><u>order history</u></a> to start the return process. If you have any issues, contact our Customer Care Support Center at 1-866-BIG-LOTS (244-5687) for assistance with making your return. Please be prepared to provide your order number and email address, or your rewards number, so that we may better assist you.<br />\n<br />\nFor return terms, see our full <a href=\"https://www.biglots.com/page/returns-policy\">Returns Policy</a>.",
+            "deliveryInfo": {
+                "deliveryQuestionsText": "Delivery questions? For more info, visit our",
+                "deliveryQuestionsLinkAddr": "/help-faq/_/N-4005127926",
+                "deliveryQuestionsLinkText": "Delivery FAQs.",
+                "pickupDeliveryInfo": {
+                    "title": "Pickup",
+                    "description": "In store pickup is FREE. Orders placed by 5pm local time can be picked up the same day."
+                },
+                "sameDayDeliveryInfo": {
+                    "title": "Same-Day Delivery",
+                    "description": "Need it? Get it! Got it. Same Day Delivery available from select stores. You can choose from available delivery windows in cart."
+                },
+                "parcelDeliveryInfo": {
+                    "title": "Standard Delivery",
+                    "description": "Standard Delivery is FREE on orders over $79. Expedited delivery can be chosen in cart for eligible items."
+                }
+            }
+        },
+        "ratingsAndReviews": {
+            "title": "Customer Reviews",
+            "isEnabled": "true",
+            "reviewCount": "17",
+            "averageRating": "4.9",
+            "apiKey": "69f0c329-ccee-4fc6-90ba-072483997c4b",
+            "locale": "en_US",
+            "merchantGroupId": "49914",
+            "merchantId": "54858",
+            "pageId": "810425779",
+            "pageIdVariant": "810425779",
+            "reviewWrapperUrl": "https://ui.powerreviews.com/stable/standalone.4.0.html?__;!!NlL3gfXN!_PFtTzIaxdiG494ctkuKHifqxg4nbuQSEHc4tMYq3GNMwdlb_JAX9TvodP8uI6c0qFl-UqB0QfCOrbkszCgG$"
+        },
+        "faqs": {
+            "title": "Q&A",
+            "displayQandA": "false"
+        },
+        "customAccordions": {
+            "title": "Good To Know",
+            "description": "We\u2019ve got curbside pickup! Quick and contactless, simply place your order on Biglots.com. Once you arrive at the store, call the store and describe your car and we\u2019ll bring your order right out to you. Just have your ID ready!"
+        }
+    }
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Low Dose Safety Coated Aspirin 81 mg Tablets, 120-Count",
+    "image": [
+        "https://assets.biglots.com/is/image/biglots/810425779"
+    ],
+    "description": "This low dose pain reliever is great for pain for helping prevent heart attacks or clot-related strokes when recommended by your doctor. Bayer brings you trusted pain relief. Take aspirin for pain or for life. ",
+    "brand": {
+        "@type": "Brand",
+        "name": "Bayer"
+    },
+    "sku": "810425779",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "17"
+    },
+    "offers": {
+        "@type": "Offer",
+        "url": "https://www.biglots.com/product/low-dose-safety-coated-aspirin-81-mg-tablets-120-count/p810425779?skuId=810425779",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        "price": "7.99"
+    }
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Low Dose Safety Coated Aspirin 81 mg Tablets, 120-Count",
+    "id": "54858-810425779-en_US",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.88,
+        "reviewCount": 17
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "name": "It's aspirin",
+            "reviewBody": "I'll give it 5 stars if it prevents a heart attack...Monitoring",
+            "datePublished": "2024-08-31T18:05:11.665Z",
+            "author": {
+                "@type": "Person",
+                "name": "Elise"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "good product",
+            "reviewBody": "prescribed by md",
+            "datePublished": "2024-08-13T23:16:07.134Z",
+            "author": {
+                "@type": "Person",
+                "name": "brenda"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "5star",
+            "reviewBody": "I was happy to see that Big Lot carried this product and the price was great",
+            "datePublished": "2024-08-09T19:19:59.877Z",
+            "author": {
+                "@type": "Person",
+                "name": "George/Linda"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "5 star product",
+            "reviewBody": "This is something I need everyday health wise. I'm glad that Biglots is able to provide this product. Thanks Biglot.",
+            "datePublished": "2024-07-30T19:20:54.581Z",
+            "author": {
+                "@type": "Person",
+                "name": "Sharon"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "5 stars",
+            "reviewBody": "great",
+            "datePublished": "2024-07-29T21:46:01.024Z",
+            "author": {
+                "@type": "Person",
+                "name": "Richard"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "Always have them in the house",
+            "reviewBody": "Need to take them every day",
+            "datePublished": "2024-07-23T17:31:45.462Z",
+            "author": {
+                "@type": "Person",
+                "name": "SANDRA"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "Good",
+            "reviewBody": "Easy to open",
+            "datePublished": "2024-07-10T12:32:10.590Z",
+            "author": {
+                "@type": "Person",
+                "name": "latricia"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "5 stars, will always buy it.",
+            "reviewBody": "Great price!",
+            "datePublished": "2024-06-19T16:15:40.984Z",
+            "author": {
+                "@type": "Person",
+                "name": "jacqueline"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "My heart thanks Bayer",
+            "reviewBody": "I use Bayer low dosage for my heart as a daily regime to k keep me healthy",
+            "datePublished": "2024-06-11T22:45:14.751Z",
+            "author": {
+                "@type": "Person",
+                "name": "Kim"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "Undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        },
+        {
+            "@type": "Review",
+            "name": "Great",
+            "reviewBody": "It's a little pricey but it's great overall. I've tried multiple different brands of aspirin and I feel like the bear brand is the most effective for me has a lot of better ingredients and amazing packaging. The top is hard to get off so I think it's a good safety mechanism that they have.",
+            "datePublished": "2024-04-12T17:00:53.000Z",
+            "author": {
+                "@type": "Person",
+                "name": "mirandav64"
+            },
+            "locationCreated": {
+                "@type": "AdministrativeArea",
+                "name": "undisclosed"
+            },
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            }
+        }
+    ]
+}{}{}

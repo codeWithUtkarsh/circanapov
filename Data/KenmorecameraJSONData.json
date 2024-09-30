@@ -1,0 +1,28 @@
+{
+    "product_attributes": {
+        "sku": "120018",
+        "upc": null,
+        "mpn": "01502",
+        "gtin": null,
+        "weight": null,
+        "base": true,
+        "image": null,
+        "price": {
+            "without_tax": {
+                "formatted": "$399.95",
+                "value": 399.95,
+                "currency": "USD"
+            },
+            "tax_label": "Sales Tax"
+        },
+        "out_of_stock_behavior": "label_option",
+        "out_of_stock_message": "Coming Soon",
+        "available_modifier_values": [],
+        "in_stock_attributes": [],
+        "stock": null,
+        "instock": true,
+        "stock_message": null,
+        "purchasable": true,
+        "purchasing_message": null
+    }
+}

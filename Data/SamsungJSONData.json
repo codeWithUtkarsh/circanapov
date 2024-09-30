@@ -1,0 +1,3341 @@
+{
+    "rua.upush": "false",
+    "rua.cpush": "true",
+    "rua.upre": "false",
+    "rua.cpre": "false",
+    "rua.uprl": "false",
+    "rua.cprl": "false",
+    "rua.cprf": "false",
+    "rua.trans": "SJ-c22a6b90-39b3-4833-9c25-d185d0e12364",
+    "rua.cook": "false",
+    "rua.ims": "false",
+    "rua.ufprl": "false",
+    "rua.cfprl": "false",
+    "rua.isuxp": "false",
+    "rua.texp": "norulematch"
+}{
+    "gnbLeftModelList": [
+        {
+            "displayName": "Shop",
+            "englishName": "shop",
+            "linkType": "move",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "New & Featured",
+                        "englishName": "new and featured",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "groupCode": "none",
+                        "typeCode": "none",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "AI Products",
+                                "englishName": "ai products",
+                                "linkType": "move",
+                                "linkUrl": "/in/ai-products/all-ai-products/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20240430|20240630",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Offers",
+                        "englishName": "offers",
+                        "linkType": "move",
+                        "linkUrl": "/in/offer/online/samsung-fest/",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Offers",
+                                "englishName": "All Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Fab Grab Fest ",
+                                "englishName": "fab grab fest",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/fab-grab-fest/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "eco",
+                                "badgeText": "Live",
+                                "badgePeriod": "20240904|20241031",
+                                "isBadgeDisplay": true,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Mobile Offers",
+                                "englishName": "Mobile Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/mobiles/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Television Offers",
+                                "englishName": "Television Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/television-soundbar/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Refrigerator Offers",
+                                "englishName": "Refrigerator Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/refrigerators/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Washing Machine Offers",
+                                "englishName": "Washing Machine Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/washing-machines/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Laptop & Computing Offers",
+                                "englishName": "Laptop and Computing Offers",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/laptops-monitors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Live",
+                                "englishName": "Samsung Live",
+                                "linkType": "move",
+                                "linkUrl": "/in/samsung-live/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Shop App",
+                                "englishName": "Samsung Shop App",
+                                "linkType": "new",
+                                "linkUrl": "https://play.google.com/store/apps/details?id=com.samsung.ecomm",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Why buy from Samsung",
+                        "englishName": "why buy from samsung",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "3",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Overview",
+                                "englishName": "overview",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/online/why-buy-from-samsung/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Finance+",
+                                "englishName": "samsung finance plus",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/online/finance-plus/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Axis Bank Credit Card",
+                                "englishName": "samsung axis bank credit card",
+                                "linkType": "move",
+                                "linkUrl": "/in/samsung-card/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Wallet",
+                                "englishName": "Samsung Wallet",
+                                "linkType": "move",
+                                "linkUrl": "/in/apps/samsung-wallet/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Care+",
+                                "englishName": "Samsung Care",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/samsung-care-plus/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Delivery & Installation",
+                                "englishName": "Delivery and Installation",
+                                "linkType": "move",
+                                "linkUrl": "/in/shop-faq/delivery-and-installations/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Mobiles Trade-in",
+                                "englishName": "Mobiles Trade-in",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/exchange/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Smart Club Loyalty Program",
+                                "englishName": "Smart Club Loyalty Program",
+                                "linkType": "move",
+                                "linkUrl": "/in/microsite/smart-club/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Referral Advantage",
+                                "englishName": "samsung referral advantage",
+                                "linkType": "move",
+                                "linkUrl": "/in/microsite/shop-referral/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung BKC",
+                                "englishName": "Samsung BKC",
+                                "linkType": "move",
+                                "linkUrl": "/in/store/samsung-bkc/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Exclusive Discount Programs",
+                        "englishName": "Exclusive Discount Programs",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "5",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Corporate Employee Program",
+                                "englishName": "Corporate Employee Program",
+                                "linkType": "move",
+                                "linkUrl": "/in/multistore/corporate/prelogin/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Samsung Student Advantage",
+                                "englishName": "Samsung Student Advantage",
+                                "linkType": "move",
+                                "linkUrl": "/in/offer/student-discount/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Government Employees",
+                                "englishName": "Government Employees",
+                                "linkType": "move",
+                                "linkUrl": "/in/multistore/corporate/prelogin/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Defence Purchase Program",
+                                "englishName": "Defence Purchase Program",
+                                "linkType": "move",
+                                "linkUrl": "/in/microsite/defence-purchase-program/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "AI",
+            "englishName": "ai",
+            "linkType": "move",
+            "linkUrl": "/in/galaxy-ai/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "level1List": [
+                {
+                    "displayName": "AI for All",
+                    "englishName": "ai for all",
+                    "linkType": "move",
+                    "linkUrl": "/in/ai-products/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy AI",
+                    "englishName": "galaxy ai",
+                    "linkType": "move",
+                    "linkUrl": "/in/galaxy-ai/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Samsung AI TV",
+                    "englishName": "samsung ai tv",
+                    "linkType": "move",
+                    "linkUrl": "/in/tvs/8k-tv/highlights/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Bespoke AI",
+                    "englishName": "bespoke ai",
+                    "linkType": "move",
+                    "linkUrl": "/in/home-appliances/bespoke-home/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "All AI Products",
+                    "englishName": "all ai products",
+                    "linkType": "move",
+                    "linkUrl": "/in/ai-products/all-ai-products/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "groupCode": "none",
+                    "typeCode": "none",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                }
+            ],
+            "layoutType": "l1only",
+            "ftImageAreaTitle": "New & Featured",
+            "containerAlignment": "left",
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Mobile",
+            "englishName": "mobile",
+            "linkType": "move",
+            "linkUrl": "/in/mobile/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "groupCode": "20000000",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": true,
+            "ftImageUseFlag2": true,
+            "ftImageUseFlag3": true,
+            "ftImageUseFlag4": true,
+            "ftImageUseFlag5": true,
+            "ftImageUseFlag6": true,
+            "ftImageUseFlag7": true,
+            "ftImageUseFlag8": true,
+            "ftImageUseFlag9": true,
+            "ftImageUrl1": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png",
+            "ftImageUrlDesktop1": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$84_68_PNG$",
+            "ftImageUrlMobile1": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$168_136_PNG$",
+            "ftImageUrlWithPreset1": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$LazyLoad_Home_PNG$",
+            "ftImageAlt1": "Galaxy Z Fold6",
+            "ftImageAltEng1": "galaxy z fold6",
+            "ftDescription1": "Galaxy Z Fold6",
+            "ftDescriptionEng1": "galaxy z fold6",
+            "ftLinkUrl1": "/in/smartphones/galaxy-z-fold6/",
+            "ftLinkType1": "move",
+            "hasChildren": true,
+            "level1List": [
+                {
+                    "displayName": "Discover Mobiles",
+                    "englishName": "discover mobiles",
+                    "linkType": "move",
+                    "linkUrl": "/in/mobile/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy AI",
+                    "englishName": "galaxy ai",
+                    "linkType": "move",
+                    "linkUrl": "/in/galaxy-ai/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Smartphone",
+                    "englishName": "galaxy smartphone",
+                    "linkType": "move",
+                    "linkUrl": "/in/smartphones/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Tab",
+                    "englishName": "galaxy tab",
+                    "linkType": "move",
+                    "linkUrl": "/in/tablets/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Book",
+                    "englishName": "galaxy book and laptops",
+                    "linkType": "move",
+                    "linkUrl": "/in/galaxy-book/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Watch",
+                    "englishName": "galaxy watch",
+                    "linkType": "move",
+                    "linkUrl": "/in/watches/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Buds",
+                    "englishName": "galaxy buds",
+                    "linkType": "move",
+                    "linkUrl": "/in/audio-sound/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Galaxy Accessories",
+                    "englishName": "galaxy accessories",
+                    "linkType": "move",
+                    "linkUrl": "/in/mobile-accessories/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "One UI",
+                    "englishName": "one ui",
+                    "linkType": "move",
+                    "linkUrl": "/in/one-ui/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Samsung Health",
+                    "englishName": "samsung health",
+                    "linkType": "move",
+                    "linkUrl": "/in/apps/samsung-health/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Apps & Services",
+                    "englishName": "apps and services",
+                    "linkType": "move",
+                    "linkUrl": "/in/apps/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Why Galaxy",
+                    "englishName": "why galaxy",
+                    "linkType": "move",
+                    "linkUrl": "/in/mobile/why-galaxy/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "hasChildren": false
+                },
+                {
+                    "displayName": "Switch to Galaxy",
+                    "englishName": "switch to galaxy",
+                    "linkType": "move",
+                    "linkUrl": "/in/mobile/switch-to-galaxy/",
+                    "displayFlag": "Y",
+                    "mobileOnlyFlag": "N",
+                    "layoutColumn": "1",
+                    "hasChildren": false
+                }
+            ],
+            "layoutType": "l1only",
+            "ftImageUrl2": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png",
+            "ftImageAlt2": "Galaxy Z Flip6",
+            "ftImageAltEng2": "galaxy z flip6",
+            "ftDescription2": "Galaxy Z Flip6",
+            "ftDescriptionEng2": "galaxy z flip6",
+            "ftLinkType2": "move",
+            "ftLinkUrl2": "/in/smartphones/galaxy-z-flip6/",
+            "ftImageUrl3": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png",
+            "ftImageAlt3": "Galaxy S24 Ultra",
+            "ftImageAltEng3": "galaxy s24 ultra",
+            "ftDescription3": "Galaxy S24 Ultra",
+            "ftDescriptionEng3": "galaxy s24 ultra",
+            "ftLinkType3": "move",
+            "ftLinkUrl3": "/in/smartphones/galaxy-s24-ultra/",
+            "ftImageUrl4": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png",
+            "ftImageAlt4": "Galaxy S24 | S24+",
+            "ftImageAltEng4": "galaxy s24 and s24 plus",
+            "ftDescription4": "Galaxy S24 | S24+",
+            "ftDescriptionEng4": "galaxy s24 and s24 plus",
+            "ftLinkType4": "move",
+            "ftLinkUrl4": "/in/smartphones/galaxy-s24/",
+            "ftImageUrl5": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png",
+            "ftImageAlt5": "Galaxy A55 5G",
+            "ftImageAltEng5": "galaxy a55 5g",
+            "ftDescription5": "Galaxy A55 5G",
+            "ftDescriptionEng5": "galaxy a55 5g",
+            "ftLinkType5": "new",
+            "ftLinkUrl5": "/in/smartphones/galaxy-a/galaxy-a55-5g-awesome-iceblue-256gb-sm-a556elbgins/",
+            "ftImageUrl6": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png",
+            "ftImageAlt6": "Galaxy Tab S9 Series",
+            "ftImageAltEng6": "galaxy tab s9 series",
+            "ftDescription6": "Galaxy Tab S9 Series",
+            "ftDescriptionEng6": "galaxy tab s9 series",
+            "ftLinkType6": "move",
+            "ftLinkUrl6": "/in/tablets/galaxy-tab-s/galaxy-tab-s9-5g-graphite-256gb-sm-x716bzaeinu/",
+            "ftImageUrl7": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png",
+            "ftImageAlt7": "Galaxy Watch Ultra",
+            "ftImageAltEng7": "galaxy watch ultra",
+            "ftDescription7": "Galaxy Watch Ultra",
+            "ftDescriptionEng7": "galaxy watch ultra",
+            "ftLinkType7": "move",
+            "ftLinkUrl7": "/in/watches/galaxy-watch/galaxy-watch-ultra-titanium-gray-lte-sm-l705fdaains/",
+            "ftImageUrl8": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png",
+            "ftImageAlt8": "Galaxy Buds3",
+            "ftImageAltEng8": "galaxy buds3",
+            "ftDescription8": "Galaxy Buds3",
+            "ftDescriptionEng8": "galaxy buds3",
+            "ftLinkType8": "move",
+            "ftLinkUrl8": "/in/audio-sound/galaxy-buds/galaxy-buds3-silver-sm-r530nzaainu/",
+            "ftImageUrl9": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png",
+            "ftImageAlt9": "Galaxy Book4 Ultra",
+            "ftImageAltEng9": "galaxy book4 ultra",
+            "ftDescription9": "Galaxy Book4 Ultra",
+            "ftDescriptionEng9": "galaxy book4 ultra",
+            "ftLinkType9": "move",
+            "ftLinkUrl9": "/in/computers/galaxy-book/galaxy-book4-ultra-16-inch-ultra-7-16gb-1tb-np960xgl-xg1in/",
+            "ftImageAreaTitle": "New & Featured",
+            "containerAlignment": "left",
+            "ftImageUrlDesktop2": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$84_68_PNG$",
+            "ftImageUrlDesktop3": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$84_68_PNG$",
+            "ftImageUrlDesktop4": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$84_68_PNG$",
+            "ftImageUrlDesktop5": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$84_68_PNG$",
+            "ftImageUrlDesktop6": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$84_68_PNG$",
+            "ftImageUrlDesktop7": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$84_68_PNG$",
+            "ftImageUrlDesktop8": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$84_68_PNG$",
+            "ftImageUrlDesktop9": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$84_68_PNG$",
+            "ftImageUrlMobile2": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$168_136_PNG$",
+            "ftImageUrlMobile3": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$168_136_PNG$",
+            "ftImageUrlMobile4": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$168_136_PNG$",
+            "ftImageUrlMobile5": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$168_136_PNG$",
+            "ftImageUrlMobile6": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$168_136_PNG$",
+            "ftImageUrlMobile7": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$168_136_PNG$",
+            "ftImageUrlMobile8": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$168_136_PNG$",
+            "ftImageUrlMobile9": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$168_136_PNG$",
+            "ftImageUrlWithPreset2": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset3": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset4": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset5": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset6": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset7": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset8": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$LazyLoad_Home_PNG$",
+            "ftImageUrlWithPreset9": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$LazyLoad_Home_PNG$",
+            "ftDataList": [
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png",
+                    "ftImageAlt": "Galaxy Z Fold6",
+                    "ftImageAltEng": "galaxy z fold6",
+                    "ftDescription": "Galaxy Z Fold6",
+                    "ftDescriptionEng": "galaxy z fold6",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/smartphones/galaxy-z-fold6/",
+                    "ftBadgeFlag": "true",
+                    "ftBadgeText": "NEW",
+                    "ftBadgeType": "new",
+                    "ftBadgePeriod": "20240702|20241231",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_Q6_168x136_mo.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": true
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png",
+                    "ftImageAlt": "Galaxy Z Flip6",
+                    "ftImageAltEng": "galaxy z flip6",
+                    "ftDescription": "Galaxy Z Flip6",
+                    "ftDescriptionEng": "galaxy z flip6",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/smartphones/galaxy-z-flip6/",
+                    "ftBadgeFlag": "true",
+                    "ftBadgeText": "NEW",
+                    "ftBadgeType": "new",
+                    "ftBadgePeriod": "20240702|20241231",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/GNB_B6_168x136_mo.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": true
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png",
+                    "ftImageAlt": "Galaxy S24 Ultra",
+                    "ftImageAltEng": "galaxy s24 ultra",
+                    "ftDescription": "Galaxy S24 Ultra",
+                    "ftDescriptionEng": "galaxy s24 ultra",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/smartphones/galaxy-s24-ultra/",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E3_168x136_mo.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": false
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png",
+                    "ftImageAlt": "Galaxy S24 | S24+",
+                    "ftImageAltEng": "galaxy s24 and s24 plus",
+                    "ftDescription": "Galaxy S24 | S24+",
+                    "ftDescriptionEng": "galaxy s24 and s24 plus",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/smartphones/galaxy-s24/",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_E1E2_168x136_mo.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": false
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png",
+                    "ftImageAlt": "Galaxy A55 5G",
+                    "ftImageAltEng": "galaxy a55 5g",
+                    "ftDescription": "Galaxy A55 5G",
+                    "ftDescriptionEng": "galaxy a55 5g",
+                    "ftLinkType": "new",
+                    "ftLinkUrl": "/in/smartphones/galaxy-a/galaxy-a55-5g-awesome-iceblue-256gb-sm-a556elbgins/",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/gnb/A55_168x136.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": false
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png",
+                    "ftImageAlt": "Galaxy Tab S9 Series",
+                    "ftImageAltEng": "galaxy tab s9 series",
+                    "ftDescription": "Galaxy Tab S9 Series",
+                    "ftDescriptionEng": "galaxy tab s9 series",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/tablets/galaxy-tab-s/galaxy-tab-s9-5g-graphite-256gb-sm-x716bzaeinu/",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2404/gnb/GNB_TabS9_168x136_mo.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": false
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png",
+                    "ftImageAlt": "Galaxy Watch Ultra",
+                    "ftImageAltEng": "galaxy watch ultra",
+                    "ftDescription": "Galaxy Watch Ultra",
+                    "ftDescriptionEng": "galaxy watch ultra",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/watches/galaxy-watch/galaxy-watch-ultra-titanium-gray-lte-sm-l705fdaains/",
+                    "ftBadgeFlag": "true",
+                    "ftBadgeText": "NEW",
+                    "ftBadgeType": "new",
+                    "ftBadgePeriod": "20240702|20241231",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/2407/gnb/WatchUltra_GNB_mo_168x136.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": true
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png",
+                    "ftImageAlt": "Galaxy Buds3",
+                    "ftImageAltEng": "galaxy buds3",
+                    "ftDescription": "Galaxy Buds3",
+                    "ftDescriptionEng": "galaxy buds3",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/audio-sound/galaxy-buds/galaxy-buds3-silver-sm-r530nzaainu/",
+                    "ftBadgeFlag": "true",
+                    "ftBadgeText": "NEW",
+                    "ftBadgeType": "new",
+                    "ftBadgePeriod": "20240702|20241231",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/gnb/168x136_Buds3.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": true
+                },
+                {
+                    "ftImageUseFlag": true,
+                    "ftImageUrl": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png",
+                    "ftImageAlt": "Galaxy Book4 Ultra",
+                    "ftImageAltEng": "galaxy book4 ultra",
+                    "ftDescription": "Galaxy Book4 Ultra",
+                    "ftDescriptionEng": "galaxy book4 ultra",
+                    "ftLinkType": "move",
+                    "ftLinkUrl": "/in/computers/galaxy-book/galaxy-book4-ultra-16-inch-ultra-7-16gb-1tb-np960xgl-xg1in/",
+                    "ftImageUrlDesktop": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$84_68_PNG$",
+                    "ftImageUrlMobile": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$168_136_PNG$",
+                    "ftImageUrlWithPreset": "//images.samsung.com/is/image/samsung/assets/in/home/168x136_GB4-Pre-Order.png?$LazyLoad_Home_PNG$",
+                    "ftBadgeDisplay": false
+                }
+            ],
+            "ftbadgeFlag1": "true",
+            "ftbadgeText1": "NEW",
+            "ftbadgeType1": "new",
+            "ftbadgePeriod1": "20240702|20241231",
+            "ftbadgeFlag2": "true",
+            "ftbadgeText2": "NEW",
+            "ftbadgeType2": "new",
+            "ftbadgePeriod2": "20240702|20241231",
+            "ftbadgeFlag7": "true",
+            "ftbadgeText7": "NEW",
+            "ftbadgeType7": "new",
+            "ftbadgePeriod7": "20240702|20241231",
+            "ftbadgeFlag8": "true",
+            "ftbadgeText8": "NEW",
+            "ftbadgeType8": "new",
+            "ftbadgePeriod8": "20240702|20241231",
+            "ftbadgeDisplay1": true,
+            "ftbadgeDisplay2": true,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": true,
+            "ftbadgeDisplay8": true,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "TV & AV",
+            "englishName": "tv and av",
+            "linkType": "move",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "groupCode": "21000000",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Recommended",
+                        "englishName": "recommended",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All About TV",
+                                "englishName": "all about tv",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/tv-buying-guide/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why Samsung TV",
+                                "englishName": "why samsung smart tv",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/why-samsung-tv/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why 8K TVs",
+                                "englishName": "why 8k tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/8k-tv/highlights/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why Neo QLED",
+                                "englishName": "why neo qled",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/qled-tv/highlights/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why Samsung OLED",
+                                "englishName": "why samsung oled",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/oled-tv/highlights/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why Neo QLED for gaming",
+                                "englishName": "why neo qled for gaming",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/gaming-tv/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "hot",
+                                "badgeText": "HOT",
+                                "badgePeriod": "20221218|20230330",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Why Samsung Smart TV",
+                                "englishName": "smart TV",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/smart-tv/highlights/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "TVs",
+                        "englishName": "tvs",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All TVs",
+                                "englishName": "all tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Neo QLED",
+                                "englishName": "neo qled",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/qled-tv/?neo-qled-8k+neo-qled-4k",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "OLED",
+                                "englishName": "OLED",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/?oled-tv",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230603|20230831",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "QLED 4K",
+                                "englishName": "qled 4k",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/qled-tv/?qled-4k",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "subTypeCode": "21010500",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Crystal 4K UHD",
+                                "englishName": "Crystal 4K UHD",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/?crystal-uhd",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "The Frame",
+                                "englishName": "the frame",
+                                "linkType": "move",
+                                "linkUrl": "/in/lifestyle-tvs/the-frame/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "The Serif",
+                                "englishName": "the serif",
+                                "linkType": "move",
+                                "linkUrl": "/in/lifestyle-tvs/the-serif/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "TV Accessories",
+                                "englishName": "tv accessories",
+                                "linkType": "move",
+                                "linkUrl": "/in/tv-accessories/all-tv-accessories/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover TVs",
+                                "englishName": "discover tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "QLED 8K",
+                                "englishName": "qled 8k",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/?qled-8k",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "Y",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "UHD 4K",
+                                "englishName": "uhd 4k",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/uhd-4k-tv/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "Y",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "subTypeCode": "21010200",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Full HD/HD TVs",
+                                "englishName": "full hd and hd tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/full-hd-tv/?full-hd-tv+hd-tv",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "Y",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "subTypeCode": "21010300",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "TV by Size",
+                        "englishName": "tv by size",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "3",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "2.47 m (98) TVs",
+                                "englishName": "2m 47cm 98 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/2m-47cm-98-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "2.16 m (85) TVs",
+                                "englishName": "2m 16cm 85 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/2m-16cm-85-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "1.89 m (75) TVs",
+                                "englishName": "1m 89cm 75 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/1m-89cm-75-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "1.63 m (65) TVs",
+                                "englishName": "1m 63cm 65 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/1m-63cm-65-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "1.38 m (55) TVs",
+                                "englishName": "1m 38cm 55 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/1m-38cm-55-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "1.25 m (50) TVs",
+                                "englishName": "1m 25cm 50 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/1m-25cm-50-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "1.08 m (43) TVs",
+                                "englishName": "1m 08cm 43 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/1m-08cm-43-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "80 cm (32) TVs",
+                                "englishName": "80cm 32 inch tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/80cm-32-inch-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "typeCode": "21010000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "All TVs",
+                                "englishName": "all tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "TV by Resolution",
+                        "englishName": "tv by resolution",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "4",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "QLED 8K",
+                                "englishName": "qled 8k",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/all-tvs/?qled-8k",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "UHD 4K",
+                                "englishName": "uhd 4k",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/uhd-4k-tv/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Full HD/HD TVs",
+                                "englishName": "full hd hd tvs",
+                                "linkType": "move",
+                                "linkUrl": "/in/tvs/full-hd-tv/?full-hd-tv+hd-tv",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Projectors",
+                        "englishName": "projectors",
+                        "linkType": "move",
+                        "linkUrl": "/in/projectors/all-projectors/",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "5",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "The Premiere",
+                                "englishName": "the premiere",
+                                "linkType": "move",
+                                "linkUrl": "/in/projectors/all-projectors/?the-premiere",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "The Freestyle",
+                                "englishName": "the freestyle",
+                                "linkType": "move",
+                                "linkUrl": "/in/projectors/the-freestyle/lff3c-the-freestyle-2nd-gen-sp-lff3claxxxl/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "All Projectors",
+                                "englishName": "all projectors",
+                                "linkType": "move",
+                                "linkUrl": "/in/projectors/all-projectors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20220418|20220725",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Sound Devices",
+                        "englishName": "sound devices",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "6",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Discover Sound\u00a0Devices",
+                                "englishName": "discover sound devices",
+                                "linkType": "move",
+                                "linkUrl": "/in/audio-devices/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Soundbar",
+                                "englishName": "soundbar",
+                                "linkType": "move",
+                                "linkUrl": "/in/audio-devices/soundbar/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Music Frame",
+                                "englishName": "music frame",
+                                "linkType": "move",
+                                "linkUrl": "/in/audio-devices/music-frame/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Sound Tower",
+                                "englishName": "sound tower",
+                                "linkType": "move",
+                                "linkUrl": "/in/audio-devices/sound-tower/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "21000000",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "All Sound\u00a0Devices",
+                                "englishName": "all sound devices",
+                                "linkType": "move",
+                                "linkUrl": "/in/audio-devices/all-audio-devices/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Home Appliances",
+            "englishName": "home appliances",
+            "linkType": "move",
+            "linkUrl": "/in/home-appliances/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "groupCode": "25000000",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Recommended",
+                        "englishName": "recommended",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Discover BESPOKE AI",
+                                "englishName": "discover bespoke ai",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliances/bespoke-home/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Virtual Product Experience",
+                                "englishName": "Virtual Product Experience",
+                                "linkType": "new",
+                                "linkUrl": "https://samsungexperiencezone.com/viewer/62c3cee5d2853fac0872e022?areaId=a_3",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Refrigerators",
+                        "englishName": "refrigerators",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Refrigerators",
+                                "englishName": "all refrigerators",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/all-refrigerators/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "BESPOKE Refrigerators",
+                                "englishName": "bespoke refrigerators",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/all-refrigerators/?bespoke",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "hot",
+                                "badgeText": "HOT",
+                                "badgePeriod": "20221219|20230630",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "French Door",
+                                "englishName": "french door",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/french-door/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25020000",
+                                "subTypeCode": "25020100",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Side by Side",
+                                "englishName": "side by side",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/side-by-side/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25020000",
+                                "subTypeCode": "25020400",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Double Door",
+                                "englishName": "double door",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/double-door/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25020000",
+                                "subTypeCode": "25020500",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Single Door",
+                                "englishName": "single door",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/one-door/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25020000",
+                                "subTypeCode": "25020700",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "BESPOKE Panels",
+                                "englishName": "bespoke panels",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliance-accessories/?refrigerator-accessories",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Buying Guide",
+                                "englishName": "buying guide",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliances/buying-guide/refrigerators/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover Refrigerators",
+                                "englishName": "discover refrigerators",
+                                "linkType": "move",
+                                "linkUrl": "/in/refrigerators/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Washing Machines & Dryers\n",
+                        "englishName": "washing machines and dryers",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "4",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Washing\u00a0Machines\u00a0&\u00a0Dryers",
+                                "englishName": "all washing machines and dryers",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/all-washers-and-dryers/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "BESPOKE Washing Machine",
+                                "englishName": "bespoke washing machine",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-xx-percent-extra-energy-efficiency-ai-ecobubble-12kg-navy-ww12db8b54gstl/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Front Load",
+                                "englishName": "front load",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/washing-machines/?front-loading",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25010000",
+                                "subTypeCode": "25010200",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Top Load",
+                                "englishName": "top load",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/washing-machines/?top-loading",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25010000",
+                                "subTypeCode": "25010400",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Semi Automatic",
+                                "englishName": "semi automatic",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/all-washers-and-dryers/?semi-automatic",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "25000000",
+                                "typeCode": "25010000",
+                                "subTypeCode": "25010500",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Washer-Dryer",
+                                "englishName": "washer dryer",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/washer-dryer-combo/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Dryers\n",
+                                "englishName": "dryers",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/all-washers-and-dryers/?dryers",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Buying Guide",
+                                "englishName": "buying guide",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliances/buying-guide/washing-machines/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover Washing\u00a0Machines\u00a0&\u00a0Dryers",
+                                "englishName": "discover washing machines & dryers",
+                                "linkType": "move",
+                                "linkUrl": "/in/washers-and-dryers/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Vacuum Cleaners",
+                        "englishName": "vacuum cleaners",
+                        "linkType": "move",
+                        "linkUrl": "/in/vacuum-cleaners/all-vacuum-cleaners/",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "5",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Vacuum Cleaners",
+                                "englishName": "all vacuum cleaners",
+                                "linkType": "move",
+                                "linkUrl": "/in/vacuum-cleaners/all-vacuum-cleaners/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "BESPOKE Vacuum Cleaners",
+                                "englishName": "BESPOKE Vacuum Cleaners",
+                                "linkType": "move",
+                                "linkUrl": "/in/vacuum-cleaners/all-vacuum-cleaners/?bespoke",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "hot",
+                                "badgeText": "HOT",
+                                "badgePeriod": "20230621|20230821",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Jet Stick Vacuum Cleaners",
+                                "englishName": "jet stick vacuums cleaners",
+                                "linkType": "move",
+                                "linkUrl": "/in/vacuum-cleaners/all-vacuum-cleaners/?jet-stick-vacuums",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230324|20230424",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Robot Vacuum Cleaners",
+                                "englishName": "robot vacuums cleaners",
+                                "linkType": "move",
+                                "linkUrl": "/in/vacuum-cleaners/robot/vr8500t-white-vr30t85513w-tl/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "eco",
+                                "badgeText": "Launch",
+                                "badgePeriod": "20230324|20230424",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "displayName": "Dishwashers",
+                        "englishName": "dishwashers",
+                        "linkType": "move",
+                        "linkUrl": "/in/dishwashers/all-dishwashers/",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "groupCode": "none",
+                        "layoutColumn": "5",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Dishwashers",
+                                "englishName": "all dishwashers",
+                                "linkType": "move",
+                                "linkUrl": "/in/dishwashers/all-dishwashers/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Cooking Appliances",
+                        "englishName": "cooking appliances",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "6",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Cooking\u00a0Appliances",
+                                "englishName": "all cooking appliances",
+                                "linkType": "move",
+                                "linkUrl": "/in/microwave-ovens/all-microwave-ovens/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "BESPOKE Microwave Ovens",
+                                "englishName": "BESPOKE Microwave Ovens",
+                                "linkType": "move",
+                                "linkUrl": "/in/microwave-ovens/all-microwave-ovens/?bespoke",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Microwave Ovens",
+                                "englishName": "microwave ovens",
+                                "linkType": "move",
+                                "linkUrl": "/in/microwave-ovens/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Buying Guide",
+                                "englishName": "buying guide",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliances/buying-guide/microwaves/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover Cooking\u00a0Appliances",
+                                "englishName": "discover cooking appliances",
+                                "linkType": "move",
+                                "linkUrl": "/in/cooking-appliances/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "displayName": "Air Purifiers",
+                        "englishName": "air purifiers",
+                        "linkType": "move",
+                        "linkUrl": "/in/air-care/air-purifier/",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "6",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Air\u00a0Purifier",
+                                "englishName": "all air purifier",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-care/air-purifier/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "All Filters",
+                                "englishName": "all filters",
+                                "linkType": "move",
+                                "linkUrl": "/in/home-appliance-accessories/?air-purifier-accessories/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Computing",
+            "englishName": "computing",
+            "linkType": "move",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "groupCode": "24000000",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Recommended",
+                        "englishName": "recommended",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "New 2024 Monitors Lineup ",
+                                "englishName": "New 2024 Monitors Lineup ",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/all-monitors/?new-monitors-lineup-2024",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Books Download Center",
+                                "englishName": "galaxy books download center",
+                                "linkType": "new",
+                                "linkUrl": "//www.samsung.com/global/galaxybooks-downloadcenter/?siteCode=in",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Galaxy Book",
+                        "englishName": "galaxy book and laptops",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Discover Galaxy\u00a0Book",
+                                "englishName": "discover galaxy book",
+                                "linkType": "move",
+                                "linkUrl": "/in/galaxy-book/galaxy-book4-series/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book4 Ultra",
+                                "englishName": "Galaxy Book4 Ultra",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?%20galaxy-book+galaxy-book4",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book4 Pro 360",
+                                "englishName": "galaxy book4 pro 360",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?galaxy-book-360+galaxy-book4",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230126|20230731",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book4 Pro",
+                                "englishName": "galaxy book4 pro",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?galaxy-book4",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230126|20230731",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book4 360",
+                                "englishName": "galaxy book4 360",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?galaxy-book-360+galaxy-book4",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230126|20230731",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book4",
+                                "englishName": "Galaxy Book4",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?galaxy-book+galaxy-book4",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Galaxy Book3",
+                                "englishName": "galaxy book3",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?galaxy-book+galaxy-book3",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "true",
+                                "badgeType": "new",
+                                "badgeText": "NEW",
+                                "badgePeriod": "20230126|20230731",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Windows 11",
+                                "englishName": "windows 11",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/windows-11/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Accessories",
+                                "englishName": "accessories",
+                                "linkType": "move",
+                                "linkUrl": "/in/computer-accessories/all-computer-accessories/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "All Galaxy\u00a0Book",
+                                "englishName": "all galaxy book",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Galaxy Book By Size",
+                        "englishName": "galaxy book by size",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "3",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "38.1cm (15\") - 40.62cm (16\")",
+                                "englishName": "156 to 160",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?150-160",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "33.02cm (13\") - 37.84cm (14.9\")",
+                                "englishName": "130 to 149",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/?13-149",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "All Galaxy Book By Size",
+                                "englishName": "all galaxy book by size",
+                                "linkType": "move",
+                                "linkUrl": "/in/computers/all-computers/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Monitors",
+                        "englishName": "monitors",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "4",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Monitors",
+                                "englishName": "all monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/all-monitors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Gaming Monitor",
+                                "englishName": "gaming monitor",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/gaming/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Smart Monitor",
+                                "englishName": "smart monitor",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/smart/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "High Resolution Monitor",
+                                "englishName": "high resolution monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/high-resolution/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Curved Monitor",
+                                "englishName": "curved monitor",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/curved/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Flat Monitor",
+                                "englishName": "Flat Monitor",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/flat/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Business Monitor",
+                                "englishName": "business monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/business/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Discover Monitors",
+                                "englishName": "discover monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Memory & Storage",
+                        "englishName": "memory and storage",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "5",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Discover Memory\u00a0&\u00a0Storage",
+                                "englishName": "discover memory and storage",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "NVMe SSD",
+                                "englishName": "nvme ssd",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/nvme-ssd/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "SATA  SSD",
+                                "englishName": "sata ssd",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/sata-ssd/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Portable SSD",
+                                "englishName": "portable ssd",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/portable-ssd/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "24000000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "Memory Cards",
+                                "englishName": "memory cards",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/memory-card/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "groupCode": "24000000",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "USB Flash Drive",
+                                "englishName": "usb flash drive",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/usb-flash-drive/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "All Memory\u00a0&\u00a0Storage",
+                                "englishName": "all memory and storage",
+                                "linkType": "move",
+                                "linkUrl": "/in/memory-storage/all-memory-storage/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Displays",
+            "englishName": "displays",
+            "linkType": "move",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Monitors",
+                        "englishName": "monitors",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "New 2024 Monitors Lineup",
+                                "englishName": "New 2024 Monitors Lineup",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/all-monitors/?new-monitors-lineup-2024",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover Monitors",
+                                "englishName": "discover monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "For Business",
+                                "englishName": "business",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/business/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "isBadgeDisplay": false
+                            },
+                            {
+                                "displayName": "All Monitors",
+                                "englishName": "all monitors",
+                                "linkType": "move",
+                                "linkUrl": "/in/monitors/all-monitors/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "For Business",
+                        "englishName": "for business",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Business Display Solution",
+                                "englishName": "business display solution",
+                                "linkType": "move",
+                                "linkUrl": "/in/business/displays/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Smart\u00a0Signage",
+                                "englishName": "smart signage",
+                                "linkType": "move",
+                                "linkUrl": "/in/business/smart-signage/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "LED\u00a0Signage",
+                                "englishName": "led signage",
+                                "linkType": "move",
+                                "linkUrl": "/in/business/led-signage/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Accessories",
+            "englishName": "accessories",
+            "linkType": "move",
+            "linkUrl": "/in/accessories/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": false,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "SmartThings",
+            "englishName": "smartthings",
+            "linkType": "move",
+            "linkUrl": "/in/smartthings/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": false,
+            "level1List": [],
+            "layoutType": "l1only",
+            "ftImageAreaTitle": "New & Featured",
+            "containerAlignment": "left",
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "Air Conditioners",
+            "englishName": "Air Conditioners",
+            "linkType": "move",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "left",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Residential",
+                        "englishName": "Residential",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Residential ACs",
+                                "englishName": "All Residential ACs",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-conditioners/all-air-conditioners/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "BESPOKE AI",
+                                "englishName": "bespoke ai",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-conditioners/all-air-conditioners/?wi-fi-enabled",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "WindFree\u2122 AC",
+                                "englishName": "WindFree\u2122 AC",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-conditioners/all-air-conditioners/?wind-free",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Convertible  5in1 AC",
+                                "englishName": "Convertible  5in1 AC",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-conditioners/all-air-conditioners/?convertible-5in1",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Discover Air Conditioners",
+                                "englishName": "discover air conditioners",
+                                "linkType": "move",
+                                "linkUrl": "/in/air-conditioners/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "displayName": "Commercial Air Conditioners",
+                        "englishName": "Commercial Air Conditioners",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "All Commercial ACs",
+                                "englishName": "All Commercial ACs",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/all-system-air-conditioners/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "VRF",
+                                "englishName": "vrf",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/dvms2/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Cassette Ac",
+                                "englishName": "Cassette Ac",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/all-system-air-conditioners/?cassette",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Chiller",
+                                "englishName": "Chiller",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/chiller/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Ventilation",
+                                "englishName": "Ventilation",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/ventilation-erv/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Controller",
+                                "englishName": "Controller",
+                                "linkType": "new",
+                                "linkUrl": "/in/business/system-air-conditioners/controls/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        }
+    ],
+    "gnbRightModelList": [
+        {
+            "displayName": "Support",
+            "englishName": "support",
+            "linkType": "move",
+            "linkUrl": "/in/support/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "right",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": true,
+            "layoutType": "l1l2spread",
+            "containerAlignment": "left",
+            "level1ColumnList": [
+                [
+                    {
+                        "displayName": "Product Help",
+                        "englishName": "product help",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "1",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Support Home",
+                                "englishName": "support home",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Manual and Software",
+                                "englishName": "manual and software",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/user-manuals-and-guide/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Search Support",
+                                "englishName": "search support",
+                                "linkType": "move",
+                                "linkUrl": "/in/search/?searchvalue=Smartphones%20support",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Digital Service Center",
+                                "englishName": "digital service center",
+                                "linkType": "move",
+                                "linkUrl": "https://samsungdigitalservicecenter.com/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "How-to Videos",
+                                "englishName": "how to videos",
+                                "linkType": "new",
+                                "linkUrl": "https://samsungdigitalservicecenter.com/DIY-videos",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "SHOP FAQ",
+                                "englishName": "shop faq",
+                                "linkType": "new",
+                                "linkUrl": "/in/shop-faq/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Repairs & Warranty",
+                        "englishName": "repairs and warranty",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "2",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "Warranty Information",
+                                "englishName": "warranty information",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/warranty/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Service Locator",
+                                "englishName": "service locator",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/service-center/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Book a Repair",
+                                "englishName": "book a repair",
+                                "linkType": "move",
+                                "linkUrl": "/in/mypage/myproducts/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Track Repair",
+                                "englishName": "track repair",
+                                "linkType": "move",
+                                "linkUrl": "/in/mypage/myrepair/track-repair/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Out of warranty Repair Charges",
+                                "englishName": "out of warranty repair charges",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/out-of-warranty-repair-charges/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Phone spare part cost",
+                                "englishName": "phone spare part cost",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/spare-part-pricing-list-for-repair/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Contact",
+                        "englishName": "contact",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "3",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "WhatsApp Us",
+                                "englishName": "whatsapp us",
+                                "linkType": "move",
+                                "linkUrl": "https://wa.me/91180057267864?text=hi",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Email",
+                                "englishName": "email",
+                                "linkType": "new",
+                                "linkUrl": "https://samsungdigitalservicecenter.com/?action=email",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Call",
+                                "englishName": "call",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/contact/#contactinfo",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Sign Language",
+                                "englishName": "sign language",
+                                "linkType": "move",
+                                "linkUrl": "https://wa.me/91180057267864?text=hi",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Care for clean India",
+                                "englishName": "care for clean india",
+                                "linkType": "move",
+                                "linkUrl": "/in/microsite/care-for-clean-india/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Community",
+                                "englishName": "Community",
+                                "linkType": "move",
+                                "linkUrl": "https://r2.community.samsung.com/t5/Tips-How-to/bg-p/in-community-blog-cs?page=1&tab=recent_topics",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "displayName": "Additional Info",
+                        "englishName": "additional info",
+                        "linkType": "move",
+                        "displayFlag": "Y",
+                        "mobileOnlyFlag": "N",
+                        "layoutColumn": "4",
+                        "hasChildren": true,
+                        "level2List": [
+                            {
+                                "displayName": "News & Alerts",
+                                "englishName": "news and alerts",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/newsalert/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "Smart Switch",
+                                "englishName": "smart switch",
+                                "linkType": "move",
+                                "linkUrl": "/in/apps/smart-switch/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            },
+                            {
+                                "displayName": "TV spare part cost",
+                                "englishName": "tv spare part cost",
+                                "linkType": "move",
+                                "linkUrl": "/in/support/tv-spare-part-price/",
+                                "displayFlag": "Y",
+                                "mobileOnlyFlag": "N",
+                                "badgeFlag": "false",
+                                "isBadgeDisplay": false,
+                                "shopLiveUseFlag": "false"
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        },
+        {
+            "displayName": "For Business",
+            "englishName": "for business",
+            "linkType": "move",
+            "linkUrl": "/in/business/",
+            "displayFlag": "Y",
+            "mobileOnlyFlag": "N",
+            "menuPosition": "right",
+            "apiUseFlag": false,
+            "ftImageUseFlag1": false,
+            "ftImageUseFlag2": false,
+            "ftImageUseFlag3": false,
+            "ftImageUseFlag4": false,
+            "ftImageUseFlag5": false,
+            "ftImageUseFlag6": false,
+            "ftImageUseFlag7": false,
+            "ftImageUseFlag8": false,
+            "ftImageUseFlag9": false,
+            "hasChildren": false,
+            "level1List": [],
+            "layoutType": "l1only",
+            "ftImageAreaTitle": "New & Featured",
+            "containerAlignment": "left",
+            "ftbadgeDisplay1": false,
+            "ftbadgeDisplay2": false,
+            "ftbadgeDisplay3": false,
+            "ftbadgeDisplay4": false,
+            "ftbadgeDisplay5": false,
+            "ftbadgeDisplay6": false,
+            "ftbadgeDisplay7": false,
+            "ftbadgeDisplay8": false,
+            "ftbadgeDisplay9": false
+        }
+    ],
+    "beforeLoginModel": {
+        "displayName": "Before Login",
+        "englishName": "before_login",
+        "apiUseFlag": false,
+        "ftImageUseFlag1": false,
+        "ftImageUseFlag2": false,
+        "ftImageUseFlag3": false,
+        "ftImageUseFlag4": false,
+        "ftImageUseFlag5": false,
+        "ftImageUseFlag6": false,
+        "ftImageUseFlag7": false,
+        "ftImageUseFlag8": false,
+        "ftImageUseFlag9": false,
+        "hasChildren": true,
+        "level1List": [
+            {
+                "displayName": "Orders",
+                "englishName": "orders",
+                "linkType": "move",
+                "linkUrl": "/in/web/search-orders/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Product Registration\n",
+                "englishName": "product registration",
+                "linkType": "move",
+                "linkUrl": "/in/mypage/myproducts/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "layoutColumn": "1",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Digital Service Center",
+                "englishName": "digital service center",
+                "linkType": "move",
+                "linkUrl": "https://www.samsungdigitalservicecenter.com/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            }
+        ],
+        "ftbadgeDisplay1": false,
+        "ftbadgeDisplay2": false,
+        "ftbadgeDisplay3": false,
+        "ftbadgeDisplay4": false,
+        "ftbadgeDisplay5": false,
+        "ftbadgeDisplay6": false,
+        "ftbadgeDisplay7": false,
+        "ftbadgeDisplay8": false,
+        "ftbadgeDisplay9": false
+    },
+    "afterLoginModel": {
+        "displayName": "After Login",
+        "englishName": "after_login",
+        "apiUseFlag": false,
+        "ftImageUseFlag1": false,
+        "ftImageUseFlag2": false,
+        "ftImageUseFlag3": false,
+        "ftImageUseFlag4": false,
+        "ftImageUseFlag5": false,
+        "ftImageUseFlag6": false,
+        "ftImageUseFlag7": false,
+        "ftImageUseFlag8": false,
+        "ftImageUseFlag9": false,
+        "hasChildren": true,
+        "level1List": [
+            {
+                "displayName": "My Page",
+                "englishName": "my page",
+                "linkType": "move",
+                "linkUrl": "/in/mypage/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Orders",
+                "englishName": "orders",
+                "linkType": "move",
+                "linkUrl": "/in/web/mypage/orders/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Wishlist",
+                "englishName": "wishlist",
+                "linkType": "move",
+                "linkUrl": "/in/web/mypage/wishlist/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Smart Club",
+                "englishName": "smart club",
+                "linkType": "move",
+                "linkUrl": "/in/web/loyalty-home/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Product Registration\n",
+                "englishName": "product registration",
+                "linkType": "move",
+                "linkUrl": "/in/mypage/myproducts/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "layoutColumn": "1",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Digital Service Center",
+                "englishName": "digital service center",
+                "linkType": "move",
+                "linkUrl": "https://www.samsungdigitalservicecenter.com/",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            },
+            {
+                "displayName": "Community",
+                "englishName": "community",
+                "linkType": "move",
+                "linkUrl": "https://r2.community.samsung.com/t5/India/ct-p/in?profile.language=en",
+                "displayFlag": "Y",
+                "mobileOnlyFlag": "N",
+                "hasChildren": false
+            }
+        ],
+        "ftbadgeDisplay1": false,
+        "ftbadgeDisplay2": false,
+        "ftbadgeDisplay3": false,
+        "ftbadgeDisplay4": false,
+        "ftbadgeDisplay5": false,
+        "ftbadgeDisplay6": false,
+        "ftbadgeDisplay7": false,
+        "ftbadgeDisplay8": false,
+        "ftbadgeDisplay9": false
+    },
+    "gnbUtilModel": {
+        "isLogin": "Y",
+        "isCart": "Y",
+        "shopIntegrationFlag": "GPv2",
+        "loginLinkUrl": "https://account.samsung.com/accounts/v1/Samsung_com_IN/signInGate",
+        "logoutUrl": "https://account.samsung.com/accounts/v1/Samsung_com_IN/signOutGate",
+        "stgloginLinkUrl": "https://stg-account.samsung.com/accounts/v1/Samsung_com_IN/signInGate",
+        "stglogoutUrl": "https://stg-account.samsung.com/accounts/v1/Samsung_com_IN/signOutGate",
+        "preqaloginLinkUrl": "https://stg-account.samsung.com/accounts/v1/Samsung_com_IN/signInGate",
+        "preqalogoutUrl": "https://stg-account.samsung.com/accounts/v1/Samsung_com_IN/signOutGate",
+        "SAsignOutURL": "/aemapi/v6/data-login/afterLogout.in.json",
+        "loginAccountServiceId": "28xws2p2v3",
+        "SAserviceName": "SAMSUNG",
+        "countryCode": "IN",
+        "countryIsoCode": "IND",
+        "languageCode": "en",
+        "registURL": "/aemapi/v6/data-login/afterLogin.in.json",
+        "stgStoreDomain": "https://s6ro-live.samsung.com/in/api",
+        "preqaStoreDomain": "https://in.ecom-qa.samsung.com",
+        "preqa2StoreDomain": "https://in.ecom-stg.samsung.com",
+        "uatStoreDomain": "https://hshopfront.samsung.com/in/api",
+        "orderUrl": "/in/web/my-orders/",
+        "cartUrl": "/in/web/cart/",
+        "useFullCartUrl": false,
+        "emailActivationURL": "/aemapi/v6/data-login/emailActivationURL.in.json",
+        "storeDomain": "https://www.samsung.com/in/api",
+        "trackOrderUrl": "/in/web/search-orders/",
+        "privacyTag1": "<a href='/in/info/privacy/' target='_blank' class='link-text' title=\"Open in a New Window\">",
+        "privacyTag2": "</a>",
+        "wishlistUrl": "/in/web/my-wishlist/",
+        "saStoreDomain": "https://p6-qaweb-sa.samsung.com/in/api"
+    },
+    "homeLinkPath": "/in/",
+    "language": "en_IN"
+}{
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32dm700uwxxl/gallery/in-smart-m7-32m70d-ls32dm700uwxxl-541962049",
+    "name": "front Black",
+    "encoding": [
+        {
+            "@type": "MediaObject",
+            "contentUrl": "https://images.samsung.com/is/content/samsung/p6pim/in/ls32dm700uwxxl/gallery/in-smart-m7-32m70d-ls32dm700uwxxl-541962021.glb",
+            "encodingFormat": "model/gltf - binary"
+        },
+        {
+            "@type": "MediaObject",
+            "contentUrl": "https://images.samsung.com/is/content/samsung/p6pim/in/ls32dm700uwxxl/gallery/in-smart-m7-32m70d-ls32dm700uwxxl-541962022.usdz",
+            "encodingFormat": "model /vnd.usdz+zip"
+        }
+    ]
+}{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": {
+        "@type": "Brand",
+        "name": "Samsung"
+    },
+    "@id": "https://www.samsung.com/in/monitors/smart/smart-monitor-m7-32-inch-smart-tv-apps-ls32dm700uwxxl/",
+    "name": "80 cm M70D UHD 4K Smart Monitor with Smart TV experience",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32dm700uwxxl/gallery/in-smart-m7-32m70d-ls32dm700uwxxl-thumb-541962050",
+    "description": "Embedded Smart TV Apps -Netflix, YouTube, Amazon Prime video, Samsung TV plus and more.\nRemote control and built-in 10 W speakers with adaptive sound\nMultiple Ports - USB Type-C, HDMI and USB-A\nIoT Hub, Workout Tracker, Microsoft 365, Mouse & Keyboard control",
+    "sku": "LS32DM700UW",
+    "offers": {
+        "@type": "Offer",
+        "url": "https://www.samsung.com/in/monitors/smart/smart-monitor-m7-32-inch-smart-tv-apps-ls32dm700uwxxl/",
+        "priceCurrency": "INR",
+        "availability": "InStock",
+        "price": "30999"
+    }
+}{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "name": "Home",
+            "item": "https://www.samsung.com/in/",
+            "position": 1
+        },
+        {
+            "@type": "ListItem",
+            "name": "Monitors",
+            "item": "https://www.samsung.com/in/monitors/",
+            "position": 2
+        },
+        {
+            "@type": "ListItem",
+            "name": "Smart Monitor",
+            "item": "https://www.samsung.com/in/monitors/smart/",
+            "position": 3
+        },
+        {
+            "@type": "ListItem",
+            "name": "80 cm M70D UHD 4K Smart Monitor with Smart TV experience",
+            "item": "",
+            "position": 4
+        }
+    ]
+}{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Shop 80 cm M70D UHD 4K Smart Monitor | Samsung India | Samsung India",
+    "url": "https://www.samsung.com/in/monitors/smart/smart-monitor-m7-32-inch-smart-tv-apps-ls32dm700uwxxl/"
+}

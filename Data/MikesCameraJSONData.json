@@ -1,0 +1,331 @@
+{
+    "currencyCode": "USD",
+    "symbol": "$",
+    "decimal": ".",
+    "fractionDigits": 2,
+    "group": ",",
+    "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
+    "hideDecimalForWholeNumbers": false
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "EOS R50 Mirrorless Camera - Content Creator Kit",
+    "description": "<strong>Capture the Moment Just as You Imagine It</strong><br>The EOS R50 camera makes photography fun, simple, and convenient with intuitive photo functions that capture beautiful images automatically, just as you imagine them. A host of video functions such as 6K oversampled 4K 30p capture and Dual Pixel CMOS AF II makes the EOS R50 a great camera for movie recording and vlogging as well. The 24.2 Megapixel APS-C size CMOS Image sensor and DIGIC X image processor ensure high image quality in a compact and lightweight form factor.\u00a0<br><br><strong>FEATURES<br>24.2 Megapixel (APS-C) CMOS Sensor</strong><br>Equipped with a 24.2-million-pixel CMOS (APS-C) image sensor and DIGIC X Image Processor, the EOS R50 camera can capture images and videos with reduced noise, delivering clear, detailed results even in low light. Images look beautiful even when enlarged, with natural bokeh that smartphones can\u2019t offer.\u00a0<br><br><strong>Dual Pixel CMOS AF II</strong><br>Easily keep track of your subject with Dual Pixel CMOS AF II \u2013 a highly responsive system that covers up to approximately 100% x 100% of the picture area, breaking the image into up to 651 automatically-selected AF zones during Whole Area AF. This enables impressive autofocus coverage on the EOS R50 camera that helps you get the photo you want right as the moment happens.<br><br><strong>Automatic Subject Detection and Tracking</strong><br>When the subject is found on screen, the EOS R50 camera can automatically select and track the subject, enabling photography that keeps them in focus with ease. Developed using Deep Learning Technology, subjects like people, animals including dogs, cats and birds, and vehicles such as cars and motorcycles \u2014 especially in a motorsports environment \u2013 are detectable1,2.\u00a0<br><br><strong>Continuous Shooting</strong><br>Capture those can\u2019t-miss moments with up to 12 frames per second continuous shooting using the Electronic First Curtain shutter mode, and up to 15 frames per second with Electronic Shutter mode. Electronic First Curtain enables shooting with less distortion, even for subjects with significant movement. The Electronic Shutter generates no shutter noise, making it useful when photographing sleeping children, concerts, dance recitals, and other situations where silence is necessary.<br><br><strong>Advanced A+ Assist</strong><br>Experience the joy of creative photography with an expanded array of auto-compatible scenes. Advanced A+ Assist on the EOS R50 camera enables great imagery even in difficult settings such as night views and backlit scenarios. Overexposure is automatically reduced so you can capture dynamic scenes or bright portraits, and multiple continuous shots are taken to create beautiful night images or macro photography with a deeper depth of field.<br><br><strong>Vlogging Made Simple and Convenient</strong><br>With video recording features such as 6K oversampled uncropped 4K movie at up to 30 fps, Full-HD High-frame rate movie recording at up to 120 fps, Dual Pixel CMOS AF tracking, and Movie for Close-up Demo Mode, the EOS R50 camera makes vlogging and video content creation simple and convenient.<br><br><strong>Continuous Movie Recording That Exceeds 30 Minutes</strong><br>The EOS R50 camera can continuously record video for up to 1 hour, allowing you to set up your video and keep your vlog, podcast, or other video project rolling without worrying about it stopping3.<br><br><strong>Movie for Close-Up Demos Mode</strong><br>Ensure the correct subject is in focus with Movie for Close-up Demos Mode on the EOS R50 camera. This mode quickly switches focus from the on-camera subject to an object that is presented towards the camera\u2019s lens, ideal for movies where showing a product to the viewers is necessary such as in makeup demos, or cooking videos.<br><br><strong>Vertical Movie Mode and Aspect Markers</strong><br>Movie rotation information can be set during or after movie recording, allowing videos to be played in vertical composition when viewing on a smartphone. The Aspect Markers Function displays visual markers for different aspect ratios that may be desired for posting the same file to various social media sites. This display provides consideration for proper composition for the different deliverable files that can be created when editing.<br><br><strong>UVC Livestreaming</strong><br>UVC/UAC compatibility allows the EOS R50 camera to be used as a web camera to stream live video in Full HD 30 fps fixed, without additional computer software, to applications such as Zoom\u2122, Microsoft Teams\u2122, Skype\u2122, and similar on-line web conferencing software7.<br><br><strong>Vari-Angle Touchscreen LCD</strong><br>Featuring a 3.0-inch, 1.62 million dot Clear View LCD II Vari-angle Touchscreen LCD, the EOS R50 makes it easy to compose and shoot from virtually any angle. With the EOS R8 Touch and Drag AF functionality, you can intuitively and swiftly move the autofocus point on the touch-panel LCD.<br><br><strong>Precise Electronic Viewfinder</strong><br>The EOS R50 camera is equipped with a high-precision 0.39-inch OLED (Organic Light-Emitting Diode) EVF with approx. 2.36 million dots and a 22mm eyepoint which displays a bright image and extensive shooting information. The EVF supports up to a 120 fps refresh rate and has been designed to provide a bright, sharp and colorful 100% view of the subject at hand. There\u2019s also an Optical Viewfinder (OVF) Simulation setting, which provides a higher dynamic range viewfinder image for outstanding viewing in harsh, contrasty lighting situations.<br><br><strong>Wired and Wireless Communications</strong><br>The EOS R50 camera supports both wired and wireless connections to your smartphone via its USB Type-C4 port, built-in Wi-Fi\u00ae, and Bluetooth\u00ae technology, making it easy to upload and share movies and photos to your favorite social networks.\u00a0<br><br><strong>Built-in Bluetooth\u00ae Capability</strong><br>Bluetooth\u00ae pairing helps you connect the camera to compatible smart devices using the free Canon Camera Connect app. This low-energy wireless connection helps preserve battery life, while providing remote control of the camera. It also sends continuously updated GPS location data from your phone, letting you geotag what you've captured so you know precisely where you captured the photo.<br><br><strong>Built-in Wi-Fi Capability</strong><br>Enable wireless functions, such as remote live view, file viewing and transfer, by connecting to Wi-Fi quickly and seamlessly. Using the Canon Camera Connect app, you can also transfer files to your mobile device to browse and share on social media.<br><br><strong>USB-C Connection</strong><br>The EOS R50 camera can be connected to a computer or smartphone via USB-C4. All Canon Camera Connect app features that can be used with Wi-Fi are now available when the camera and smartphone are connected via USB, using a compatible cable for your device.",
+    "image": [
+        "https://cipher.dakiscdn.com/i/https://1410dd2bdd37e05ebf19-a2305060cc55ab8db83b1ef4b8835a6b.ssl.cf5.rackcdn.com/Dd0yCskMxTJhg6AcxOnafA?w=400&h=400&p=1&a=1&q=display"
+    ],
+    "sku": "91354",
+    "mpn": "5811C059",
+    "brand": {
+        "@type": "Brand",
+        "name": "Canon"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": 899,
+        "priceValidUntil": "2024-10-06",
+        "availability": "http://schema.org/InStock",
+        "url": "https://mikescamera.com/shop/canon-eos-r50-mirrorless-camera-content-creator-kit/d4845f70-d6f6-013b-430a-00163e90e196?variation=3483715"
+    }
+}{
+    "@context": {
+        "@vocab": "https://schema.org/"
+    },
+    "@graph": [
+        {
+            "@id": "https://mikescamera.com/",
+            "@type": "Organization",
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "sameAs": [
+                "https://www.facebook.com/MikesCamera",
+                "https://twitter.com/MyMikesCamera",
+                "https://www.youtube.com/c/MikesCameraTV",
+                "https://mikescamerablog.com",
+                "https://www.instagram.com/mymikescamera"
+            ]
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2500 Pearl Street",
+                "addressLocality": "Boulder",
+                "addressRegion": "CO",
+                "postalCode": "80302",
+                "telephone": "(303) 443-1715"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.com/maps/dir/Mike's+Camera+Inc/40.021128,-105.262302/@40.021128,-105.2644907,17z/data=!4m8!4m7!1m5!1m1!1s0x0:0xfd7776008bb1ef34!2m2!1d-105.2626355!2d40.021139!1m0"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "9197 East Westview Road",
+                "addressLocality": "Lone Tree",
+                "addressRegion": "CO",
+                "postalCode": "80124",
+                "telephone": "(303) 708-9655"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.com/maps/dir/Mike's+Camera+Inc/39.565306,-104.88035/@39.5653109,-104.8807979,19z/data=!4m8!4m7!1m5!1m1!1s0x0:0xf1dd92d3486b1cb8!2m2!1d-104.8809893!2d39.5652017!1m0"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "759 South Colorado Blvd.",
+                "addressLocality": "Denver",
+                "addressRegion": "CO",
+                "postalCode": "80246",
+                "telephone": "(303) 733-2121"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.com/maps/dir/Mike's+Camera+Inc/39.702301,-104.94079/@39.7025636,-104.9414279,20z/data=!4m8!4m7!1m5!1m1!1s0x0:0x1feb24f40a3298a0!2m2!1d-104.9412668!2d39.7028525!1m0"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3830 Wadsworth Blvd.",
+                "addressLocality": "Wheatridge",
+                "addressRegion": "CO",
+                "postalCode": "80033",
+                "telephone": "(303) 424-0430"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@39.7705381,-105.0795817,15z/data=!4m5!3m4!1s0x0:0xa1956e556ec85253!8m2!3d39.7705381!4d-105.0795817"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "5420 Academy Blvd N",
+                "addressLocality": "Colorado Springs",
+                "addressRegion": "CO",
+                "postalCode": "80918",
+                "telephone": "(719) 597-1575"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@38.9070518,-104.7832862,15z/data=!4m5!3m4!1s0x0:0x22b265664af4beec!8m2!3d38.9070518!4d-104.7832862"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "715 Santa Cruz Avenue",
+                "addressLocality": "Menlo Park",
+                "addressRegion": "CA",
+                "postalCode": "94025",
+                "telephone": "(650) 323-7701"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@37.4517416,-122.1842263,15z/data=!4m2!3m1!1s0x0:0x534e845670b77368?sa=X&ved=0ahUKEwjDtYzIjo7TAhVG02MKHdzUBYkQ_BIIbTAK"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "214 Strawberry Village",
+                "addressLocality": "Mill Valley",
+                "addressRegion": "CA",
+                "postalCode": "94941",
+                "telephone": "(415) 383-6477"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@37.8982997,-122.5150021,15z/data=!4m2!3m1!1s0x0:0x6c80df764bdbf64?sa=X&ved=0ahUKEwiR44ePjo7TAhVB4WMKHRfpAbEQ_BIIZTAK"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "7192 Regional Street",
+                "addressLocality": "Dublin",
+                "addressRegion": "CA",
+                "postalCode": "94568",
+                "telephone": "(925) 829-3670"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@37.7046832,-121.9360009,15z/data=!4m2!3m1!1s0x0:0x1d9aa287206c3c00?sa=X&ved=0ahUKEwiCl83wjo7TAhVUVWMKHZ0jBLQQ_BIIcDAK"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2200 J Street",
+                "addressLocality": "Sacramento",
+                "addressRegion": "CA",
+                "postalCode": "95816",
+                "telephone": "(916) 444-6080"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera+Inc/@38.5757811,-121.4770539,15z/data=!4m2!3m1!1s0x0:0x9cb822f4d1197f61?sa=X&ved=0ahUKEwiS5snjkY7TAhVP4GMKHafoCFQQ_BIIbDAK"
+        },
+        {
+            "@type": "LocalBusiness",
+            "parentOrganization": {
+                "name": "Mike's Camera"
+            },
+            "name": "Mike's Camera",
+            "url": "https://mikescamera.com/",
+            "logo": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png",
+            "priceRange": "$$",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://assets-global.website-files.com/5babdde83d8728da62f47aa5/5d1b5565a694d6fb32e1aa49_19_MC_Stacked_Logo_DarkGray_Trademark_FINAL-p-500.png"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2170 Contra Costa Blvd.",
+                "addressLocality": "Pleasant Hill",
+                "addressRegion": "CA",
+                "postalCode": "94523",
+                "telephone": "(925) 827-1571"
+            },
+            "openingHours": [
+                "Mo-Fr 9:00-19:00",
+                "Sa 10:00-17:00",
+                "Su 11:00-17:00"
+            ],
+            "hasmap": "https://www.google.ca/maps/place/Mike's+Camera/@37.9472794,-122.059871,15z/data=!4m2!3m1!1s0x0:0x6b47e0abbd4dd7d4?sa=X&ved=0ahUKEwili43ilY7TAhXJyoMKHdDDCmgQ_BIIbjAK"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Canon EOS R8 Mirrorless Camera - Body Only",
+    "description": "Default variation",
+    "image": [
+        "https://cipher.dakiscdn.com/i/https://1410dd2bdd37e05ebf19-a2305060cc55ab8db83b1ef4b8835a6b.ssl.cf5.rackcdn.com/FzIBshHnCOpkgscnYaURwA?w=400&h=400&p=1&a=1&q=display"
+    ],
+    "sku": "62036",
+    "mpn": "5803C002",
+    "gtin": "013803351354",
+    "brand": {
+        "@type": "Brand",
+        "name": "Canon"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": 1299.99,
+        "priceValidUntil": "2024-09-29",
+        "availability": "http://schema.org/InStock",
+        "url": "https://bergencountycamera.com/shop/canon-eos-r8-mirrorless-camera-body-only/fb57cb30-8879-013b-391d-00163e90e196?variation=3390479"
+    }
+}{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Westwood",
+        "addressRegion": "NJ",
+        "postalCode": "07675",
+        "streetAddress": "270 Westwood Avenue"
+    },
+    "description": "Make us your imaging specialist for digital cameras, film cameras, accessories, printing services, binoculars, passport photos, equipment repairs, sensor cleaning, equipment rentals & more.",
+    "name": "Bergen County Camera",
+    "telephone": "201-664-4113",
+    "openingHours": "Mo,Tu,We  10:00-18:00,Th  10:00-21:00,Fr 10:00-18:00,Sa 9:00-18:00",
+    "image": "https://cdn.prod.website-files.com/5979e04f8ce136000121f712/597f78bb5ec1ba00015ca4f2_logo-bcc-new.png",
+    "priceRange": "$$",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.992981",
+        "longitude": "-74.029980"
+    },
+    "sameAs": [
+        "https://facebook.com/bergencountycamera",
+        "https://youtube.com/bergencountycamera",
+        "https://www.instagram.com/bergencountycamera",
+        "https://plus.google.com/+bergencountycamera",
+        "https://twitter.com/bccamera"
+    ]
+}
