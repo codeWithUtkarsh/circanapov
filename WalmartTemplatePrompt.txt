@@ -1,0 +1,29 @@
+You are a coding assistant. You have to take this input JSON file and generate a JSON Path expression to extract below information from attached JSON. You can use your inference logic to map corresponding fields to the JSON. I want you to generate JSON Path expressions for below keys
+
+[ "ProductName", "shippingPolicy", "ReturnPolicy", "Price", "Screen size", "Ram memory", "Battery life", "Weight", "Touchscreen", "Resolution", "OS", "Brand", "Max RAM", "Description", "Hard Drive Capacity", "Operating System", "Processor Core Type", "Maximum RAM Supported", "Processor Speed", "Condition", "Video Game Platform", "Manufacturer Part Number", "Model", "Product Line", "Manufacturer", "Processor Brand", "Wireless Technology", "Accessories Included", "Optical Disk Drive Type", "RAM Memory Speed", "Solid State Drive Capacity", "RAM Memory Type", "Inputs & Outputs", "Video Memory", "Assembled Product Dimensions (L x W x H)", "ShortDescription", "warranty", "discounts", "rewards", "promoDiscount", "availabilityStatus", "brandUrl", "model", "shippingPromise", "canonicalUrl", "catalogSellerId", "sellerAverageRating", "sellerReviewCount", "Electronics", "Premium Tech", "Premium Laptops", "All Premium Laptops", "classType", "fulfillmentTitle", "fulfillmentType", "fulfillment ShippingOptionV2", "fulfillment locationText", "fulfillment PickupOptionV2", "fulfillment DeliveryOptionV2", "conditionType", "image1", "image2", "image3", "image4", "image5", "image6", "image7", "image8", "image9", "image10", "postalCode", "stateOrProvinceCode", "city", "storeIds", "price", "priceString", "currencyUnit", "sellerId", "sellerName", "sellerDisplayName", "type", "salesUnit", "sellerType", "ironbankCategory" ]
+
+I will give you example like below:
+
+"ProductName": "props/pageProps/initialData/data/product/name",
+"UPC": {current_date_min},
+"shippingPolicy": "props/pageProps/initialData/data/product/fulfillmentLabel/2/shippingText",
+"ReturnPolicy": "props/pageProps/initialData/data/product/returnPolicy/returnPolicyText",
+"Price": "props/pageProps/initialData/data/product/priceInfo/currentPrice/priceString",
+"ProductHighlights": "props/pageProps/initialData/data/idml/productHighlights",
+"Description": "props/pageProps/initialData/data/idml/longDescription",
+"Specifications": "props/pageProps/initialData/data/idml/specifications",
+"ShortDescription": "props/pageProps/initialData/data/idml/shortDescription",
+"Product": "props/pageProps/initialData/data/product",
+"BrandUrl": "props/pageProps/initialData/data/product/brandUrl",
+"IDML": "props/pageProps/initialData/data/idml",
+"Reviews": "props/pageProps/initialData/data/reviews",
+"ImageURL": "props/pageProps/initialData/data/image"
+
+
+
+You are saying  it might be found under specifications but get the entire path go deep and give me complex json path expression. If it is under specifications go deep till and extract entire expression. 
+
+To wrap props/pageProps/initialData/data/product/name in ""
+use
+ctrl+f -> props/pageProps/initialData/(.*)
+Replace -> "$0$1"

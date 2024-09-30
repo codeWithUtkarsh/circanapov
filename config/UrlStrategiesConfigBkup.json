@@ -1,0 +1,275 @@
+{
+  "walmart": {
+    "Strategy1": {
+      "class": "Walmart",
+      "URLidentifier": "www.walmart.com/ip/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL",
+      "DataFetchType": "fulljson"
+    },
+    "Strategy2": {
+      "class": "Walmart",
+      "URLidentifier": "www.walmart.com/search/",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL",
+      "DataFetchType": "fulljson"
+    },
+    "Strategy3": {
+      "class": "Walmart",
+      "URLidentifier": "www.walmart.com/search/",
+      "Valueidentifier": ["UPC", "Description"],
+      "Method": "findBySKUDescURL",
+      "DataFetchType": "fulljson"
+    }
+  },
+  "amazon": {
+    "Strategy1": {
+      "class": "Amazon",
+      "URLidentifier": "www.amazon.com/dp/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL",
+      "DataFetchType": "fulljson"
+    }
+  },
+  "bestbuy": {
+    "Strategy1": {
+      "class": "BestBuy",
+      "URLidentifier": "www.bestbuy.com/site/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL",
+      "DataFetchType": "fulljson"
+    }
+  },
+  "staples": {
+    "Strategy1": {
+      "class": "Staples",
+      "URLidentifier": "www.staples.com/product_",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "samys": {
+    "Strategy1": {
+      "class": "Samys",
+      "URLidentifier": "www.samys.com/p/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "samsclub": {
+    "Strategy1": {
+      "class": "SamsClub",
+      "URLidentifier": "www.samsclub.com/p/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "samsung": {
+    "Strategy1": {
+      "class": "Samsung",
+      "URLidentifier": "www.samsung.com/us/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "newegg": {
+    "Strategy1": {
+      "class": "Newegg",
+      "URLidentifier": "www.newegg.com/p/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "officedepot": {
+    "Strategy1": {
+      "class": "OfficeDepot",
+      "URLidentifier": "www.officedepot.com/a/products/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "nfm": {
+    "Strategy1": {
+      "class": "NFM",
+      "URLidentifier": "www.nfm.com/search?q=",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  },
+  "murphy": {
+    "Strategy1": {
+      "class": "Murphy",
+      "URLidentifier": "www.murphyusa.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "kohls": {
+    "Strategy1": {
+      "class": "Kohls",
+      "URLidentifier": "www.kohls.com/product/prd-",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "mikescamera": {
+    "Strategy1": {
+      "class": "MikesCamera",
+      "URLidentifier": "www.mikescamera.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "michaels": {
+    "Strategy1": {
+      "class": "Michaels",
+      "URLidentifier": "www.michaels.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "kenmorecamera": {
+    "Strategy1": {
+      "class": "KenmoreCamera",
+      "URLidentifier": "www.kenmorecamera.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "target": {
+    "Strategy1": {
+      "class": "Target",
+      "URLidentifier": "www.target.com/p/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "fivebelow": {
+    "Strategy1": {
+      "class": "FiveBelow",
+      "URLidentifier": "www.fivebelow.com/products/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "doddcamera": {
+    "Strategy1": {
+      "class": "DoddCamera",
+      "URLidentifier": "www.doddcamera.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "crutchfield": {
+    "Strategy1": {
+      "class": "Crutchfield",
+      "URLidentifier": "www.crutchfield.com/p_",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "cartoys": {
+    "Strategy1": {
+      "class": "CarToys",
+      "URLidentifier": "www.cartoys.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "canonusa": {
+    "Strategy1": {
+      "class": "CanonUSA",
+      "URLidentifier": "shop.usa.canon.com/shop/en/catalog/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "biglots": {
+    "Strategy1": {
+      "class": "BigLots",
+      "URLidentifier": "www.biglots.com/product/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "bergencountycamera": {
+    "Strategy1": {
+      "class": "BergenCountyCamera",
+      "URLidentifier": "www.bergencountycamera.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "beachcamera": {
+    "Strategy1": {
+      "class": "BeachCamera",
+      "URLidentifier": "www.beachcamera.com/shop/product/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "batteriesplus": {
+    "Strategy1": {
+      "class": "BatteriesPlus",
+      "URLidentifier": "www.batteriesplus.com/product/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "insight": {
+    "Strategy1": {
+      "class": "Insight",
+      "URLidentifier": "www.insight.com/en_US/shop/product/",
+      "Valueidentifier": ["ModelNum"],
+      "Method": "findByModelNumURL"
+    }
+  },
+  "macys": {
+    "Strategy1": {
+      "class": "Macys",
+      "URLidentifier": "www.macys.com/shop/search?keyword=",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  },
+  "pcconnection": {
+    "Strategy1": {
+      "class": "PCConnection",
+      "URLidentifier": "www.connection.com/product/",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  },
+  "rockbrookcamera": {
+    "Strategy1": {
+      "class": "RockbrookCamera",
+      "URLidentifier": "www.rockbrookcamera.com/",
+      "Valueidentifier": ["SKU"],
+      "Method": "findBySKUURL"
+    }
+  },
+  "superiorcommunications": {
+    "Strategy1": {
+      "class": "SuperiorCommunications",
+      "URLidentifier": "www.superiorcommunications.com/",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  },
+  "suppliesnetwork": {
+    "Strategy1": {
+      "class": "SuppliesNetwork",
+      "URLidentifier": "www.suppliesnetwork.com/",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  },
+  "verizon": {
+    "Strategy1": {
+      "class": "Verizon",
+      "URLidentifier": "www.verizon.com/",
+      "Valueidentifier": ["Description"],
+      "Method": "findByDescURL"
+    }
+  }
+}
